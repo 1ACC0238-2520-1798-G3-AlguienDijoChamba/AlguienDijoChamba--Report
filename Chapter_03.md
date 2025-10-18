@@ -1,10 +1,13 @@
 ## **Capítulo III: Solution UI/UX Design**
 - **3.1. Product design**
+  <br>Esta sección se centra en la fase de Diseño de Producto, detallando cómo las hipótesis validadas se traducen en la estructura, flujo y experiencia de usuario (UX) de la aplicación AlguienDijoChamba.<br><br>
+
     - **3.1.1. Style Guidelines**
 
       Esta sección establece las bases visuales y comunicacionales de AlguienDijoChamba, garantizando coherencia en toda la experiencia digital. Se crea un repositorio común para el equipo con assets gráficos, fuentes y reglas visuales que mantienen una presentación profesional, accesible y funcional.
 
         - **3.1.1.1. General Style Guidelines**
+          <br>Esta sección establece las Directrices de Estilo General de la marca, incluyendo el nombre, logotipo, paleta de colores, tipografía y tono de comunicación, asegurando una identidad visual coherente y profesional para la aplicación AlguienDijoChamba.<br><br>
 
           <br >**Nombre y logotipo** <br> <br>
           El nombre de la aplicación, es AlguienDijoChamba, transmite innovación, profesionalismo y un enfoque claro en la gestión de servicios de reparación y mantenimiento del hogar. El logotipo de AlguienDijoChamba está compuesto por una casa y una llaves inglesas incrustada que representa el trabajo de los tecnicos pedidos a domicilio. Este símbolo representa de forma clara y directa la especialización en servicios técnicos. El diseño limpio y geométrico asegura una fácil identificación y recordatorio de la marca.
@@ -32,6 +35,8 @@
           En el desarrollo de la aplicación móvil “AlguienDijoChamba” y de su landing page se ha definido un lenguaje formal, claro y cercano, alineado con el propósito y los objetivos del producto. Tanto en el diseño como en la construcción de la app y la página de aterrizaje, se han aplicado los principios fundamentales del diseño visual, asegurando coherencia, consistencia y una comunicación efectiva.
 
     - **3.1.2. Information Architecture**
+      <br>A continuación, se presenta la Arquitectura de la Información de la aplicación, detallando la organización, estructura y etiquetado de los contenidos para garantizar una navegación lógica e intuitiva para el usuario.<br><br>
+
         - **3.1.2.1. Organization Systems**
           Vamos a implementar diversos sistemas de organización según el tipo de contenido que se presente, con el objetivo de facilitar la comprensión, la navegación y la forma que interactue el usuario con nuestro app mobil.
           <br><br> **Organización visual del contenido**<br>
@@ -91,20 +96,25 @@
             - En la navegación entre pantallas, se incluirá siempre una opción para volver atrás, asegurando que el usuario tenga control total de su recorrido dentro de la app.
               <br><br>**Accesibilidad y Usabilidad:** La aplicación está diseñada con Responsive Design, lo que asegura que se adapte correctamente a distintos tamaños de pantalla dentro del ecosistema móvil.
     - **3.1.3. Landing Page UI Design**
+      <br>Esta sección muestra el Diseño de Interfaz de Usuario (UI) de la Landing Page, la cual actúa como punto de entrada y herramienta de captación, comunicando de manera clara la propuesta de valor de AlguienDijoChamba a los nuevos usuarios.<br><br>
         - **3.1.3.1. Landing Page Wireframe**
+          <br>A continuación, se presenta el Wireframe de la Landing Page, el cual define la estructura fundamental y la disposición jerárquica de los elementos clave antes de aplicar el diseño visual.<br><br>
           <br>
           **Enlace al Figma de la Landing Page:** https://www.figma.com/design/ZcdFsusLeG4RP5GM0TwIpB/Landing-Page?node-id=0-1&t=e2lefX3uya8tLLM5-1
           <br>A continuación, se muestra la landing page tal como se visualiza desde un navegador web.<br><br>
           ![imagesWireframe1](./feature/chapter3/Landing_Wireframe.png)
 
         - **3.1.3.2. Landing Page Mock-up**
+          <br>Esta sección muestra el Mock-up de la Landing Page, la representación visual final que aplica las directrices de estilo y la arquitectura de información para su desarrollo.<br><br>
           <br>
           **Enlace al Figma de la Landing Page:** https://www.figma.com/design/ZcdFsusLeG4RP5GM0TwIpB/Landing-Page?node-id=0-1&t=e2lefX3uya8tLLM5-1
           <br>El wireframe para desktop guió la disposición de los elementos, y el mock-up finalizo con las secciones propuestas.<br><br>
           ![imagesWireframe1](./feature/chapter3/Landing_Mock_Ups.png)
           <br><br>
     - **3.1.4. Mobile Applications UX/UI Design**
+      <br>Esta sección se enfoca en el Diseño UX/UI de las Aplicaciones Móviles, detallando la experiencia y la interfaz para los usuarios (clientes) y los técnicos, asegurando usabilidad y consistencia en ambas plataformas.<br><br>
         - **3.1.4.1. Mobile Applications Wireframes**
+          <br>Esta sección presenta los Wireframes de las Aplicaciones Móviles, que definen la estructura, el flujo de navegación y la disposición del contenido para las interfaces de los Clientes y de los Técnicos antes de aplicar el diseño visual final.<br><br>
           <br>
           **Enlace al Figma del Mobil Application Wireframes:** https://www.figma.com/design/PeLAC5bn6HtSfybmA78rXe/Wireframes?t=e2lefX3uya8tLLM5-1
 
@@ -164,6 +174,7 @@
           ![imagesWireframeMobileApplication20](./feature/chapter3/Mobile_Applications_Wireframes/Technician/Avalibility_Tecnician_2.png)
           <br> <br>
         - **3.1.4.2. Mobile Applications Wireflow Diagrams**
+          <br>Esta sección presenta los Diagramas de Flujo (Wireflow Diagrams) de las aplicaciones móviles, mapeando visualmente el recorrido del usuario a través de las diferentes pantallas y mostrando la lógica de interacción de funciones clave.<br><br>
           <br>
           **Enlace al LucidShart del Mobile Applications User Flow Diagrams:** https://lucid.app/lucidchart/d428fcd4-907b-46e0-b414-33d3837168e1/edit?viewport_loc=-6752%2C-1346%2C11674%2C8944%2C0_0&invitationId=inv_0fbb098a-87f0-470f-a144-5961d011abb1
           <br>
@@ -195,6 +206,7 @@
           <br> <br>
 
         - **3.1.4.3. Mobile Applications Mock-ups**
+          <br>A continuación, se presentan los Mock-ups de las Aplicaciones Móviles, que muestran el diseño de interfaz de usuario (UI) final para las plataformas de Clientes y Técnicos, incluyendo la aplicación de todos los elementos visuales definidos.<br><br>
           <br>
           **Enlace al Figma del Mobile Applications Mock-ups:** https://www.figma.com/design/gixtO1KKFxurOMzcb4xiw6/Mock-UP?node-id=9-2217&t=e2lefX3uya8tLLM5-1
           <br>
@@ -288,6 +300,7 @@
           ![imagesMockUpsMobileApplication1](./feature/chapter3/Mobile_Applications_Mock_Ups/Technician/6_gamification/gamification_3.png)
           <br> <br>
         - **3.1.4.4. Mobile Applications User Flow Diagrams**
+          <br>Esta sección detalla los Diagramas de Flujo de Usuario que ilustran la secuencia completa de pasos e interacciones que el cliente y el técnico realizan para completar tareas clave dentro de las aplicaciones.<br><br>
           <br>
           **Enlace al LucidShart del Mobile Applications User Flow Diagrams:** https://lucid.app/lucidchart/d428fcd4-907b-46e0-b414-33d3837168e1/edit?viewport_loc=-6752%2C-1346%2C11674%2C8944%2C0_0&invitationId=inv_0fbb098a-87f0-470f-a144-5961d011abb1
           <br>
@@ -469,6 +482,7 @@
           ![imagesUserFlowDiagramsMobileApplication1](./feature/chapter3/Mobile_Applications_User_Flow_Diagrams/3_User_Stories/US27.png)
           <br>
         - **3.1.4.5. Mobile Applications Prototyping**
+          <br>A continuación, se presenta el video demostrativo donde se evidencia el prototipo interactivo de las aplicaciones móviles, mostrando el flujo de usuario y la experiencia de interacción final.<br><br>
         -   https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220219_upc_edu_pe/EciqPmDFUihCogDjFt9cKa0BhRGdzIc73tPf1ZuHBwkBnA?e=GSS7hW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
         - **Link del video:** [https://acortar.link/rnHeKG](https://acortar.link/rnHeKG)
 
