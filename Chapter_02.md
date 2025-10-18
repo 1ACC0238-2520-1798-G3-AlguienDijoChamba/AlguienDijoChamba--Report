@@ -275,17 +275,17 @@
 
       Esta herramienta permite identificar y clasificar las actividades clave que realiza cada segmento, considerando la frecuencia con la que las llevan a cabo y el nivel de importancia que representan dentro de su interacción con la plataforma.
 
-      | Tarea | Profesionales Técnicos (Frecuencia / Importancia) | Clientes (Frecuencia / Importancia) |
-            |-------|---------------------------------------------------|-------------------------------------|
-      | Registrarse en la plataforma | Baja / Alta | Baja / Media |
-      | Completar perfil y certificaciones | Baja / Alta | - |
-      | Recibir notificaciones de servicios | Frecuente / Alta | - |
-      | Aceptar o rechazar solicitudes | Frecuente / Alta | - |
-      | Buscar técnicos según ubicación y oficio | - | Frecuente / Alta |
-      | Revisar perfiles y calificaciones | - | Frecuente / Alta |
-      | Agendar y confirmar servicio | - | Frecuente / Alta |
-      | Calificar al técnico | - | Frecuente / Alta |
-      | Participar en gamificación (niveles, puntos, recompensas) | Frecuente / Media | Frecuente / Media |
+      | Tarea                                                     | Profesionales Técnicos (Frecuencia / Importancia) | Clientes (Frecuencia / Importancia) |
+            |-----------------------------------------------------------|---------------------------------------------------|-------------------------------------|
+      | Registrarse en la plataforma                              | Baja / Alta                                       | Baja / Media                        |
+      | Completar perfil y certificaciones                        | Baja / Alta                                       | -                                   |
+      | Recibir notificaciones de servicios                       | Frecuente / Alta                                  | -                                   |
+      | Aceptar o rechazar solicitudes                            | Frecuente / Alta                                  | -                                   |
+      | Buscar técnicos según ubicación y oficio                  | -                                                 | Frecuente / Alta                    |
+      | Revisar perfiles y calificaciones                         | -                                                 | Frecuente / Alta                    |
+      | Agendar y confirmar servicio                              | -                                                 | Frecuente / Alta                    |
+      | Calificar al técnico                                      | -                                                 | Frecuente / Alta                    |
+      | Participar en gamificación (niveles, puntos, recompensas) | Frecuente / Media                                 | Frecuente / Media                   |
 
       Del análisis de esta matriz, se observa que:
         - Para los **técnicos**, las actividades más críticas son **recibir notificaciones** y **aceptar/rechazar solicitudes**, ya que determinan la generación de ingresos y la continuidad de su trabajo.
