@@ -1,11 +1,11 @@
 ## **Capítulo II: Requirements Elicitation \& Analysis**
 - **2.1. Competidores**
 
-  | Competidor| Descripción| Características| Logo
-      |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------|
-  | **Ayfix**     | Conecta a técnicos con usuarios para limpieza y reparaciones comunes, usando como canales principales apps móviles y páginas web. | Canal de distribución principal: Aplicaciones de descarga y páginas web | <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQupxHnI-Nv3HXRk4g3yrOiJyiCWJt9SuBYKHbZyI1FhkSG8v8Yn9j1tG2ElMZ5z8vy-fMJ1CvezZGPVLwA8nb5o5_Qsx8WVNhej_TC1YXp_1RvBROBO2zFKa5lybz9T9snOGzRg?key=7rHwqlj_RdIsExdWTIYPrLCO" /> |
-  | **Servicio Técnico de empresas como Sodimac o Maestro** | Ofrecen mantenimiento del hogar, pero con procesos más tradicionales y menor flexibilidad en comparación con plataformas digitales. | Canal de distribución principal: Página web, tienda física y atención telefónica. | <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfAk3n-xv8nhRYxZsWZm3wb_QYbbHg8fe9zXodXQVETc1OQTdQihFHRXWWt6ElvAi2wpAwbY98pOZXFSLkLcxlZsaD1y_X4RX6OR35ix_58EQbldSAmt7jF7D2DKb-dEi56HAeDbA?key=7rHwqlj_RdIsExdWTIYPrLCO"/> |
-  | **Sistemas de domótica (como Google Nest o Xiaomi Home)** | Ofrecen soluciones inteligentes para el hogar, pero con costos elevados y sin conexión directa con técnicos locales. | Canal de distribución principal: Página web y tienda física. | <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdonNQaiL2E0e4X5_Uz6KIHTyCuVqdWzz0q550v4adqZF983mpBHpLrvdQB9ZO0WqiqdGk3w1N5lDZ36KeZ8ijedQdV4qTQCD5DnIyMLQNnM-urCB-A8xlJzLkQ5dvk7v7rngffsQ?key=7rHwqlj_RdIsExdWTIYPrLCO"/> |
+  | Competidor                                                 | Descripción                                                                                                                          | Características                                                                   | Logo                                                                                                                                                                                                                                    |
+      |------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  | **Ayfix**                                                  | Conecta a técnicos con usuarios para limpieza y reparaciones comunes, usando como canales principales apps móviles y páginas web.    | Canal de distribución principal: Aplicaciones de descarga y páginas web           | <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQupxHnI-Nv3HXRk4g3yrOiJyiCWJt9SuBYKHbZyI1FhkSG8v8Yn9j1tG2ElMZ5z8vy-fMJ1CvezZGPVLwA8nb5o5_Qsx8WVNhej_TC1YXp_1RvBROBO2zFKa5lybz9T9snOGzRg?key=7rHwqlj_RdIsExdWTIYPrLCO" />    |
+  | **Servicio Técnico de empresas como Sodimac o Maestro**    | Ofrecen mantenimiento del hogar, pero con procesos más tradicionales y menor flexibilidad en comparación con plataformas digitales.  | Canal de distribución principal: Página web, tienda física y atención telefónica. | <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfAk3n-xv8nhRYxZsWZm3wb_QYbbHg8fe9zXodXQVETc1OQTdQihFHRXWWt6ElvAi2wpAwbY98pOZXFSLkLcxlZsaD1y_X4RX6OR35ix_58EQbldSAmt7jF7D2DKb-dEi56HAeDbA?key=7rHwqlj_RdIsExdWTIYPrLCO"/>     |
+  | **Sistemas de domótica (como Google Nest o Xiaomi Home)**  | Ofrecen soluciones inteligentes para el hogar, pero con costos elevados y sin conexión directa con técnicos locales.                 | Canal de distribución principal: Página web y tienda física.                      | <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdonNQaiL2E0e4X5_Uz6KIHTyCuVqdWzz0q550v4adqZF983mpBHpLrvdQB9ZO0WqiqdGk3w1N5lDZ36KeZ8ijedQdV4qTQCD5DnIyMLQNnM-urCB-A8xlJzLkQ5dvk7v7rngffsQ?key=7rHwqlj_RdIsExdWTIYPrLCO"/>     |
 
     - **2.1.1. Análisis competitivo**
 
@@ -103,8 +103,6 @@
             </tr>
         </table>
 
-
-
     - **2.1.2. Estrategias y tácticas frente a competidores**<br><br>
       **Propuesta de valor diferenciada:** Crear una plataforma que conecte de forma rápida y confiable a los usuarios con técnicos especializados (plomeros, electricistas, carpinteros, entre otros), destacándose por la facilidad de uso y tiempos de respuesta cortos.
 
@@ -166,90 +164,87 @@
 
   Diego Fuentes considera que una aplicación como AlguienDijoChamba le ayudaría a expandirse un poco más y darse a conocer mejor como técnico, lo que le permitiría tener más trabajo disponible. Además, cree que las funcionalidades que se planean implementar son muy prácticas y diferenciarían esta aplicación de otras similares.
 
+  **Entrevista 2:**
+  Datos del entrevistador:
+    - Nombre: Percy Alonso Muñiz
 
-      **Entrevista 2:**
-      Datos del entrevistador:
-      - Nombre: Percy Alonso Muñiz 
-        
-      Datos del entrevistado:
-      - Nombre: Humberto Garcia  
-      - Edad: 50 años
-      - Distrito de residencia: Jesus Maria
-      - Enlace: https://acortar.link/qrirRT
-        
-      <img src="feature/chapter02/TEC 2.png">
+  Datos del entrevistado:
+    - Nombre: Humberto Garcia
+    - Edad: 50 años
+    - Distrito de residencia: Jesus Maria
+    - Enlace: https://acortar.link/qrirRT
 
-      **Resumen de la entrevista:**
+    <img src="feature/chapter02/TEC 2.png">
 
-      Humberto García, electricista, mostró gran interés en la aplicación presentada, destacando que le parece una propuesta innovadora y con gran potencial. Señaló que la herramienta le sería de gran ayuda para llegar a más personas, ampliar su alcance profesional y facilitar la conexión con clientes que requieran sus servicios.
+  **Resumen de la entrevista:**
 
-      **Entrevista 3:**
-      Datos del entrevistador:
-      - Nombre: Fabrisio Belahonia
-        
-      Datos del entrevistado:
-      - Nombre: Cameron Bustamante
-      - Edad: 25
-      - Distrito de residencia: Monterrico
-      - Enlace: https://acortar.link/nlnyYy
+  Humberto García, electricista, mostró gran interés en la aplicación presentada, destacando que le parece una propuesta innovadora y con gran potencial. Señaló que la herramienta le sería de gran ayuda para llegar a más personas, ampliar su alcance profesional y facilitar la conexión con clientes que requieran sus servicios.
 
-        <img src="feature/chapter02/Entrevista tec 3.png">
-      
+  **Entrevista 3:**
+  Datos del entrevistador:
+    - Nombre: Fabrisio Belahonia
 
-      **Resumen de la entrevista:**
+  Datos del entrevistado:
+    - Nombre: Cameron Bustamante
+    - Edad: 25
+    - Distrito de residencia: Monterrico
+    - Enlace: https://acortar.link/nlnyYy
 
-      La entrevistada se dedica a confección y arreglos de ropa. Actualmente consigue clientes por recomendaciones y Facebook, pero enfrenta temporadas bajas y contactos poco serios. Considera que una app como Fix Now le ayudaría con visibilidad, agenda de entregas, cotizaciones rápidas, pagos seguros e inmediatos, y comunicación directa con clientes. Valora mucho contar con un perfil verificado y un sistema de niveles que le brinde beneficios como mayor visibilidad y menores comisiones.
+      <img src="feature/chapter02/Entrevista tec 3.png">
 
+  **Resumen de la entrevista:**
 
-      **Entrevistas Segmento Objetivo 2: Clientes**
+  La entrevistada se dedica a confección y arreglos de ropa. Actualmente consigue clientes por recomendaciones y Facebook, pero enfrenta temporadas bajas y contactos poco serios. Considera que una app como Fix Now le ayudaría con visibilidad, agenda de entregas, cotizaciones rápidas, pagos seguros e inmediatos, y comunicación directa con clientes. Valora mucho contar con un perfil verificado y un sistema de niveles que le brinde beneficios como mayor visibilidad y menores comisiones.
 
-     **Entrevista 1:**
-      Datos del entrevistador:
-      - Nombre: Percy Alonso Muñiz 
-        
-      Datos del entrevistado:
-      - Nombre: Jarol Saquiray
-      - Edad: 20 años
-      - Distrito de residencia: San Miguel
-      - Enlace: https: https://acortar.link/PMdjl9
-        
-      <img src="feature/chapter02/Entrevista user1.png">
+  **Entrevistas Segmento Objetivo 2: Clientes**
 
-      **Resumen de la entrevista:**
+  **Entrevista 1:**
+  Datos del entrevistador:
+    - Nombre: Percy Alonso Muñiz
 
-      Jarol percibe una aplicación como AlguienDijoChamba como una alternativa confiable frente a redes sociales. Le atrae la idea de técnicos verificados, pagos transparentes y beneficios a través de niveles. Considera que la principal propuesta de valor debe ser la confianza y la rapidez en la atención.
+  Datos del entrevistado:
+    - Nombre: Jarol Saquiray
+    - Edad: 20 años
+    - Distrito de residencia: San Miguel
+    - Enlace: https: https://acortar.link/PMdjl9
 
-      **Entrevista 2:**
-      Datos del entrevistador:
-      - Nombre: Percy Alonso Muñiz Huayanca
-        
-      Datos del entrevistado:
-      - Nombre: Juan Pablo Yataco
-      - Edad: 20 años
-      - Distrito de residencia: Jesus Maria
-      - Enlace: https://acortar.link/gCUwR5
-        
-      <img src="feature/chapter02/Entrevista user 2 .png">
+    <img src="feature/chapter02/Entrevista user1.png">
 
-      **Resumen de la entrevista:**
+  **Resumen de la entrevista:**
 
-      Leonardo identifica como problemas principales la informalidad y la falta de confianza al contratar técnicos por canales tradicionales. Percibe en AlguienDijoChamba una solución viable gracias a la verificación de perfiles, la transparencia en costos y la facilidad de comunicación. Además, muestra interés en la gamificación y en sistemas de pago digital inmediato, lo cual refuerza la importancia de ofrecer seguridad, beneficios tangibles y una experiencia ágil para los usuarios.
+  Jarol percibe una aplicación como AlguienDijoChamba como una alternativa confiable frente a redes sociales. Le atrae la idea de técnicos verificados, pagos transparentes y beneficios a través de niveles. Considera que la principal propuesta de valor debe ser la confianza y la rapidez en la atención.
 
-      **Entrevista 3:**
-      Datos del entrevistador:
-      - Nombre: Percy Alonso Muñiz 
-        
-      Datos del entrevistado:
-      - Nombre: Dilanh Garcua
-      - Edad: 19 años
-      - Distrito de residencia: Surco
-      - Enlace: https://acortar.link/cJmZsA
-        
-      <img src="feature/chapter02/Entrevista user 3.png">
+  **Entrevista 2:**
+  Datos del entrevistador:
+    - Nombre: Percy Alonso Muñiz Huayanca
 
-      **Resumen de la entrevista:**
+  Datos del entrevistado:
+    - Nombre: Juan Pablo Yataco
+    - Edad: 20 años
+    - Distrito de residencia: Jesus Maria
+    - Enlace: https://acortar.link/gCUwR5
 
-      Ángel ve a AlguienDijoChamba como una oportunidad para resolver problemas de informalidad, costos inesperados y falta de garantías en los servicios técnicos. Considera que la verificación de técnicos, la transparencia en precios y los pagos digitales inmediatos son elementos esenciales. Además, valora la incorporación de un sistema de niveles con beneficios y la posibilidad de integrar monitoreo inteligente en el hogar, lo cual refuerza el atractivo de la plataforma.
+    <img src="feature/chapter02/Entrevista user 2 .png">
+
+  **Resumen de la entrevista:**
+
+  Leonardo identifica como problemas principales la informalidad y la falta de confianza al contratar técnicos por canales tradicionales. Percibe en AlguienDijoChamba una solución viable gracias a la verificación de perfiles, la transparencia en costos y la facilidad de comunicación. Además, muestra interés en la gamificación y en sistemas de pago digital inmediato, lo cual refuerza la importancia de ofrecer seguridad, beneficios tangibles y una experiencia ágil para los usuarios.
+
+  **Entrevista 3:**
+  Datos del entrevistador:
+    - Nombre: Percy Alonso Muñiz
+
+  Datos del entrevistado:
+    - Nombre: Dilanh Garcua
+    - Edad: 19 años
+    - Distrito de residencia: Surco
+    - Enlace: https://acortar.link/cJmZsA
+
+    <img src="feature/chapter02/Entrevista user 3.png">
+
+  **Resumen de la entrevista:**
+
+  Ángel ve a AlguienDijoChamba como una oportunidad para resolver problemas de informalidad, costos inesperados y falta de garantías en los servicios técnicos. Considera que la verificación de técnicos, la transparencia en precios y los pagos digitales inmediatos son elementos esenciales. Además, valora la incorporación de un sistema de niveles con beneficios y la posibilidad de integrar monitoreo inteligente en el hogar, lo cual refuerza el atractivo de la plataforma.
 
 - **2.2.3. Análisis de entrevistas**
 
@@ -257,13 +252,12 @@
 
   Los entrevistados coinciden en que la aplicación representa una propuesta innovadora que les ayudaría a ampliar su alcance profesional, generar más oportunidades de trabajo y facilitar la conexión con potenciales clientes. Además, valoran las funcionalidades diferenciadoras que aportarían practicidad y competitividad frente a otras alternativas del mercado.
 
+  **Analisis Segmento Objetivo 2: Clientes**
 
-      **Analisis Segmento Objetivo 2: Clientes**
+  Las entrevistas evidencian una necesidad común de confianza, transparencia y seguridad al contratar técnicos. La propuesta de AlguienDijoChamba resulta atractiva al combinar verificación de perfiles, referencias confiables, cotizaciones claras y pagos digitales inmediatos. Además, la incorporación de gamificación y monitoreo inteligente refuerza la diferenciación de la plataforma, respondiendo tanto a las expectativas prácticas (costos, rapidez, calidad) como a la generación de valor agregado en el hogar
 
-      Las entrevistas evidencian una necesidad común de confianza, transparencia y seguridad al contratar técnicos. La propuesta de AlguienDijoChamba resulta atractiva al combinar verificación de perfiles, referencias confiables, cotizaciones claras y pagos digitales inmediatos. Además, la incorporación de gamificación y monitoreo inteligente refuerza la diferenciación de la plataforma, respondiendo tanto a las expectativas prácticas (costos, rapidez, calidad) como a la generación de valor agregado en el hogar
-
-      ### Conclusión
-      En general, las entrevistas confirmaron que AlguienDijoChamba responde a necesidades reales. Los clientes buscan seguridad, transparencia y facilidad. Los técnicos necesitan herramientas para crecer profesionalmente y llegar a más personas. Ambos segmentos mostraron interés en la propuesta y en las funcionalidades planteadas, lo cual refuerza el valor de la plataforma que estamos construyendo.
+  ### Conclusión
+  En general, las entrevistas confirmaron que AlguienDijoChamba responde a necesidades reales. Los clientes buscan seguridad, transparencia y facilidad. Los técnicos necesitan herramientas para crecer profesionalmente y llegar a más personas. Ambos segmentos mostraron interés en la propuesta y en las funcionalidades planteadas, lo cual refuerza el valor de la plataforma que estamos construyendo.
 
 - **2.3. Needfinding**
     - **2.3.1. User Personas**
@@ -299,32 +293,31 @@
         - En ambos segmentos, la **gamificación** aparece como una oportunidad para mantener el compromiso, incentivar la participación y generar un ecosistema más dinámico.
         - Finalmente, tareas iniciales como el **registro** o completar el perfil, aunque se realizan una sola vez, tienen un peso alto en la experiencia inicial del usuario, por lo que deben diseñarse de forma simple e intuitiva.
 
-
     - **2.3.3. User Journey Mapping**
 
-         **Segmento Objetivo 1: Profesionales Tecnicos**
+      **Segmento Objetivo 1: Profesionales Tecnicos**
 
-        ![User Journey Mapping Segmento 1](./feature/chapter02/User_Journey_Mapping_tecnico.png)
+      ![User Journey Mapping Segmento 1](./feature/chapter02/User_Journey_Mapping_tecnico.png)
 
-        **Segmento Objetivo 2: Clientes**
+      **Segmento Objetivo 2: Clientes**
 
-        ![User Journey Mapping Segmento 2](./feature/chapter02/User_Journey_Mapping_Cliente.png)
-    
+      ![User Journey Mapping Segmento 2](./feature/chapter02/User_Journey_Mapping_Cliente.png)
+
     - **2.3.4. Empathy Mapping**
 
-         **Segmento Objetivo 1: Profesionales Tecnicos**
-        
-        #### Fernando Silva
-        ---    
-          
-        ![Empaty Mapping Segmento 1](./feature/chapter02/Empaty_Mapping_Segmento_1.png)
+      **Segmento Objetivo 1: Profesionales Tecnicos**
 
-        **Segmento Objetivo 2: Clientes**
+      #### Fernando Silva
+      ---    
 
-        #### Christian Martinez
-        --- 
-        
-        ![Empaty Mapping Segmento 2](./feature/chapter02/Empaty_Mapping_Segmento_2.png)
+      ![Empaty Mapping Segmento 1](./feature/chapter02/Empaty_Mapping_Segmento_1.png)
+
+      **Segmento Objetivo 2: Clientes**
+
+      #### Christian Martinez
+      --- 
+
+      ![Empaty Mapping Segmento 2](./feature/chapter02/Empaty_Mapping_Segmento_2.png)
 - **2.4. Ubiquitous Language**<br>
 
   | Término en Inglés (Español) | Definición |
@@ -364,10 +357,10 @@
 - **2.4. Requirements specification**
     - **2.4.1. User Stories**
       ### Epic Story
-      | Epic ID | Título |
-            |--------|--------|
-      | **EP01** | **Registro y Gestión de Perfil de Usuario** |
-      | | Como usuario (cliente o técnico), quiero crear, visualizar, editar y gestionar mi perfil para tener mis datos actualizados y poder utilizar la plataforma correctamente. |
+      | Epic ID   | Título                                                                                                                                                                   |
+            |-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+      | **EP01**  | **Registro y Gestión de Perfil de Usuario**                                                                                                                              |
+      |           | Como usuario (cliente o técnico), quiero crear, visualizar, editar y gestionar mi perfil para tener mis datos actualizados y poder utilizar la plataforma correctamente. |
 
       | Epic ID | Título |
             |--------|--------|
@@ -398,12 +391,7 @@
       | **EP07** | **Landing Page y Experiencia del Visitante** |
       |  | Como visitante, quiero acceder a una landing page informativa y atractiva que me permita conocer los servicios, productos, niveles, testimonios y contactar fácilmente con FixNow. |
 
-
       ### User Stories
-          
-
-
-
 
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
@@ -444,7 +432,6 @@
         </tr>
       </table>
 
-      
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -1021,7 +1008,6 @@
         </tr>
       </table>
 
-
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -1175,7 +1161,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -1402,7 +1388,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -1439,7 +1425,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -1476,7 +1462,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -1513,7 +1499,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -1550,7 +1536,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -1587,7 +1573,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -1624,7 +1610,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -1661,7 +1647,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -1698,7 +1684,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -1735,12 +1721,6 @@
           </td>
         </tr>
       </table>
-
-
-
-
-
-
 
       ### Technical Stories
 
@@ -1781,7 +1761,6 @@
           </td>
         </tr>
       </table>
-
 
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
@@ -1859,7 +1838,6 @@
         </tr>
       </table>
 
-
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -1897,7 +1875,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -1935,7 +1913,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -1973,7 +1951,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -2049,7 +2027,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -2087,7 +2065,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -2125,7 +2103,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -2163,7 +2141,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -2201,7 +2179,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -2239,7 +2217,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -2277,14 +2255,6 @@
           </td>
         </tr>
       </table>
-      
-
-
-
-
-
-
-
 
       ### Spike Story
 
@@ -2338,7 +2308,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -2389,7 +2359,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -2440,7 +2410,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -2491,7 +2461,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -2542,7 +2512,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -2592,7 +2562,7 @@
           </td>
         </tr>
       </table>
-      
+
       <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
         <tr>
           <th>Story ID</th>
@@ -2643,23 +2613,17 @@
         </tr>
       </table>
 
-
-
-     
-
     - **2.4.2. Impact Mapping**
 
-         **Segmento Objetivo 1: Profesionales Tecnicos**
+      **Segmento Objetivo 1: Profesionales Tecnicos**
 
-          
-        ![User Journey Mapping Segmento 1](./feature/chapter02/ImpactMap_Tecnicos.png)
+      ![User Journey Mapping Segmento 1](./feature/chapter02/ImpactMap_Tecnicos.png)
 
-        **Segmento Objetivo 2: Clientes**
+      **Segmento Objetivo 2: Clientes**
 
-        ![User Journey Mapping Segmento 2](./feature/chapter02/ImpactMap_Clientes.png)
+      ![User Journey Mapping Segmento 2](./feature/chapter02/ImpactMap_Clientes.png)
 
     - **2.4.3. Product Backlog**
-   
 
       <table>
         <tr>
@@ -2699,7 +2663,7 @@
         <tr><td>29</td><td>US29</td><td>Ver Reseñas de Otros Clientes</td><td>3</td></tr>
         <tr><td>30</td><td>US30</td><td>Solicitar Actualización de Calificación</td><td>1</td></tr>
       </table>
-      
+
       <h2>Technical Stories</h2>
       <table>
         <tr>
@@ -2720,7 +2684,7 @@
         <tr><td>40</td><td>TS10</td><td>Crear API para Realizar Pagos</td><td>8</td></tr>
         <tr><td>41</td><td>TS11</td><td>Crear API para Calificaciones y Reseñas</td><td>3</td></tr>
       </table>
-      
+
       <h2>Spike Stories</h2>
       <table>
         <tr>
@@ -2763,97 +2727,94 @@
 
   -Flechas punteadas: Indican comandos que generan eventos en otros agregados o bounded contexts.
 
+  Proceso:
 
-    Proceso:
+  Identificación de eventos:
+  El primer paso consiste en identificar los eventos y organizarlos siguiendo una línea de tiempo imaginaria de izquierda a derecha. Algunos eventos pueden aparecer en la misma columna si no tienen un orden consecutivo. Los eventos se representan con post-its anaranjados.
+    <div align="center">
+    <img src="./feature/chapter02/event1.jpeg"/>
 
-      Identificación de eventos:
-El primer paso consiste en identificar los eventos y organizarlos siguiendo una línea de tiempo imaginaria de izquierda a derecha. Algunos eventos pueden aparecer en la misma columna si no tienen un orden consecutivo. Los eventos se representan con post-its anaranjados.
-<div align="center">
-<img src="./feature/chapter02/event1.jpeg"/>
+    </div>
+    <br>
+    Identificación de comandos:
+    A continuación, se reconocen los comandos que disparan o ejecutan cada evento, representados con post-its azules
 
-      </div>
-      <br>
-      Identificación de comandos:
-      A continuación, se reconocen los comandos que disparan o ejecutan cada evento, representados con post-its azules
+    <div align="center">
+    <img src="./feature/chapter02/event2.jpeg"/>
+    <img src="./feature/chapter02/event3.jpeg"/>
 
+    </div>
+    <br>
 
-      <div align="center">
-      <img src="./feature/chapter02/event2.jpeg"/>
-      <img src="./feature/chapter02/event3.jpeg"/>
+  Identificación de agentes:
+  Después, se determinan los agentes o usuarios que realizan los comandos, representados con post-its amarillos.
 
-      </div>
-      <br>
-      
-      Identificación de agentes:
-      Después, se determinan los agentes o usuarios que realizan los comandos, representados con post-its amarillos.
+    <div align="center">
+    <img src="./feature/chapter02/event4.jpeg"/>
+    <img src="./feature/chapter02/event5.jpeg"/>
+    </div>
+    <br>
 
-      <div align="center">
-      <img src="./feature/chapter02/event4.jpeg"/>
-      <img src="./feature/chapter02/event5.jpeg"/>
-      </div>
-      <br>
-                
-      Agrupación por agregados y bounded contexts:
-      Finalmente, se relacionan los eventos entre sí mediante los agregados y entidades involucradas, agrupándolos en bounded contexts. También se trazan líneas punteadas para señalar la interacción de comandos con eventos en distintos bounded contexts.
-    
-      <div align="center">
-      <img src="./feature/chapter02/event6.jpeg"/>
-      </div>
-      <br>
-      
-      - **2.5.1.1. Candidate Context Discovery**  
-   
-        La técnica Start-With-Value, de DDD y diseño centrado en el usuario, propone modelar el dominio empezando por el valor que debe entregar. La usamos para definir los eventos clave de nuestros bounded contexts y el valor que espera el usuario. 
+  Agrupación por agregados y bounded contexts:
+  Finalmente, se relacionan los eventos entre sí mediante los agregados y entidades involucradas, agrupándolos en bounded contexts. También se trazan líneas punteadas para señalar la interacción de comandos con eventos en distintos bounded contexts.
 
-        | **Bounded Context**                                      | **Valor esperado por el usuario**                                                                                         | **Eventos clave**                                                               |
-        | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-        | **IAM (Accesos)**                                         | Permitir que el usuario se registre, inicie sesión y gestione su perfil en la aplicación                                    | Usuario registrado, usuario autenticado, acceso al perfil de usuario             |
-        | **Alerts (Notificaciones)**                               | Enviar notificaciones relevantes sobre el estado de las solicitudes, servicios o cambios en la plataforma                   | Notificación de solicitud aceptada, notificación de cambio de estado, alerta de disponibilidad |
-        | **Payments (Pagos)**                                      | Realizar pagos de forma segura, confirmar transacciones y notificar al usuario sobre el estado de su pago                 | Pago realizado, pago fallido, confirmación de pago exitoso                       |
-        | **Technician Catalog (Catálogo de Profesionales)**            | Ver detalles de los profesionales y realizar solicitudes de servicios                                                     | Perfil profesional visualizado, solicitud de servicio enviada, perfil actualizado |
-        | **Tec-Section (Sección Técnica)**                         | Gestionar las solicitudes de servicio, la disponibilidad de los profesionales y confirmar la finalización de los trabajos  | Solicitud de servicio confirmada, disponibilidad actualizada, servicio completado |
+    <div align="center">
+    <img src="./feature/chapter02/event6.jpeg"/>
+    </div>
+    <br>
 
+    - **2.5.1.1. Candidate Context Discovery**
 
-      - **2.5.1.2. Domain Message Flows Modeling**
-         El Domain Storytelling es una técnica visual y colaborativa que permite descubrir y compartir el conocimiento sobre un dominio de negocio. Su objetivo principal es generar una comprensión común del funcionamiento de un proceso empresarial específico entre las distintas partes involucradas, como los expertos del negocio y los equipos técnicos.
+      La técnica Start-With-Value, de DDD y diseño centrado en el usuario, propone modelar el dominio empezando por el valor que debe entregar. La usamos para definir los eventos clave de nuestros bounded contexts y el valor que espera el usuario.
 
-        Por esta razón, realizamos los domain storytelling enfocados en las conexiones entre los bounded contexts, con el fin de analizar y comprender de manera más profunda la lógica del negocio.
+      | **Bounded Context**                                      | **Valor esperado por el usuario**                                                                                         | **Eventos clave**                                                               |
+              | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+      | **IAM (Accesos)**                                         | Permitir que el usuario se registre, inicie sesión y gestione su perfil en la aplicación                                    | Usuario registrado, usuario autenticado, acceso al perfil de usuario             |
+      | **Alerts (Notificaciones)**                               | Enviar notificaciones relevantes sobre el estado de las solicitudes, servicios o cambios en la plataforma                   | Notificación de solicitud aceptada, notificación de cambio de estado, alerta de disponibilidad |
+      | **Payments (Pagos)**                                      | Realizar pagos de forma segura, confirmar transacciones y notificar al usuario sobre el estado de su pago                 | Pago realizado, pago fallido, confirmación de pago exitoso                       |
+      | **Technician Catalog (Catálogo de Profesionales)**            | Ver detalles de los profesionales y realizar solicitudes de servicios                                                     | Perfil profesional visualizado, solicitud de servicio enviada, perfil actualizado |
+      | **Tec-Section (Sección Técnica)**                         | Gestionar las solicitudes de servicio, la disponibilidad de los profesionales y confirmar la finalización de los trabajos  | Solicitud de servicio confirmada, disponibilidad actualizada, servicio completado |
+
+    - **2.5.1.2. Domain Message Flows Modeling**
+      El Domain Storytelling es una técnica visual y colaborativa que permite descubrir y compartir el conocimiento sobre un dominio de negocio. Su objetivo principal es generar una comprensión común del funcionamiento de un proceso empresarial específico entre las distintas partes involucradas, como los expertos del negocio y los equipos técnicos.
+
+      Por esta razón, realizamos los domain storytelling enfocados en las conexiones entre los bounded contexts, con el fin de analizar y comprender de manera más profunda la lógica del negocio.
       <img src="./feature/chapter02/modeling.jpeg"/>
-        
-      - **2.5.1.3. Bounded Context Canvases**
-      
-        El Bounded Context Canvas es una herramienta visual usada en Diseño Dirigido por el Dominio (DDD) para definir los límites y relaciones entre los Contextos Delimitados dentro de un sistema. Facilita la comprensión compartida del nombre, propósito, entidades y políticas de negocio de cada contexto.
 
-        A continuación, definiremos y desarrollaremos los Bounded Context Canvases de nuestros tres contextos delimitados.
-        ## IAM:
-         <div align="center">
-          <img src="./feature/chapter02/Canvases1.jpeg"/>
-          </div>
-          <br>
-          
-        ## Payment:
-         <div align="center">
-          <img src="./feature/chapter02/Canvases3.jpeg"/>
-          </div>
-          <br>
+    - **2.5.1.3. Bounded Context Canvases**
 
-        ## Technician-Catalog:
-          <div align="center">
-          <img src="./feature/chapter02/Canvases5.jpeg"/>
-          </div>
-          <br>
+      El Bounded Context Canvas es una herramienta visual usada en Diseño Dirigido por el Dominio (DDD) para definir los límites y relaciones entre los Contextos Delimitados dentro de un sistema. Facilita la comprensión compartida del nombre, propósito, entidades y políticas de negocio de cada contexto.
 
-        ## Alerts:
-          <div align="center">
-          <img src="./feature/chapter02/Canvases2.jpeg"/>
-          </div>
-          <br>
+      A continuación, definiremos y desarrollaremos los Bounded Context Canvases de nuestros tres contextos delimitados.
+      ## IAM:
+       <div align="center">
+        <img src="./feature/chapter02/Canvases1.jpeg"/>
+        </div>
+        <br>
 
-        ## Tec Section:
-          <div align="center">
-          <img src="./feature/chapter02/Canvases5.jpeg"/>
-          </div>
-          <br>
+      ## Payment:
+       <div align="center">
+        <img src="./feature/chapter02/Canvases3.jpeg"/>
+        </div>
+        <br>
+
+      ## Technician-Catalog:
+        <div align="center">
+        <img src="./feature/chapter02/Canvases5.jpeg"/>
+        </div>
+        <br>
+
+      ## Alerts:
+        <div align="center">
+        <img src="./feature/chapter02/Canvases2.jpeg"/>
+        </div>
+        <br>
+
+      ## Tec Section:
+        <div align="center">
+        <img src="./feature/chapter02/Canvases5.jpeg"/>
+        </div>
+        <br>
 
     - **2.5.2. Context Mapping**
 
@@ -2865,30 +2826,30 @@ El primer paso consiste en identificar los eventos y organizarlos siguiendo una 
           </div>
           <br>
 
-          
     - **2.5.3. Software Architecture**
-      - **2.5.3.1. Software Architecture Context Level Diagrams**
-                  <div align="center">
-                  <img src="./feature/chapter02/ContextDiagram.png"/>
-                </div>
-                <br>
-      - **2.5.3.2. Software Architecture Container Level Diagrams**
-                <div align="center">
-                  <img src="./feature/chapter02/Container-Level-Diagrams.png"/>
-                </div>
-                <br>
-      - **2.5.3.3. Software Architecture Deployment Diagrams**
-                  <div align="center">
-                  <img src="./feature/chapter02/DeployDiagram.png"/>
-                </div>
-                <br>
+        - **2.5.3.1. Software Architecture Context Level Diagrams**
+          <div align="center">
+          <img src="./feature/chapter02/ContextDiagram.png"/>
+          </div>
+          <br>
+        - **2.5.3.2. Software Architecture Container Level Diagrams**
+          <div align="center">
+          <img src="./feature/chapter02/Container-Level-Diagrams.png"/>
+          </div>
+          <br>
+        - **2.5.3.3. Software Architecture Deployment Diagrams**
+          <div align="center">
+          <img src="./feature/chapter02/DeployDiagram.png"/>
+          </div>
+          <br>
 - **2.6. Tactical-Level Domain-Driven Design**
 
     - **2.6.1. Bounded Context: Technician-Catalog**
         - **2.6.1.1. Domain Layer** <br>
           **Sub-capa Model:**
+
           | Tipo         | Nombre                           | Descripción                                                            | Responsabilidad Principal                                                                                  | Relación con otros elementos                           |
-          | ------------ | -------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+                  | ------------ | -------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
           | Aggregate    | TechnicianProfile                    | Entidad que representa la información profesional de un Technician         | Ser el punto de entrada para gestionar la información profesional (nombre, skills, experiencia, categoría) | Relacionado con Tec-Section (para asignar solicitudes) |
           | Value Object | TechnicianContact                    | Datos de contacto (teléfono, email, ubicación aproximada)              | Mantener información de contacto inmutable                                                                 | Parte de TechnicianProfile                                 |
           | Value Object | TechnicianSkill                      | Skill o habilidad específica de un Technician (ej: plomería, electricidad) | Representar de manera granular las competencias del Technician                                                 | Parte de TechnicianProfile                                 |
@@ -2901,75 +2862,73 @@ El primer paso consiste en identificar los eventos y organizarlos siguiendo una 
           | Query        | GetTechnicianProfilesByCategoryQuery | Consulta para obtener Technicians por categoría                            | Recuperar listado de Technicians en una categoría específica                                                   | Usado en Technician-Catalog UI                             |
           | Query        | GetTechnicianProfileByIdQuery        | Consulta para obtener detalles de un Technician específico                 | Consultar perfil público completo                                                                          | Usado por Customers y Tec-Section                      |
 
+          **Sub-capa Service:**
 
+          | Tipo    | Nombre               | Descripción                                               | Responsabilidad Principal                    | Relación con otros elementos                             |
+                  | ------- | -------------------- | --------------------------------------------------------- | -------------------------------------------- | -------------------------------------------------------- |
+          | Service | TechnicianCatalogService | Servicio mock para listar y consultar perfiles de Technicians | Simular catálogo de Technicians en la aplicación | Usado en la capa Application                             |
+          | Service | TechnicianApiService     | Servicio para integrar con el backend vía API REST        | Gestionar Technicians y categorías en BD         | Se comunica con `/api/v1/Technicians` y `/api/v1/categories` |
 
-        **Sub-capa Service:**
+        - **2.6.1.2. Interface Layer**
+          **Sub-capa Service:**
 
-        | Tipo    | Nombre               | Descripción                                               | Responsabilidad Principal                    | Relación con otros elementos                             |
-        | ------- | -------------------- | --------------------------------------------------------- | -------------------------------------------- | -------------------------------------------------------- |
-        | Service | TechnicianCatalogService | Servicio mock para listar y consultar perfiles de Technicians | Simular catálogo de Technicians en la aplicación | Usado en la capa Application                             |
-        | Service | TechnicianApiService     | Servicio para integrar con el backend vía API REST        | Gestionar Technicians y categorías en BD         | Se comunica con `/api/v1/Technicians` y `/api/v1/categories` |
+          | Tipo       | Nombre                                          | Descripción                                                       | Responsabilidad Principal                                 | Relación con otros elementos     |
+                  | ---------- | ----------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
+          | Controller | TechnicianProfileController                         | Exponer endpoints para registrar, actualizar y consultar perfiles | Gestionar TechnicianProfile vía comandos/queries              | Usa recursos y assemblers        |
+          | Controller | CategoryController                              | Exponer endpoints para gestionar categorías de Technicians            | Crear y listar categorías                                 | Usa CategoryResource             |
+          | Resource   | TechnicianProfileResource                           | Representa petición de registro o actualización de Technician         | Recibir datos estructurados (skills, contacto, categoría) | Usado en TechnicianProfileController |
+          | Resource   | TechnicianProfileResponseResource                   | Respuesta con información completa del Technician                     | Exponer perfil público/profesional                        | Usado en TechnicianProfileController |
+          | Resource   | CategoryResource                                | Representa petición/estructura de una categoría                   | Datos de categoría de Technician                              | Usado en CategoryController      |
+          | Resource   | CategoryResponseResource                        | Respuesta con detalles de una categoría                           | Mostrar lista de categorías disponibles                   | Usado en CategoryController      |
+          | Assembler  | RegisterTechnicianCommandFromResourceAssembler      | Convierte recurso en RegisterTechnicianCommand                        | Desacoplar REST de dominio                                | Usado en TechnicianProfileController |
+          | Assembler  | UpdateTechnicianProfileCommandFromResourceAssembler | Convierte recurso en UpdateTechnicianProfileCommand                   | Igual que arriba                                          | Usado en TechnicianProfileController |
+          | Assembler  | TechnicianProfileResourceFromEntityAssembler        | Convierte entidad TechnicianProfile en respuesta                      | Asegurar consistencia en API                              | Usado en TechnicianProfileController |
 
+        - **2.6.1.3. Application Layer**
+          **Sub-capa Internal:**
 
-      - **2.6.1.2. Interface Layer**
-        **Sub-capa Service:**
-        | Tipo       | Nombre                                          | Descripción                                                       | Responsabilidad Principal                                 | Relación con otros elementos     |
-        | ---------- | ----------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
-        | Controller | TechnicianProfileController                         | Exponer endpoints para registrar, actualizar y consultar perfiles | Gestionar TechnicianProfile vía comandos/queries              | Usa recursos y assemblers        |
-        | Controller | CategoryController                              | Exponer endpoints para gestionar categorías de Technicians            | Crear y listar categorías                                 | Usa CategoryResource             |
-        | Resource   | TechnicianProfileResource                           | Representa petición de registro o actualización de Technician         | Recibir datos estructurados (skills, contacto, categoría) | Usado en TechnicianProfileController |
-        | Resource   | TechnicianProfileResponseResource                   | Respuesta con información completa del Technician                     | Exponer perfil público/profesional                        | Usado en TechnicianProfileController |
-        | Resource   | CategoryResource                                | Representa petición/estructura de una categoría                   | Datos de categoría de Technician                              | Usado en CategoryController      |
-        | Resource   | CategoryResponseResource                        | Respuesta con detalles de una categoría                           | Mostrar lista de categorías disponibles                   | Usado en CategoryController      |
-        | Assembler  | RegisterTechnicianCommandFromResourceAssembler      | Convierte recurso en RegisterTechnicianCommand                        | Desacoplar REST de dominio                                | Usado en TechnicianProfileController |
-        | Assembler  | UpdateTechnicianProfileCommandFromResourceAssembler | Convierte recurso en UpdateTechnicianProfileCommand                   | Igual que arriba                                          | Usado en TechnicianProfileController |
-        | Assembler  | TechnicianProfileResourceFromEntityAssembler        | Convierte entidad TechnicianProfile en respuesta                      | Asegurar consistencia en API                              | Usado en TechnicianProfileController |
+          | Tipo           | Nombre                          | Descripción                                  | Responsabilidad Principal                            | Relación con otros elementos      |
+                  | -------------- | ------------------------------- | -------------------------------------------- | ---------------------------------------------------- | --------------------------------- |
+          | CommandHandler | TechnicianProfileCommandServiceImpl | Implementación de comandos de TechnicianProfile  | Crear, actualizar, agregar skills, registrar reseñas | Usado por TechnicianProfileController |
+          | QueryHandler   | TechnicianProfileQueryServiceImpl   | Implementación de consultas de TechnicianProfile | Consultar perfiles y categorías                      | Usado por TechnicianProfileController |
+          | CommandHandler | CategoryCommandServiceImpl      | Implementación de comandos para categorías   | Crear/actualizar categorías                          | Usado por CategoryController      |
+          | QueryHandler   | CategoryQueryServiceImpl        | Implementación de consultas para categorías  | Listar categorías disponibles                        | Usado por CategoryController      |
 
+        - **2.6.1.4. Infrastructure Layer**
+          **Sub-capa Repository:**
 
-      - **2.6.1.3. Application Layer**
-        **Sub-capa Internal:**
-        | Tipo           | Nombre                          | Descripción                                  | Responsabilidad Principal                            | Relación con otros elementos      |
-        | -------------- | ------------------------------- | -------------------------------------------- | ---------------------------------------------------- | --------------------------------- |
-        | CommandHandler | TechnicianProfileCommandServiceImpl | Implementación de comandos de TechnicianProfile  | Crear, actualizar, agregar skills, registrar reseñas | Usado por TechnicianProfileController |
-        | QueryHandler   | TechnicianProfileQueryServiceImpl   | Implementación de consultas de TechnicianProfile | Consultar perfiles y categorías                      | Usado por TechnicianProfileController |
-        | CommandHandler | CategoryCommandServiceImpl      | Implementación de comandos para categorías   | Crear/actualizar categorías                          | Usado por CategoryController      |
-        | QueryHandler   | CategoryQueryServiceImpl        | Implementación de consultas para categorías  | Listar categorías disponibles                        | Usado por CategoryController      |
-        
-      - **2.6.1.4. Infrastructure Layer**
-        **Sub-capa Repository:**
-        | Tipo       | Nombre                  | Descripción                    | Responsabilidad Principal       | Relación con otros elementos |
-        | ---------- | ----------------------- | ------------------------------ | ------------------------------- | ---------------------------- |
-        | Repository | TechnicianProfileRepository | Repositorio para TechnicianProfile | Persistir perfiles y reseñas    | Usado en capa Application    |
-        | Repository | CategoryRepository      | Repositorio para Category      | Persistir categorías de Technicians | Usado en capa Application    |
+          | Tipo       | Nombre                  | Descripción                    | Responsabilidad Principal       | Relación con otros elementos |
+                  | ---------- | ----------------------- | ------------------------------ | ------------------------------- | ---------------------------- |
+          | Repository | TechnicianProfileRepository | Repositorio para TechnicianProfile | Persistir perfiles y reseñas    | Usado en capa Application    |
+          | Repository | CategoryRepository      | Repositorio para Category      | Persistir categorías de Technicians | Usado en capa Application    |
 
-      - **2.6.1.5. Bounded Context Software Architecture Component Level Diagrams**
-        <br>
-        El flujo completo refleja una arquitectura cuidadosamente estructurada, donde cada capa tiene responsabilidades bien definidas: los controladores exponen los endpoints para la interacción externa, los servicios de aplicación gestionan la lógica de negocio y coordinan comandos y consultas, los comandos y consultas representan operaciones específicas sobre el dominio, los agregados y value objects encapsulan el comportamiento y los datos esenciales del dominio, y los repositorios se encargan de la persistencia e interacción con la base de datos. Este enfoque sigue los principios de Clean Architecture y Domain-Driven Design (DDD), garantizando un sistema modular, mantenible y fácilmente extensible.
-                <div align="center">
-                  <img src="./feature/chapter02/worker_domain.jpeg"/>
-                </div>
-                <br>
-      - **2.6.1.6. Bounded Context Software Architecture Code Level Diagrams**      - **2.6.1.6. Bounded Context Software Architecture Code Level Diagrams**
-        - **2.6.1.6.1. Bounded Context Domain Layer Class Diagrams**<br>
-        <br><br>
-          El diagrama de clases del bounded context Technician-Catalog modela el catálogo de trabajadores bajo principios de DDD y Clean Architecture. La entidad principal es TechnicianProfile, como Aggregate Root, que concentra información profesional, contacto, habilidades, calificaciones y categoría, con trazabilidad mediante campos de auditoría.
+        - **2.6.1.5. Bounded Context Software Architecture Component Level Diagrams**
+          <br>
+          El flujo completo refleja una arquitectura cuidadosamente estructurada, donde cada capa tiene responsabilidades bien definidas: los controladores exponen los endpoints para la interacción externa, los servicios de aplicación gestionan la lógica de negocio y coordinan comandos y consultas, los comandos y consultas representan operaciones específicas sobre el dominio, los agregados y value objects encapsulan el comportamiento y los datos esenciales del dominio, y los repositorios se encargan de la persistencia e interacción con la base de datos. Este enfoque sigue los principios de Clean Architecture y Domain-Driven Design (DDD), garantizando un sistema modular, mantenible y fácilmente extensible.
+          <div align="center">
+          <img src="./feature/chapter02/worker_domain.jpeg"/>
+          </div>
+          <br>
+        - **2.6.1.6. Bounded Context Software Architecture Code Level Diagrams**      - **2.6.1.6. Bounded Context Software Architecture Code Level Diagrams**
+            - **2.6.1.6.1. Bounded Context Domain Layer Class Diagrams**<br>
+              <br><br>
+              El diagrama de clases del bounded context Technician-Catalog modela el catálogo de trabajadores bajo principios de DDD y Clean Architecture. La entidad principal es TechnicianProfile, como Aggregate Root, que concentra información profesional, contacto, habilidades, calificaciones y categoría, con trazabilidad mediante campos de auditoría.
 
-          Los Value Objects (TechnicianContact, TechnicianSkill, TechnicianRating) encapsulan datos inmutables, mientras que Category organiza a los trabajadores por especialidad. Los Commands y Queries representan casos de uso explícitos, y los Servicios (TechnicianCatalogService, TechnicianApiService) orquestan operaciones y comunicación con infraestructura, garantizando un diseño cohesivo, escalable y mantenible.<br> <br>
-                <div align="center">
-                  <img src="./feature/chapter02/Bounded_Context_Software_Architecture_Code_Level_Diagrams_Worker.jpeg"/>
-                </div>
-                <br>
-        - **2.6.1.6.2. Bounded Context Database Design Diagram** <br>
-                <div align="center">
-                  <img src="./feature/chapter02/Bounded_Context_Software_Architecture_Code_Level_Database_Worker.jpeg"/>
-                </div>
-                <br>
+              Los Value Objects (TechnicianContact, TechnicianSkill, TechnicianRating) encapsulan datos inmutables, mientras que Category organiza a los trabajadores por especialidad. Los Commands y Queries representan casos de uso explícitos, y los Servicios (TechnicianCatalogService, TechnicianApiService) orquestan operaciones y comunicación con infraestructura, garantizando un diseño cohesivo, escalable y mantenible.<br> <br>
+              <div align="center">
+              <img src="./feature/chapter02/Bounded_Context_Software_Architecture_Code_Level_Diagrams_Worker.jpeg"/>
+              </div>
+              <br>
+            - **2.6.1.6.2. Bounded Context Database Design Diagram** <br>
+              <div align="center">
+              <img src="./feature/chapter02/Bounded_Context_Software_Architecture_Code_Level_Database_Worker.jpeg"/>
+              </div>
+              <br>
 
+          **Tabla: TechnicianProfile**
 
-        **Tabla: TechnicianProfile**
-
-        | Campo        | Tipo         | Descripción                                     |
-          | ------------ | ------------ | --------------------------------------------- |
+          | Campo        | Tipo         | Descripción                                     |
+                    | ------------ | ------------ | --------------------------------------------- |
           | id           | varchar(36)  | Identificador único del Technician (PK)           |
           | name         | varchar(120) | Nombre del Technician                             |
           | email        | varchar(120) | Correo electrónico del Technician                 |
@@ -2982,130 +2941,130 @@ El primer paso consiste en identificar los eventos y organizarlos siguiendo una 
           | created\_at  | datetime     | Fecha de creación del perfil                  |
           | updated\_at  | datetime     | Fecha de última actualización del perfil      |
 
-        **Tabla: TechnicianSkill**
+          **Tabla: TechnicianSkill**
 
-        | Campo       | Tipo         | Descripción                                         |
-          | ----------- | ------------ | --------------------------------------------------- |
+          | Campo       | Tipo         | Descripción                                         |
+                    | ----------- | ------------ | --------------------------------------------------- |
           | id          | int          | Identificador único de la habilidad (PK)            |
           | Technician\_id  | varchar(36)  | ID del Technician al que pertenece la habilidad (FK)    |
           | skill\_name | varchar(120) | Nombre de la habilidad (ej: plomería, electricidad) |
 
-        **Tabla: Category**
-        
-        | Campo       | Tipo         | Descripción                                            |
-          | ----------- | ------------ | ------------------------------------------------------ |
+          **Tabla: Category**
+
+          | Campo       | Tipo         | Descripción                                            |
+                    | ----------- | ------------ | ------------------------------------------------------ |
           | id          | int          | Identificador único de la categoría (PK)               |
           | name        | varchar(120) | Nombre de la categoría (ej: carpintería, electricidad) |
           | **Description** | varchar(250) | Descripción breve de la categoría                      |
           | created\_at | datetime     | Fecha de creación del registro                         |
           | updated\_at | datetime     | Fecha de última actualización del registro             |
 
-        **Tabla: TechnicianRating**
+          **Tabla: TechnicianRating**
 
-        | Campo        | Tipo         | Descripción                                      |
-          | ------------ | ------------ | ------------------------------------------------ |
+          | Campo        | Tipo         | Descripción                                      |
+                    | ------------ | ------------ | ------------------------------------------------ |
           | id           | int          | Identificador único de la calificación (PK).     |
           | Technician\_id   | varchar(36)  | ID del trabajador calificado (FK).               |
           | customer\_id | varchar(36)  | ID del cliente que realizó la reseña.            |
           | score        | int          | Puntaje asignado (1–5).                          |
           | comment      | varchar(300) | Comentario escrito por el cliente.               |
           | created\_at  | datetime     | Fecha y hora en que se registró la calificación. |
-        
 
-        
-
-      - 
     - **2.6.2. Bounded Context: Payments**
-      - **2.6.2.1. Domain Layer** <br>
-      
-        **Sub-capa Model:**
+        - **2.6.2.1. Domain Layer** <br>
 
-        | Tipo     | Nombre     | Descripción                                                                 | Responsabilidad Principal                                    | Relación con otros elementos                  |
-        |----------|------------|-----------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------|
-        | Entity   | Payment    | Representa un pago realizado por un cliente a un técnico.                   | Gestionar información del pago (monto, estado, fecha).       | Relación con `Customer`, `Technician`, `Order`.   |
-        | Entity   | Transaction| Registro detallado de la operación financiera.                             | Validar y asegurar consistencia de la transacción.           | Asociado a `Payment`.                         |
-        | ValueObj | Amount     | Valor del monto a pagar en una transacción.                                | Garantizar formato, precisión y reglas de negocio de dinero. | Parte de `Payment` y `Transaction`.           |
-        | Entity   | Order      | Representa el servicio acordado entre cliente y técnico.                   | Conectar el servicio contratado con su pago.                 | Relación con `Customer` y `Technician`.           |
+          **Sub-capa Model:**
 
-        **Sub-capa Services**
+          | Tipo     | Nombre     | Descripción                                                                 | Responsabilidad Principal                                    | Relación con otros elementos                  |
+                  |----------|------------|-----------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------|
+          | Entity   | Payment    | Representa un pago realizado por un cliente a un técnico.                   | Gestionar información del pago (monto, estado, fecha).       | Relación con `Customer`, `Technician`, `Order`.   |
+          | Entity   | Transaction| Registro detallado de la operación financiera.                             | Validar y asegurar consistencia de la transacción.           | Asociado a `Payment`.                         |
+          | ValueObj | Amount     | Valor del monto a pagar en una transacción.                                | Garantizar formato, precisión y reglas de negocio de dinero. | Parte de `Payment` y `Transaction`.           |
+          | Entity   | Order      | Representa el servicio acordado entre cliente y técnico.                   | Conectar el servicio contratado con su pago.                 | Relación con `Customer` y `Technician`.           |
 
-        | Tipo      | Nombre             | Descripción                                                     | Responsabilidad Principal                           | Relación con otros elementos            |
-        |-----------|--------------------|-----------------------------------------------------------------|----------------------------------------------------|-----------------------------------------|
-        | Service   | PaymentService     | Lógica de negocio para procesar pagos y actualizarlos.           | Ejecutar, confirmar o rechazar pagos.               | Usa `PaymentRepository`, `Transaction`. |
-        | Service   | RefundService      | Gestiona devoluciones de pagos.                                 | Permitir reembolsos y actualizar estados.           | Relación con `Payment`, `Order`.        |
-        | Service   | ValidationService  | Reglas de validación de datos en el proceso de pago.            | Validar montos, usuarios y métodos de pago.         | Usado por `PaymentService`.             |
-        
-      - **2.6.2.2. Interface Layer** <br>
+          **Sub-capa Services**
 
-        **Sub-capa REST**
-        | Tipo     | Nombre             | Descripción                                               | Responsabilidad Principal                          | Relación con otros elementos      |
-        |----------|--------------------|-----------------------------------------------------------|---------------------------------------------------|-----------------------------------|
-        | Endpoint | POST /payments     | Endpoint para crear un nuevo pago.                        | Registrar un pago asociado a una orden.            | Llama a `PaymentService`.         |
-        | Endpoint | GET /payments/{id} | Obtiene detalles de un pago específico.                   | Consultar información del pago.                    | Usa `PaymentRepository`.           |
-        | Endpoint | POST /refunds      | Procesa una solicitud de reembolso.                       | Ejecutar lógica de devolución de dinero.           | Llama a `RefundService`.           |
+          | Tipo      | Nombre             | Descripción                                                     | Responsabilidad Principal                           | Relación con otros elementos            |
+                  |-----------|--------------------|-----------------------------------------------------------------|----------------------------------------------------|-----------------------------------------|
+          | Service   | PaymentService     | Lógica de negocio para procesar pagos y actualizarlos.           | Ejecutar, confirmar o rechazar pagos.               | Usa `PaymentRepository`, `Transaction`. |
+          | Service   | RefundService      | Gestiona devoluciones de pagos.                                 | Permitir reembolsos y actualizar estados.           | Relación con `Payment`, `Order`.        |
+          | Service   | ValidationService  | Reglas de validación de datos en el proceso de pago.            | Validar montos, usuarios y métodos de pago.         | Usado por `PaymentService`.             |
 
-      - **2.6.2.3. Application Layer** <br>
+        - **2.6.2.2. Interface Layer** <br>
 
-        **Sub-capa Internal**
-        | Tipo         | Nombre            | Descripción                                             | Responsabilidad Principal                          | Relación con otros elementos |
-        |--------------|-------------------|---------------------------------------------------------|---------------------------------------------------|--------------------------------|
-        | Use Case     | ProcessPayment    | Caso de uso para gestionar un pago desde inicio a fin.  | Coordinar servicios de validación y repositorio.   | `PaymentService`, `Transaction`.|
-        | Use Case     | IssueRefund       | Caso de uso para ejecutar devolución de dinero.         | Coordinar validación, ejecución y actualización.   | `RefundService`.               |
+          **Sub-capa REST**
 
-        **Sub-capa External**
-        | Tipo       | Nombre             | Descripción                                             | Responsabilidad Principal                          | Relación con otros elementos |
-        |------------|--------------------|---------------------------------------------------------|---------------------------------------------------|--------------------------------|
-        | Gateway    | PaymentGateway     | Integración con pasarela de pago externa (ej. Stripe).  | Conectar con sistemas externos de cobro.          | Llamado por `PaymentService`.  |  
+          | Tipo     | Nombre             | Descripción                                               | Responsabilidad Principal                          | Relación con otros elementos      |
+                  |----------|--------------------|-----------------------------------------------------------|---------------------------------------------------|-----------------------------------|
+          | Endpoint | POST /payments     | Endpoint para crear un nuevo pago.                        | Registrar un pago asociado a una orden.            | Llama a `PaymentService`.         |
+          | Endpoint | GET /payments/{id} | Obtiene detalles de un pago específico.                   | Consultar información del pago.                    | Usa `PaymentRepository`.           |
+          | Endpoint | POST /refunds      | Procesa una solicitud de reembolso.                       | Ejecutar lógica de devolución de dinero.           | Llama a `RefundService`.           |
 
-      - **2.6.2.4. Infrastructure Layer**<br>
+        - **2.6.2.3. Application Layer** <br>
 
-        **Sub-capa Repository**
-        | Tipo         | Nombre               | Descripción                                             | Responsabilidad Principal                          | Relación con otros elementos |
-        |--------------|----------------------|---------------------------------------------------------|---------------------------------------------------|--------------------------------|
-        | Repository   | PaymentRepository    | Repositorio para CRUD de pagos.                        | Persistencia y consultas de la entidad `Payment`.  | Relación con `Database`.      |
-        | Repository   | TransactionRepository| Repositorio para registros de transacciones.           | Guardar y recuperar `Transaction`.                 | Relación con `Database`.      |
+          **Sub-capa Internal**
 
-      - **2.6.2.5. Bounded Context Software Architecture Component Level Diagrams**
-        <img src="./feature/chapter02/Payments.png"/>
+          | Tipo         | Nombre            | Descripción                                             | Responsabilidad Principal                          | Relación con otros elementos |
+                  |--------------|-------------------|---------------------------------------------------------|---------------------------------------------------|--------------------------------|
+          | Use Case     | ProcessPayment    | Caso de uso para gestionar un pago desde inicio a fin.  | Coordinar servicios de validación y repositorio.   | `PaymentService`, `Transaction`.|
+          | Use Case     | IssueRefund       | Caso de uso para ejecutar devolución de dinero.         | Coordinar validación, ejecución y actualización.   | `RefundService`.               |
 
-      - **2.6.2.6. Bounded Context Software Architecture Code Level Diagrams**
-      - **2.6.2.6.1. Bounded Context Domain Layer Class Diagrams**
-      <img src="./feature/chapter02/Class_diagram_payments.png"/>
-      
-      - **2.6.2.6.2. Bounded Context Database Design Diagram**
-      <img src="./feature/chapter02/Datebase diagram payments.png"/>
-        
+          **Sub-capa External**
+
+          | Tipo       | Nombre             | Descripción                                             | Responsabilidad Principal                          | Relación con otros elementos |
+                  |------------|--------------------|---------------------------------------------------------|---------------------------------------------------|--------------------------------|
+          | Gateway    | PaymentGateway     | Integración con pasarela de pago externa (ej. Stripe).  | Conectar con sistemas externos de cobro.          | Llamado por `PaymentService`.  |  
+
+        - **2.6.2.4. Infrastructure Layer**<br>
+
+          **Sub-capa Repository**
+
+          | Tipo         | Nombre               | Descripción                                             | Responsabilidad Principal                          | Relación con otros elementos |
+                  |--------------|----------------------|---------------------------------------------------------|---------------------------------------------------|--------------------------------|
+          | Repository   | PaymentRepository    | Repositorio para CRUD de pagos.                        | Persistencia y consultas de la entidad `Payment`.  | Relación con `Database`.      |
+          | Repository   | TransactionRepository| Repositorio para registros de transacciones.           | Guardar y recuperar `Transaction`.                 | Relación con `Database`.      |
+
+        - **2.6.2.5. Bounded Context Software Architecture Component Level Diagrams**
+          <img src="./feature/chapter02/Payments.png"/>
+
+        - **2.6.2.6. Bounded Context Software Architecture Code Level Diagrams**
+        - **2.6.2.6.1. Bounded Context Domain Layer Class Diagrams**
+          <img src="./feature/chapter02/Class_diagram_payments.png"/>
+
+        - **2.6.2.6.2. Bounded Context Database Design Diagram**
+          <img src="./feature/chapter02/Datebase diagram payments.png"/>
+
     - **2.6.3. Bounded Context: Alerts**
-    
-      - **2.6.3.1. Domain Layer**
-        
+
+        - **2.6.3.1. Domain Layer**
+
       <br>**Sub-capa Model:**
-        
-       | Tipo         | Nombre                  | Descripción                                            | Responsabilidad Principal                             | Relación con otros elementos                                                                                                                                |
-        |--------------|-------------------------|--------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-        | Aggregate    | Alert                   | Clase para definir una Alerta de la aplicación         | Ser el punto de entrada para la gestion de Alertas    | Relacionado con el boundedContext de pagos para generar Alertas y el boundedContext de Tec-Section para generar una Alerta al momento de llamar a un Technician |
-        | Value Object | AlertType               | Value object usado en el Aggregate Alert               | Representa el tipo de Alerta                          | Relacionado con Alert                                                                                                                                       |
-        | Value Object | AlertTittle             | Value object usado en el Aggregate Alert               | Representa el titulo de la Alerta                     | Relacionado con Alert                                                                                                                                       |
-        | Value Object | AlertMessage            | Value object usado en el Aggregate Alert               | Representa el contenido de la Alerta                  | Relacionado con Alert                                                                                                                                       |
-        | Command      | CreateAlertCommand      | Comando para crear una Alerta                          | Encapsular los datos requeridos para crear una alerta | Usado cuando se quiere crear una alerta para el Technician y el Customer                                                                                        |
-        | Command      | DeleteAlertCommand      | Comando para eliminar una Alert                        | Encapsular los datos para crear eliminar una alerta   | Verifica si el Technician  o el Customer  eliminan la alerta. Tambien si el Technician  rechaza una alerta esta se eliminara luego para este mismo.                 |
-        | Command      | AcceptAlertCommand      | Comando para aceptar una Alert                         | Modificar informacion para aceptar una alerta         | Usado cuando el Technician  acepta el trabajo pedido por el Customer                                                                                            |
-        | Command      | DeclineAlertCommand     | Comando para rechazar una Alert                        | Modificar informacion para rechazar una alerta        | Usado cuando el Technician  acepta el trabajo pedido por el Customer                                                                                            |
-        | Query        | GetAlertByCustomerQuery | Consulta para obtener todas las alertas del Customer   | Recuperar las alertas del Usuario                     | Usado en la seccion de Alertas del Customer                                                                                                                 |
-        | Query        | GetAlertByTechnicianQuery   | Consulta para obtener todas las alertas del Technician     | Recuperar las alertas del Technician                      | Usado en la seccion de Alertas del Technician                                                                                                                   |
-        
-        **Sub-capa Service:**
-    
+
+      | Tipo         | Nombre                  | Descripción                                            | Responsabilidad Principal                             | Relación con otros elementos                                                                                                                                |
+              |--------------|-------------------------|--------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+      | Aggregate    | Alert                   | Clase para definir una Alerta de la aplicación         | Ser el punto de entrada para la gestion de Alertas    | Relacionado con el boundedContext de pagos para generar Alertas y el boundedContext de Tec-Section para generar una Alerta al momento de llamar a un Technician |
+      | Value Object | AlertType               | Value object usado en el Aggregate Alert               | Representa el tipo de Alerta                          | Relacionado con Alert                                                                                                                                       |
+      | Value Object | AlertTittle             | Value object usado en el Aggregate Alert               | Representa el titulo de la Alerta                     | Relacionado con Alert                                                                                                                                       |
+      | Value Object | AlertMessage            | Value object usado en el Aggregate Alert               | Representa el contenido de la Alerta                  | Relacionado con Alert                                                                                                                                       |
+      | Command      | CreateAlertCommand      | Comando para crear una Alerta                          | Encapsular los datos requeridos para crear una alerta | Usado cuando se quiere crear una alerta para el Technician y el Customer                                                                                        |
+      | Command      | DeleteAlertCommand      | Comando para eliminar una Alert                        | Encapsular los datos para crear eliminar una alerta   | Verifica si el Technician  o el Customer  eliminan la alerta. Tambien si el Technician  rechaza una alerta esta se eliminara luego para este mismo.                 |
+      | Command      | AcceptAlertCommand      | Comando para aceptar una Alert                         | Modificar informacion para aceptar una alerta         | Usado cuando el Technician  acepta el trabajo pedido por el Customer                                                                                            |
+      | Command      | DeclineAlertCommand     | Comando para rechazar una Alert                        | Modificar informacion para rechazar una alerta        | Usado cuando el Technician  acepta el trabajo pedido por el Customer                                                                                            |
+      | Query        | GetAlertByCustomerQuery | Consulta para obtener todas las alertas del Customer   | Recuperar las alertas del Usuario                     | Usado en la seccion de Alertas del Customer                                                                                                                 |
+      | Query        | GetAlertByTechnicianQuery   | Consulta para obtener todas las alertas del Technician     | Recuperar las alertas del Technician                      | Usado en la seccion de Alertas del Technician                                                                                                                   |
+
+      **Sub-capa Service:**
+
       | Tipo      | Nombre              | Descripción                                     | Responsabilidad Principal                                        | Relación con otros elementos                                           |
-      |-----------|---------------------|-------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------|
+            |-----------|---------------------|-------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------|
       | Interface | AlertCommandService | Servicio para comandos relacionados con Alert   | Declara métodos para crear, aceptar, rechazar o eliminar alertas | Implementado por  `AlertCommandServiceImp`. Usado en capa Application  |
       | Interface | AlertQueryService   | Servicio para consultas relacionadas con Alert  | Declarar métodos para filtrar por Customer o técnico             | Implementado por `AlertQueryServiceImpl`. Usado en capa de Application |
 
         - **2.6.3.2. Interface Layer**
-        **Sub-capa REST**
-      
+          **Sub-capa REST**
+
           | Tipo       | Nombre                                   | Descripción                                                  | Responsabilidad Principal                                                                                                                  | Relación con otros elementos                                                             |
-          |------------|------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+                    |------------|------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
           | Controller | AlertController                          | Controlador REST para gestionar Alertas                      | Recibir solicitudes tanto de Customer como de Technician sobre alertas, coordina los comandos correspondiente y devuelve la respuesta adecuada | Utiliza `AlertRequestResource`, `AlerResponseResource` y los assemblers correspondientes |
           | Resource   | AlertRequestResource                     | Estructura de una peticion para crear o modificar Alertas    | Representar y exponer datos del dominio de forma accesible y estructurada para el Cliente                                                  | Uso en `AlertController` para enviar datos estructurados al sistema                      |
           | Resource   | AlertResponseResource                    | Estructura de una respuesta con información de una alerta    | Representar y exponer datos del dominio de forma accesible y estructurada para el Cliente                                                  | Uso en `AlertController` para responder con datos del sistema                            |
@@ -3115,49 +3074,49 @@ El primer paso consiste en identificar los eventos y organizarlos siguiendo una 
           | Assembler  | DeclineAlertCommandFromResourceAssembler | Convierte un recurso de petición en un `DeclineAlertCommand` | Evitar el acoplamiento entre la interfaz REST y la capa de aplicación                                                                      | Usado en `AlertController` para traducir la petición a `DeclineAlertCommand`             |
           | Assembler  | AlertResourceFromEntityAssembler         | Convierte una entidad Alert en un recurso de respuesta       | Asegura una respuesta consistent para el cliente                                                                                           | Usado en `AlertController` para retornar `AlertResponseResource`                         |
 
-      - **2.6.3.3. Application Layer**
-        **Sub-capa Internal**
-      
-        | Tipo           | Nombre                  | Descripción                              | Responsabilidad Principal                                                                            | Relación con otros elementos                                                                    |
-        |----------------|-------------------------|------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-        | CommandHandler | AlertCommandServiceImpl | Implementación de los comandos de Alert  | Implementar los métodos de crear, aceptar, rechazar y eliminar Alertas                               | Implementa la interfaz `AlertCommandService`. `AlertController` y `CommandHandlers` del dominio |
-        | QueryHandler   | AlertQueryServiceImpl   | Implementación de las consultas de Alert | Implementar métodos para obtener alertas por ` GetAlertByCustomerQuery` y `GetAlertByTechnicianQuery `   | Implementa la interfaz `AlerQueryService`. Usado por `AlertController` y lo Query  del dominio  |
+        - **2.6.3.3. Application Layer**
+          **Sub-capa Internal**
 
-      - **2.6.3.4. Infrastructure Layer**
-        **Sub-capa Repository**
-      
-        | Tipo       | Nombre          | Descripción                            | Responsabilidad Principal                        | Relación con otros elementos                                                             |
-        |------------|-----------------|----------------------------------------|--------------------------------------------------|------------------------------------------------------------------------------------------|
-        | Repository | AlertRepository | Repositorio a usar del modelo "Alert"  | Acceder y manipular datos persistidos de Alertas | Usado en la capa Application para crear, aceptar, rechazar, eliminar y consultar alertas |
-      
-      - **2.6.3.5. Bounded Context Software Architecture Component Level Diagrams**
-        <br><br>
-        El diagrama de componentes del Alert System muestra una arquitectura modular y bien definida. Los controladores gestionan la comunicación con los usuarios Customer y Technician, delegando la ejecución en los servicios de aplicación. Las entidades de dominio encapsulan la lógica central, mientras que los repositorios manejan la persistencia de datos. Este enfoque sigue los principios de DDD y Clean Architecture, garantizando separación de responsabilidades, mantenibilidad y facilidad de extensión del sistema.<br> <br>
-        <div align="center">
-        <img src="feature/chapter02/Alert_Component.png">
-        </div>
-        <br>
-      - **2.6.3.6. Bounded Context Software Architecture Code Level Diagrams**
-      
-        - **2.6.3.6.1. Bounded Context Domain Layer Class Diagrams**
+          | Tipo           | Nombre                  | Descripción                              | Responsabilidad Principal                                                                            | Relación con otros elementos                                                                    |
+                  |----------------|-------------------------|------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+          | CommandHandler | AlertCommandServiceImpl | Implementación de los comandos de Alert  | Implementar los métodos de crear, aceptar, rechazar y eliminar Alertas                               | Implementa la interfaz `AlertCommandService`. `AlertController` y `CommandHandlers` del dominio |
+          | QueryHandler   | AlertQueryServiceImpl   | Implementación de las consultas de Alert | Implementar métodos para obtener alertas por ` GetAlertByCustomerQuery` y `GetAlertByTechnicianQuery `   | Implementa la interfaz `AlerQueryService`. Usado por `AlertController` y lo Query  del dominio  |
+
+        - **2.6.3.4. Infrastructure Layer**
+          **Sub-capa Repository**
+
+          | Tipo       | Nombre          | Descripción                            | Responsabilidad Principal                        | Relación con otros elementos                                                             |
+                  |------------|-----------------|----------------------------------------|--------------------------------------------------|------------------------------------------------------------------------------------------|
+          | Repository | AlertRepository | Repositorio a usar del modelo "Alert"  | Acceder y manipular datos persistidos de Alertas | Usado en la capa Application para crear, aceptar, rechazar, eliminar y consultar alertas |
+
+        - **2.6.3.5. Bounded Context Software Architecture Component Level Diagrams**
           <br><br>
-          Este diagrama UML representa la arquitectura de un sistema de gestión de alertas centrado en la administración de notificaciones entre Customers y Technicians. La estructura está basada en principios de diseño orientado a objetos y se organiza en capas de comandos y consultas, siguiendo un enfoque CQRS . A lo largo del análisis, se describirán los principales componentes del sistema, como los servicios de comandos y consultas, la entidad central Alert, así como los value objects, los comandos y consultas asociados. También se explicará cómo estas clases interactúan entre sí mediante relaciones de herencia, interfaces, asociación y dependencia para mantener una lógica de negocio clara, desacoplada y mantenible.<br> <br>
-        <div align="center">
-        <img src="feature/chapter02/Diagrama_de_Datos_Bounded_Alert.jpg">
-        </div>
-        <br>
-        
-        - **2.6.3.6.2. Bounded Context Database Design Diagram**
-          <br><br>
-        <div align="center">
-        <img src="feature/chapter02/Diagrama_de_Datos_Bounded_Alert_Diagrama_Base_Datos.png">
-        </div>
-        <br>
-        
-        **Tabla: Appointments**
-      
-        | Campo        | Tipo         | Descripción                      |
-          |--------------|--------------|----------------------------------|
+          El diagrama de componentes del Alert System muestra una arquitectura modular y bien definida. Los controladores gestionan la comunicación con los usuarios Customer y Technician, delegando la ejecución en los servicios de aplicación. Las entidades de dominio encapsulan la lógica central, mientras que los repositorios manejan la persistencia de datos. Este enfoque sigue los principios de DDD y Clean Architecture, garantizando separación de responsabilidades, mantenibilidad y facilidad de extensión del sistema.<br> <br>
+          <div align="center">
+          <img src="feature/chapter02/Alert_Component.png">
+          </div>
+          <br>
+        - **2.6.3.6. Bounded Context Software Architecture Code Level Diagrams**
+
+            - **2.6.3.6.1. Bounded Context Domain Layer Class Diagrams**
+              <br><br>
+              Este diagrama UML representa la arquitectura de un sistema de gestión de alertas centrado en la administración de notificaciones entre Customers y Technicians. La estructura está basada en principios de diseño orientado a objetos y se organiza en capas de comandos y consultas, siguiendo un enfoque CQRS . A lo largo del análisis, se describirán los principales componentes del sistema, como los servicios de comandos y consultas, la entidad central Alert, así como los value objects, los comandos y consultas asociados. También se explicará cómo estas clases interactúan entre sí mediante relaciones de herencia, interfaces, asociación y dependencia para mantener una lógica de negocio clara, desacoplada y mantenible.<br> <br>
+          <div align="center">
+          <img src="feature/chapter02/Diagrama_de_Datos_Bounded_Alert.jpg">
+          </div>
+          <br>
+
+            - **2.6.3.6.2. Bounded Context Database Design Diagram**
+              <br><br>
+          <div align="center">
+          <img src="feature/chapter02/Diagrama_de_Datos_Bounded_Alert_Diagrama_Base_Datos.png">
+          </div>
+          <br>
+
+          **Tabla: Appointments**
+
+          | Campo        | Tipo         | Descripción                      |
+                    |--------------|--------------|----------------------------------|
           | id           | int          | Identificador único de la alerta |
           | type         | varchar(14)  | Tipo de alerta                   |
           | title        | varchar(120) | Título de la alerta              |
@@ -3168,9 +3127,9 @@ El primer paso consiste en identificar los eventos y organizarlos siguiendo una 
           | updated_at   | datetime     | Fecha de última actualización    |
 
     - **2.6.4. Bounded Context: Tec-Section**
-      - **2.6.4.1. Domain Layer**
-        
-        <br>**Sub-capa Model:**
+        - **2.6.4.1. Domain Layer**
+
+          <br>**Sub-capa Model:**
 
 | Tipo         | Nombre         | Descripción                                                         | Responsabilidad Principal                                   | Relación con otros elementos                                                                                  |
 |--------------|----------------|---------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
@@ -3273,99 +3232,98 @@ El primer paso consiste en identificar los eventos y organizarlos siguiendo una 
   | created_at         | datetime       | Fecha de creación de la solicitud                   |
   | updated_at         | datetime       | Fecha de última actualización de la solicitud       |
 
-
-
-
     - **2.6.5. Bounded Context: IAM**
-      - **2.6.5.1. Domain Layer**
-        **Sub-capa Model:**
+        - **2.6.5.1. Domain Layer**
+          **Sub-capa Model:**
 
-        | Tipo         | Nombre         | Descripción                                      | Responsabilidad Principal                                               | Relación con otros elementos                                 |
-         ------------ | -------------- | ------------------------------------------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------ |
-        | Aggregate    | User           | Entidad que modela a un usuario en la aplicación | Gestionar la lógica de negocio del usuario y garantizar su consistencia | Relacionado con otros contextos, encapsula reglas de negocio |
-        | Command      | SignInCommand  | Comando para iniciar sesión                      | Encapsular los datos necesarios para autenticar a un usuario            | Usado por el servicio de autenticación                       |
-        | Command      | SignUpCommand  | Comando para registrar un nuevo usuario          | Encapsular los datos requeridos para crear un nuevo usuario             | Usado por el servicio de autenticación                       |
-        | Value Object | EmailAddress   | Value object dentro de User                      | Representa y valida el correo electrónico                               | Relacionado con User                                         |
-        | Value Object | PersonName     | Value object dentro de User                      | Encapsula el nombre completo y valida formato                           | Relacionado con User                                         |
-        | Domain Event | UserRegistered | Evento emitido al registrar un nuevo usuario     | Notificar a otros contextos sobre el registro de un usuario             | Usado por servicios de aplicación e infraestructura          |
-        | Domain Event | UserSignedIn   | Evento disparado al iniciar sesión un usuario    | Informar a otros sistemas sobre el inicio de sesión                     | Usado por servicios de aplicación e infraestructura          |
-        
+          | Tipo         | Nombre         | Descripción                                      | Responsabilidad Principal                                               | Relación con otros elementos                                 |
+                   |------------ | -------------- | ------------------------------------------------ | ----------------------------------------------------------------------- |--------------------------------------------------------------|
+          | Aggregate    | User           | Entidad que modela a un usuario en la aplicación | Gestionar la lógica de negocio del usuario y garantizar su consistencia | Relacionado con otros contextos, encapsula reglas de negocio |
+          | Command      | SignInCommand  | Comando para iniciar sesión                      | Encapsular los datos necesarios para autenticar a un usuario            | Usado por el servicio de autenticación                       |
+          | Command      | SignUpCommand  | Comando para registrar un nuevo usuario          | Encapsular los datos requeridos para crear un nuevo usuario             | Usado por el servicio de autenticación                       |
+          | Value Object | EmailAddress   | Value object dentro de User                      | Representa y valida el correo electrónico                               | Relacionado con User                                         |
+          | Value Object | PersonName     | Value object dentro de User                      | Encapsula el nombre completo y valida formato                           | Relacionado con User                                         |
+          | Domain Event | UserRegistered | Evento emitido al registrar un nuevo usuario     | Notificar a otros contextos sobre el registro de un usuario             | Usado por servicios de aplicación e infraestructura          |
+          | Domain Event | UserSignedIn   | Evento disparado al iniciar sesión un usuario    | Informar a otros sistemas sobre el inicio de sesión                     | Usado por servicios de aplicación e infraestructura          |
 
-        **Sub-capa Service:**
+          **Sub-capa Service:**
 
-        | Tipo      | Nombre             | Descripción                         | Responsabilidad Principal                                | Relación con otros elementos                        |
-        | --------- | ------------------ | ----------------------------------- | -------------------------------------------------------- | --------------------------------------------------- |
-        | Interface | AuthCommandService | Interfaz para manejar autenticación | Establecer contrato para la lógica de autenticación      | Implementado en la capa de aplicación               |
-        | Interface | TokenService       | Interfaz para manejo de tokens      | Definir operaciones de generación y validación de tokens | Implementado en infraestructura como JwtServiceImpl |
+          | Tipo      | Nombre             | Descripción                         | Responsabilidad Principal                                | Relación con otros elementos                        |
+                  | --------- | ------------------ | ----------------------------------- | -------------------------------------------------------- | --------------------------------------------------- |
+          | Interface | AuthCommandService | Interfaz para manejar autenticación | Establecer contrato para la lógica de autenticación      | Implementado en la capa de aplicación               |
+          | Interface | TokenService       | Interfaz para manejo de tokens      | Definir operaciones de generación y validación de tokens | Implementado en infraestructura como JwtServiceImpl |
 
+        - **2.6.5.2. Interface Layer**
+          **Sub-capa REST**
+      
+          | Tipo       | Nombre                             | Descripción                                        | Responsabilidad Principal                                                | Relación con otros elementos                |
+          | ---------- | ---------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------- |
+          | Resource   | AuthRequestResource                | Estructura para solicitudes de autenticación       | Exponer los datos de autenticación de forma estructurada para el cliente | Usado por AuthController                    |
+          | Resource   | AuthResponseResource               | Estructura para respuestas de autenticación        | Proveer datos estructurados tras un inicio de sesión exitoso             | Usado por AuthController                    |
+          | Resource   | RegisterRequestResource            | Estructura para solicitudes de registro            | Representar los datos necesarios para registrar un usuario               | Usado por AuthController                    |
+          | Resource   | RegisterResponseResource           | Estructura para respuestas de registro             | Entregar datos estructurados tras un registro exitoso                    | Usado por AuthController                    |
+          | Resource   | ErrorResponseResource              | Estructura para manejar respuestas de error        | Estandarizar mensajes de error enviados al cliente                       | Usado por AuthController en caso de errores |
+          | Validator  | AuthRequestValidator               | Valida los datos de entrada de las solicitudes     | Garantizar que los datos recibidos cumplen con las reglas del dominio    | Usado por AuthController                    |
+          | Controller | AuthController                     | Gestiona las solicitudes HTTP de los clientes      | Recibir solicitudes, coordinar su procesamiento y devolver respuestas    | Usa recursos, validadores y ensambladores   |
+          | Assembler  | SignInCommandFromResourceAssembler | Convierte AuthRequestResource en SignInCommand     | Asegurar una transformación limpia entre recursos y comandos             | Usado por AuthController                    |
+          | Assembler  | SignUpCommandFromResourceAssembler | Convierte RegisterRequestResource en SignUpCommand | Prevenir inconsistencias al transformar datos de recursos a comandos     | Usado por AuthController                    |
 
-      - **2.6.5.2. Interface Layer**
-        **Sub-capa REST**
-        | Tipo       | Nombre                             | Descripción                                        | Responsabilidad Principal                                                | Relación con otros elementos                |
-        | ---------- | ---------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------- |
-        | Resource   | AuthRequestResource                | Estructura para solicitudes de autenticación       | Exponer los datos de autenticación de forma estructurada para el cliente | Usado por AuthController                    |
-        | Resource   | AuthResponseResource               | Estructura para respuestas de autenticación        | Proveer datos estructurados tras un inicio de sesión exitoso             | Usado por AuthController                    |
-        | Resource   | RegisterRequestResource            | Estructura para solicitudes de registro            | Representar los datos necesarios para registrar un usuario               | Usado por AuthController                    |
-        | Resource   | RegisterResponseResource           | Estructura para respuestas de registro             | Entregar datos estructurados tras un registro exitoso                    | Usado por AuthController                    |
-        | Resource   | ErrorResponseResource              | Estructura para manejar respuestas de error        | Estandarizar mensajes de error enviados al cliente                       | Usado por AuthController en caso de errores |
-        | Validator  | AuthRequestValidator               | Valida los datos de entrada de las solicitudes     | Garantizar que los datos recibidos cumplen con las reglas del dominio    | Usado por AuthController                    |
-        | Controller | AuthController                     | Gestiona las solicitudes HTTP de los clientes      | Recibir solicitudes, coordinar su procesamiento y devolver respuestas    | Usa recursos, validadores y ensambladores   |
-        | Assembler  | SignInCommandFromResourceAssembler | Convierte AuthRequestResource en SignInCommand     | Asegurar una transformación limpia entre recursos y comandos             | Usado por AuthController                    |
-        | Assembler  | SignUpCommandFromResourceAssembler | Convierte RegisterRequestResource en SignUpCommand | Prevenir inconsistencias al transformar datos de recursos a comandos     | Usado por AuthController                    |
+        - **2.6.5.3. Application Layer**
+          **Sub-capa Internal**
+      
+          | Tipo           | Nombre               | Descripción                     | Responsabilidad Principal                           | Relación con otros elementos      |
+          | -------------- | -------------------- | ------------------------------- | --------------------------------------------------- | --------------------------------- |
+          | CommandHandler | SignInCommandHandler | Maneja el comando SignInCommand | Ejecutar la lógica de autenticación de un usuario   | Usa UserRepository y TokenService |
+          | CommandHandler | SignUpCommandHandler | Maneja el comando SignUpCommand | Ejecutar la lógica de registro de un usuario        | Usa UserRepository                |
+          | EventPublisher | DomainEventPublisher | Publica eventos de dominio      | Notificar cambios en el dominio a sistemas externos | Usado por CommandHandlers         |
 
-      - **2.6.5.3. Application Layer**
-        **Sub-capa Internal**
-        | Tipo           | Nombre               | Descripción                     | Responsabilidad Principal                           | Relación con otros elementos      |
-        | -------------- | -------------------- | ------------------------------- | --------------------------------------------------- | --------------------------------- |
-        | CommandHandler | SignInCommandHandler | Maneja el comando SignInCommand | Ejecutar la lógica de autenticación de un usuario   | Usa UserRepository y TokenService |
-        | CommandHandler | SignUpCommandHandler | Maneja el comando SignUpCommand | Ejecutar la lógica de registro de un usuario        | Usa UserRepository                |
-        | EventPublisher | DomainEventPublisher | Publica eventos de dominio      | Notificar cambios en el dominio a sistemas externos | Usado por CommandHandlers         |
+        - **2.6.5.4. Infrastructure Layer**
+          **Sub-capa Repository**
 
-      - **2.6.5.4. Infrastructure Layer**
-        **Sub-capa Repository**
-        
-        | Tipo      | Nombre             | Descripción                                   | Responsabilidad Principal                                      | Relación con otros elementos           |
-        | --------- | ------------------ | --------------------------------------------- | -------------------------------------------------------------- | -------------------------------------- |
-        | Interface | UserRepository     | Interfaz para acceder a los datos del User    | Definir métodos para manipular datos del usuario               | Definida en dominio, implementada aquí |
-        | Class     | UserRepositoryImpl | Implementación del repositorio UserRepository | Conectar con la base de datos para operaciones de persistencia | Usado por CommandHandlers              |
-        
-        **Sub-capa Security**
-        
-        | Tipo   | Nombre         | Descripción                                 | Responsabilidad Principal                            | Relación con otros elementos |
-        | ------ | -------------- | ------------------------------------------- | ---------------------------------------------------- | ---------------------------- |
-        | Config | SecurityConfig | Configura reglas de autorización y permisos | Establecer políticas de seguridad para la aplicación | Aplicada globalmente         |
-        
-        **Sub-capa JWT**
-        | Tipo  | Nombre         | Descripción                                                     | Responsabilidad Principal                                                   | Relación con otros elementos                  |
-        | ----- | -------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------- |
-        | Class | JwtAuthFilter  | Filtro que valida tokens JWT en solicitudes HTTP                | Verificar la autenticidad de las solicitudes antes de llegar al controlador | Relacionado con la seguridad de la aplicación |
-        | Class | JwtServiceImpl | Gestiona la creación, validación y decodificación de tokens JWT | Encapsular toda la lógica relacionada con tokens JWT                        | Implementa TokenService                       |
-        
-        **Sub-capa Event Handling**
-        | Tipo         | Nombre                     | Descripción                      | Responsabilidad Principal                                               | Relación con otros elementos               |
-        | ------------ | -------------------------- | -------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------ |
-        | EventHandler | UserRegisteredEventHandler | Procesa el evento UserRegistered | Gestionar integraciones o notificaciones tras el registro de un usuario | Usa sistemas de mensajería o APIs externas |
-        
-        **Sub-capa Audit**
-        | Tipo    | Nombre       | Descripción                                       | Responsabilidad Principal                           | Relación con otros elementos              |
-        | ------- | ------------ | ------------------------------------------------- | --------------------------------------------------- | ----------------------------------------- |
-        | Service | AuditService | Registra eventos críticos (ej. intentos de login) | Mantener un registro de auditoría para trazabilidad | Usado por CommandHandlers o JwtAuthFilter |
+          | Tipo      | Nombre             | Descripción                                   | Responsabilidad Principal                                      | Relación con otros elementos           |
+                  | --------- | ------------------ | --------------------------------------------- | -------------------------------------------------------------- | -------------------------------------- |
+          | Interface | UserRepository     | Interfaz para acceder a los datos del User    | Definir métodos para manipular datos del usuario               | Definida en dominio, implementada aquí |
+          | Class     | UserRepositoryImpl | Implementación del repositorio UserRepository | Conectar con la base de datos para operaciones de persistencia | Usado por CommandHandlers              |
 
+          **Sub-capa Security**
+
+          | Tipo   | Nombre         | Descripción                                 | Responsabilidad Principal                            | Relación con otros elementos |
+                  | ------ | -------------- | ------------------------------------------- | ---------------------------------------------------- | ---------------------------- |
+          | Config | SecurityConfig | Configura reglas de autorización y permisos | Establecer políticas de seguridad para la aplicación | Aplicada globalmente         |
+
+          **Sub-capa JWT**
+      
+          | Tipo  | Nombre         | Descripción                                                     | Responsabilidad Principal                                                   | Relación con otros elementos                  |
+          | ----- | -------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------- |
+          | Class | JwtAuthFilter  | Filtro que valida tokens JWT en solicitudes HTTP                | Verificar la autenticidad de las solicitudes antes de llegar al controlador | Relacionado con la seguridad de la aplicación |
+          | Class | JwtServiceImpl | Gestiona la creación, validación y decodificación de tokens JWT | Encapsular toda la lógica relacionada con tokens JWT                        | Implementa TokenService                       |
+
+          **Sub-capa Event Handling**
+      
+          | Tipo         | Nombre                     | Descripción                      | Responsabilidad Principal                                               | Relación con otros elementos               |
+          | ------------ | -------------------------- | -------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------ |
+          | EventHandler | UserRegisteredEventHandler | Procesa el evento UserRegistered | Gestionar integraciones o notificaciones tras el registro de un usuario | Usa sistemas de mensajería o APIs externas |
+
+          **Sub-capa Audit**
+      
+          | Tipo    | Nombre       | Descripción                                       | Responsabilidad Principal                           | Relación con otros elementos              |
+          | ------- | ------------ | ------------------------------------------------- | --------------------------------------------------- | ----------------------------------------- |
+          | Service | AuditService | Registra eventos críticos (ej. intentos de login) | Mantener un registro de auditoría para trazabilidad | Usado por CommandHandlers o JwtAuthFilter |
 
     - **2.6.5.5. Bounded Context Software Architecture Component Level Diagrams**
-      
-     El diagrama muestra la estructura interna del contenedor IAM Application, que forma parte del bounded context de identidad y autenticación (IAM) del sistema. Este backend está construido siguiendo los principios de Clean Architecture y Domain-Driven Design (DDD)
-<br><br>
+
+  El diagrama muestra la estructura interna del contenedor IAM Application, que forma parte del bounded context de identidad y autenticación (IAM) del sistema. Este backend está construido siguiendo los principios de Clean Architecture y Domain-Driven Design (DDD)
+  <br><br>
   <div align="center">
   <img src="feature/chapter02/componet_IAM.png">
   </div>
   <br>
 
     - **2.6.5.6. Bounded Context Software Architecture Code Level Diagrams**
-- **2.6.5.6.1. Bounded Context Domain Layer Class Diagrams**
+    - **2.6.5.6.1. Bounded Context Domain Layer Class Diagrams**
 
-  En esta imagen, la clase User cumple un rol central al gestionar los atributos predeterminados del usuario, asegurando la integridad de la información básica como identificadores, credenciales y datos personales necesarios para el sistema
-  <br><br>
+      En esta imagen, la clase User cumple un rol central al gestionar los atributos predeterminados del usuario, asegurando la integridad de la información básica como identificadores, credenciales y datos personales necesarios para el sistema
+      <br><br>
   <div align="center">
   <img src="feature/chapter02/diagram_class_IAM.png">
   </div>
@@ -3373,7 +3331,7 @@ El primer paso consiste en identificar los eventos y organizarlos siguiendo una 
 
     - **2.6.5.6.2. Bounded Context Database Design Diagram**
 
-<br><br>
+  <br><br>
   <div align="center">
   <img src="feature/chapter02/diagram_database_IAM.png">
   </div>
@@ -3421,6 +3379,7 @@ El primer paso consiste en identificar los eventos y organizarlos siguiendo una 
 | event\_type      | Tipo de evento (REGISTERED, SIGNED\_IN, FAILED\_LOGIN).                    |
 | event\_timestamp | Fecha y hora en que ocurrió el evento.                                     |
 | details          | Detalles adicionales del evento (ej. IP, descripción del error, etc.).     |
+
 
 
 
