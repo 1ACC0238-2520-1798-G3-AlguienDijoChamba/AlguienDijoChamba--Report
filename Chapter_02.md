@@ -1,7 +1,7 @@
 ## **Capítulo II: Requirements Elicitation \& Analysis**
 - **2.1. Competidores**
 
-  | Competidor                                                 | Descripción                                                                                                                          | Características                                                                   | Logo                                                                                                                                                                                                                                    |
+  | Competidor                                                 | Descripción                                                                                                                          | Características                                                                   | Logo                                                                                                                                                                                                                                    
       |------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
   | **Ayfix**                                                  | Conecta a técnicos con usuarios para limpieza y reparaciones comunes, usando como canales principales apps móviles y páginas web.    | Canal de distribución principal: Aplicaciones de descarga y páginas web           | <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQupxHnI-Nv3HXRk4g3yrOiJyiCWJt9SuBYKHbZyI1FhkSG8v8Yn9j1tG2ElMZ5z8vy-fMJ1CvezZGPVLwA8nb5o5_Qsx8WVNhej_TC1YXp_1RvBROBO2zFKa5lybz9T9snOGzRg?key=7rHwqlj_RdIsExdWTIYPrLCO" />    |
   | **Servicio Técnico de empresas como Sodimac o Maestro**    | Ofrecen mantenimiento del hogar, pero con procesos más tradicionales y menor flexibilidad en comparación con plataformas digitales.  | Canal de distribución principal: Página web, tienda física y atención telefónica. | <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfAk3n-xv8nhRYxZsWZm3wb_QYbbHg8fe9zXodXQVETc1OQTdQihFHRXWWt6ElvAi2wpAwbY98pOZXFSLkLcxlZsaD1y_X4RX6OR35ix_58EQbldSAmt7jF7D2DKb-dEi56HAeDbA?key=7rHwqlj_RdIsExdWTIYPrLCO"/>     |
@@ -276,7 +276,7 @@
       Esta herramienta permite identificar y clasificar las actividades clave que realiza cada segmento, considerando la frecuencia con la que las llevan a cabo y el nivel de importancia que representan dentro de su interacción con la plataforma.
 
       | Tarea                                                     | Profesionales Técnicos (Frecuencia / Importancia) | Clientes (Frecuencia / Importancia) |
-            |-----------------------------------------------------------|---------------------------------------------------|-------------------------------------|
+      |-----------------------------------------------------------|---------------------------------------------------|-------------------------------------|
       | Registrarse en la plataforma                              | Baja / Alta                                       | Baja / Media                        |
       | Completar perfil y certificaciones                        | Baja / Alta                                       | -                                   |
       | Recibir notificaciones de servicios                       | Frecuente / Alta                                  | -                                   |
@@ -320,22 +320,22 @@
       ![Empaty Mapping Segmento 2](./feature/chapter02/Empaty_Mapping_Segmento_2.png)
 - **2.4. Ubiquitous Language**<br>
 
-  | Término en Inglés (Español) | Definición |
-      |-----------------------------|------------|
-  | **Account (Cuenta)** | Identidad digital de un usuario dentro de la plataforma. Incluye credenciales de acceso y estado de la cuenta. |
-  | **User (Usuario)** | Entidad básica que representa a una persona registrada en la plataforma. Contiene información personal esencial. |
-  | **Customer (Cliente)** | Usuario que solicita servicios técnicos o profesionales a través de la plataforma. |
-  | **Technician (Trabajador Técnico)** | Profesional que ofrece servicios en la plataforma. Posee experiencia validada, habilidades técnicas ycertificaciones. |
-  | **Experience (Experiencia)** | Historial laboral de un trabajador técnico que respalda su trayectoria en distintos roles o empresas. |
-  | **Review (Reseña)** | Calificación y comentario que un usuario emite sobre un servicio recibido o prestado. |
-  | **Proposal (Propuesta)** | Oferta formal presentada por un trabajador técnico a un cliente. Contiene la descripción del trabajo, precio y tiempo estimado. |
-  | **Sales Order Payment (Orden de Pago)** | Registro financiero de la transacción entre cliente y trabajador por los servicios acordados. |
-  | **Hourly Rate (Tarifa por Hora)** | Monto que un trabajador técnico define como su costo por hora de servicio. |
-  | **Field (Campo de Especialidad)** | Área técnica específica en la que un trabajador se desempeña profesionalmente. |
-  | **Skills (Habilidades)** | Conjunto de competencias técnicas y conocimientos que posee un trabajador. |
-  | **Gamification (Gamificación)** | Sistema de incentivos basado en puntos, niveles (Bronce, Plata, Oro) y recompensas, diseñado para motivar la participación activa y la fidelización de clientes y técnicos. |
-  | **Level (Nivel)** | Categoría alcanzada dentro del sistema de gamificación (ej. Bronce, Plata, Oro) que refleja la participación, reputación y logros de un usuario en la plataforma. |
-  | **Reward (Recompensa)** | Beneficio tangible o intangible otorgado a clientes o técnicos como resultado de su participación y logros en la plataforma. |
+  | Término en Inglés (Español)             | Definición                                                                                                                                                                  |
+  |-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  | **Account (Cuenta)**                    | Identidad digital de un usuario dentro de la plataforma. Incluye credenciales de acceso y estado de la cuenta.                                                              |
+  | **User (Usuario)**                      | Entidad básica que representa a una persona registrada en la plataforma. Contiene información personal esencial.                                                            |
+  | **Customer (Cliente)**                  | Usuario que solicita servicios técnicos o profesionales a través de la plataforma.                                                                                          |
+  | **Technician (Trabajador Técnico)**     | Profesional que ofrece servicios en la plataforma. Posee experiencia validada, habilidades técnicas ycertificaciones.                                                       |
+  | **Experience (Experiencia)**            | Historial laboral de un trabajador técnico que respalda su trayectoria en distintos roles o empresas.                                                                       |
+  | **Review (Reseña)**                     | Calificación y comentario que un usuario emite sobre un servicio recibido o prestado.                                                                                       |
+  | **Proposal (Propuesta)**                | Oferta formal presentada por un trabajador técnico a un cliente. Contiene la descripción del trabajo, precio y tiempo estimado.                                             |
+  | **Sales Order Payment (Orden de Pago)** | Registro financiero de la transacción entre cliente y trabajador por los servicios acordados.                                                                               |
+  | **Hourly Rate (Tarifa por Hora)**       | Monto que un trabajador técnico define como su costo por hora de servicio.                                                                                                  |
+  | **Field (Campo de Especialidad)**       | Área técnica específica en la que un trabajador se desempeña profesionalmente.                                                                                              |
+  | **Skills (Habilidades)**                | Conjunto de competencias técnicas y conocimientos que posee un trabajador.                                                                                                  |
+  | **Gamification (Gamificación)**         | Sistema de incentivos basado en puntos, niveles (Bronce, Plata, Oro) y recompensas, diseñado para motivar la participación activa y la fidelización de clientes y técnicos. |
+  | **Level (Nivel)**                       | Categoría alcanzada dentro del sistema de gamificación (ej. Bronce, Plata, Oro) que refleja la participación, reputación y logros de un usuario en la plataforma.           |
+  | **Reward (Recompensa)**                 | Beneficio tangible o intangible otorgado a clientes o técnicos como resultado de su participación y logros en la plataforma.                                                |
 
   | Término en Inglés (Español) | Definición |
         |-----------------------------|------------|
