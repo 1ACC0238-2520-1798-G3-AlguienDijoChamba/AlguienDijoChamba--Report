@@ -1,5 +1,6 @@
 ## **Capítulo II: Requirements Elicitation \& Analysis**
 - **2.1. Competidores**
+  <br>En esta sección se presentan los principales competidores del mercado de servicios técnicos y soluciones para el hogar, detallando su alcance, canales de distribución y características distintivas.<br><br>
 
   | Competidor                                                 | Descripción                                                                                                                          | Características                                                                   | Logo                                                                                                                                                                                                                                 
   |-|-|-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8,6 +9,7 @@
   | **Sistemas de domótica (como Google Nest o Xiaomi Home)**  | Ofrecen soluciones inteligentes para el hogar, pero con costos elevados y sin conexión directa con técnicos locales.                 | Canal de distribución principal: Página web y tienda física.                      | <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdonNQaiL2E0e4X5_Uz6KIHTyCuVqdWzz0q550v4adqZF983mpBHpLrvdQB9ZO0WqiqdGk3w1N5lDZ36KeZ8ijedQdV4qTQCD5DnIyMLQNnM-urCB-A8xlJzLkQ5dvk7v7rngffsQ?key=7rHwqlj_RdIsExdWTIYPrLCO"/>  |
 
     - **2.1.1. Análisis competitivo**
+      <br>En esta sección se identifica y compara a los principales competidores en el mercado de servicios técnicos, evaluando sus fortalezas, debilidades, alcance geográfico, estrategias de marketing y propuesta de valor.<br><br>
 
         <table>
             <tr>
@@ -103,7 +105,8 @@
             </tr>
         </table>
 
-    - **2.1.2. Estrategias y tácticas frente a competidores**<br><br>
+    - **2.1.2. Estrategias y tácticas frente a competidores**
+  <br>Esta sección describe las acciones planificadas para diferenciar la plataforma frente a competidores, enfocándose en la propuesta de valor, presencia digital, generación de confianza, beneficios iniciales para usuarios y ventajas para los técnicos. Se busca fortalecer la posición en el mercado mediante facilidad de uso, rapidez en la atención y fidelización de ambos segmentos objetivo.<br><br>
       **Propuesta de valor diferenciada:** Crear una plataforma que conecte de forma rápida y confiable a los usuarios con técnicos especializados (plomeros, electricistas, carpinteros, entre otros), destacándose por la facilidad de uso y tiempos de respuesta cortos.
 
       **Estrategia digital multicanal:** Posicionarse con campañas en redes sociales, influencers del hogar y tecnología, además de publicidad segmentada en zonas urbanas con alta demanda de servicios básicos.
@@ -114,6 +117,7 @@
 
       **Valor para técnicos:** Implementar pagos instantáneos al finalizar el servicio, eliminando esperas y motivando a los profesionales a preferir la plataforma.
 - **2.2. Entrevistas**
+  <br> Esta sección se agrupa todo el proceso relacionado con la realización de entrevistas a los segmentos objetivo, incluyendo el registro de las mismas y el análisis de la información obtenida. Permite identificar necesidades, expectativas y puntos de dolor de los usuarios, sirviendo como insumo principal para el diseño del producto.<br><br>
     - **2.2.1. Diseño de entrevistas**
 
       Con el propósito de identificar de manera más clara las necesidades, comportamientos y expectativas de nuestros usuarios potenciales, hemos elaborado un conjunto de entrevistas. Estas están enfocadas en evaluar la aceptación y el interés por los servicios que plantea AlguienDijoChamba, tanto desde la perspectiva de los hogares que requieren asistencia como desde la de los técnicos que ofrecen su trabajo.
@@ -146,6 +150,7 @@
         10. Pensando en una app como AlguienDijoChamba, ¿qué funciones te serían más útiles? (ejemplo: chat con técnicos, historial de servicios, alertas, cotización inmediata, pagos digitales, etc.)
 
 - **2.2.2. Registro de entrevistas**
+  <br> En esta sección se recopilan las entrevistas realizadas a los dos segmentos objetivo: Profesionales Técnicos y Clientes. Se registran las respuestas, observaciones y comentarios clave de cada participante, sirviendo como base para el análisis de necesidades y la posterior definición de requisitos del sistema.<br><br>
 
   **Entrevistas Segmento Objetivo 1: Profesionales Tecnicos**
 
@@ -247,7 +252,7 @@
   Ángel ve a AlguienDijoChamba como una oportunidad para resolver problemas de informalidad, costos inesperados y falta de garantías en los servicios técnicos. Considera que la verificación de técnicos, la transparencia en precios y los pagos digitales inmediatos son elementos esenciales. Además, valora la incorporación de un sistema de niveles con beneficios y la posibilidad de integrar monitoreo inteligente en el hogar, lo cual refuerza el atractivo de la plataforma.
 
 - **2.2.3. Análisis de entrevistas**
-
+  <br> En este apartado se documenta el análisis de las entrevistas realizadas a los dos segmentos objetivo: Profesionales Técnicos y Clientes. El propósito es identificar patrones, necesidades, frustraciones y expectativas de cada grupo para fundamentar el diseño del sistema y priorizar funcionalidades. <br><br>
   **Análisis Segmento Objetivo 1: Profesionales Tecnicos**
 
   Los entrevistados coinciden en que la aplicación representa una propuesta innovadora que les ayudaría a ampliar su alcance profesional, generar más oportunidades de trabajo y facilitar la conexión con potenciales clientes. Además, valoran las funcionalidades diferenciadoras que aportarían practicidad y competitividad frente a otras alternativas del mercado.
@@ -260,8 +265,9 @@
   En general, las entrevistas confirmaron que AlguienDijoChamba responde a necesidades reales. Los clientes buscan seguridad, transparencia y facilidad. Los técnicos necesitan herramientas para crecer profesionalmente y llegar a más personas. Ambos segmentos mostraron interés en la propuesta y en las funcionalidades planteadas, lo cual refuerza el valor de la plataforma que estamos construyendo.
 
 - **2.3. Needfinding**
+  <br> En esta sección se identifican y analizan las necesidades de los distintos tipos de usuarios del sistema. Este análisis permite priorizar funcionalidades y diseñar soluciones que respondan de manera efectiva a los problemas y expectativas de cada segmento de usuarios. <br><br>
     - **2.3.1. User Personas**
-
+      <br> En esta sección se presentan los perfiles representativos de los usuarios del sistema, permitiendo identificar características, motivaciones y necesidades de cada segmento para guiar el desarrollo de funcionalidades y la experiencia de usuario. <br><br>
       **Segmento Objetivo 1: Profesionales Tecnicos**
 
       ![User Persona Segmento 1](./feature/chapter02/User_Segmento_1.png)
@@ -294,7 +300,7 @@
         - Finalmente, tareas iniciales como el **registro** o completar el perfil, aunque se realizan una sola vez, tienen un peso alto en la experiencia inicial del usuario, por lo que deben diseñarse de forma simple e intuitiva.
 
     - **2.3.3. User Journey Mapping**
-
+      <br> En esta seccion describiremos visualmente las interacciones de los usuarios con el sistema, mostrando los pasos, emociones y puntos de contacto clave.<br><br>
       **Segmento Objetivo 1: Profesionales Tecnicos**
 
       ![User Journey Mapping Segmento 1](./feature/chapter02/User_Journey_Mapping_tecnico.png)
@@ -319,6 +325,7 @@
 
       ![Empaty Mapping Segmento 2](./feature/chapter02/Empaty_Mapping_Segmento_2.png)
 - **2.4. Ubiquitous Language**<br>
+  <br> En esta sección se define el lenguaje ubicuo del dominio, es decir, los términos, conceptos y definiciones compartidos entre desarrolladores, expertos del negocio y demás stakeholders. Esto garantiza comunicación clara, evita ambigüedades y facilita la alineación entre el modelo de dominio y la implementación del sistema. <br>
 
   | Término en Inglés (Español)             | Definición                                                                                                                                                                  |
   |-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -337,24 +344,8 @@
   | **Level (Nivel)**                       | Categoría alcanzada dentro del sistema de gamificación (ej. Bronce, Plata, Oro) que refleja la participación, reputación y logros de un usuario en la plataforma.           |
   | **Reward (Recompensa)**                 | Beneficio tangible o intangible otorgado a clientes o técnicos como resultado de su participación y logros en la plataforma.                                                |
 
-  | Término en Inglés (Español)             | Definición                                                                                                                                                                  |
-  |-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-  | **Account (Cuenta)**                    | Identidad digital de un usuario dentro de la plataforma. Incluye credenciales de acceso y estado de la cuenta.                                                              |
-  | **User (Usuario)**                      | Entidad básica que representa a una persona registrada en la plataforma. Contiene información personal esencial.                                                            |
-  | **Customer (Cliente)**                  | Usuario que solicita servicios técnicos o profesionales a través de la plataforma.                                                                                          |
-  | **Technician (Trabajador Técnico)**     | Profesional que ofrece servicios en la plataforma. Posee experiencia validada, habilidades técnicas y certificaciones.                                                      |
-  | **Experience (Experiencia)**            | Historial laboral de un trabajador técnico que respalda su trayectoria en distintos roles o empresas.                                                                       |
-  | **Review (Reseña)**                     | Calificación y comentario que un usuario emite sobre un servicio recibido o prestado.                                                                                       |
-  | **Proposal (Propuesta)**                | Oferta formal presentada por un trabajador técnico a un cliente. Contiene la descripción del trabajo, precio y tiempo estimado.                                             |
-  | **Sales Order Payment (Orden de Pago)** | Registro financiero de la transacción entre cliente y trabajador por los servicios acordados.                                                                               |
-  | **Hourly Rate (Tarifa por Hora)**       | Monto que un trabajador técnico define como su costo por hora de servicio.                                                                                                  |
-  | **Field (Campo de Especialidad)**       | Área técnica específica en la que un trabajador se desempeña profesionalmente.                                                                                              |
-  | **Skills (Habilidades)**                | Conjunto de competencias técnicas y conocimientos que posee un trabajador.                                                                                                  |
-  | **Gamification (Gamificación)**         | Sistema de incentivos basado en puntos, niveles (Bronce, Plata, Oro) y recompensas, diseñado para motivar la participación activa y la fidelización de clientes y técnicos. |
-  | **Level (Nivel)**                       | Categoría alcanzada dentro del sistema de gamificación (ej. Bronce, Plata, Oro) que refleja la participación, reputación y logros de un usuario en la plataforma.           |
-  | **Reward (Recompensa)**                 | Beneficio tangible o intangible otorgado a clientes o técnicos como resultado de su participación y logros en la plataforma.                                                |
-
 - **2.4. Requirements specification**
+  <br> Esta sección detalla la especificación de requisitos del sistema, incluyendo funcionales, no funcionales, restricciones y criterios de aceptación. Proporciona una guía clara para el desarrollo y asegura que todas las necesidades de los usuarios y del negocio estén correctamente documentadas y comprendidas. <br><br>
     - **2.4.1. User Stories**
       ### Epic Story
       | Epic ID    | Título                                                                                                                                                                   |
@@ -2615,6 +2606,7 @@
       </table>
 
     - **2.4.2. Impact Mapping**
+      <br> En esta sección se presenta el Impact Mapping del proyecto, mostrando cómo los objetivos del negocio se relacionan con los segmentos de usuarios y las funcionalidades del sistema. Se incluyen los mapas de impacto para los profesionales técnicos y para los clientes, facilitando la identificación de prioridades y la alineación de desarrollo con los objetivos estratégicos. <br><br>
 
       **Segmento Objetivo 1: Profesionales Tecnicos**
 
@@ -2625,6 +2617,7 @@
       ![User Journey Mapping Segmento 2](./feature/chapter02/ImpactMap_Clientes.png)
 
     - **2.4.3. Product Backlog**
+      <br> En esta sección se detalla el Product Backlog del proyecto, incluyendo la lista priorizada de funcionalidades, mejoras y correcciones a implementar. Cada ítem contiene descripciones claras, criterios de aceptación y estimaciones de esfuerzo, facilitando la planificación y seguimiento del desarrollo ágil. <br>
 
       <table>
         <tr>
@@ -2710,6 +2703,7 @@
 
 
 - **2.5. Strategic-Level Domain-Driven Design**
+  <br> En esta sección se aborda el diseño estratégico del dominio, identificando los bounded contexts, agregados y relaciones entre subdominios. Se busca organizar el sistema a un nivel macro para garantizar coherencia, modularidad y alineación con los objetivos de negocio. <br><br>
     - **2.5.1. EventStorming**
 
   Mediante la plataforma Miro, llevamos a cabo el proceso de EventStorming, lo que nos permitió identificar eventos, usuarios o agentes, comandos que desencadenan dichos eventos, agregados y bounded contexts.
@@ -2828,25 +2822,31 @@
           <br>
 
     - **2.5.3. Software Architecture**
+      <br> En esta sección se presentan los diagramas de arquitectura de software a diferentes niveles de abstracción. Los diagramas de contexto muestran los actores y sistemas externos que interactúan con la aplicación; los diagramas de contenedor detallan los componentes principales, servicios y bases de datos; y los diagramas de despliegue representan la distribución física de los contenedores y la infraestructura que soporta la aplicación. <br><br>
         - **2.5.3.1. Software Architecture Context Level Diagrams**
+          <br> Este diagrama de contexto se muestra los actores externos y sistemas que interactúan con la aplicación, así como los límites del sistema y los flujos principales de información. Permite entender cómo se conecta el sistema con su entorno sin entrar en detalles internos. <br>
           <div align="center">
           <img src="./feature/chapter02/ContextDiagram.png"/>
           </div>
           <br>
         - **2.5.3.2. Software Architecture Container Level Diagrams**
+          <br> Este diagrama de nivel de contenedor ilustra los principales contenedores de software que componen el sistema (como aplicaciones web, servicios de backend, bases de datos y microservicios) y cómo se comunican entre sí. Facilita la comprensión de la distribución de responsabilidades y la arquitectura tecnológica general. <br><br>
           <div align="center">
           <img src="./feature/chapter02/Container-Level-Diagrams.png"/>
           </div>
           <br>
         - **2.5.3.3. Software Architecture Deployment Diagrams**
+          <br> Este diagrama de despliegue muestra cómo los componentes del sistema se distribuyen físicamente en la infraestructura, incluyendo servidores, contenedores, bases de datos y otros nodos de ejecución. Permite visualizar la topología de despliegue y la interacción entre los distintos elementos del entorno productivo. <br><br>
           <div align="center">
           <img src="./feature/chapter02/DeployDiagram.png"/>
           </div>
           <br>
 - **2.6. Tactical-Level Domain-Driven Design**
-
+  <br> En esta sección se describe el diseño táctico de los bounded contexts del sistema, aplicando los principios de Domain-Driven Design (DDD) para estructurar las capas de dominio, aplicación, infraestructura e interfaces, asegurando que cada contexto encapsule su lógica, persistencia y comunicación de manera coherente y alineada con los objetivos del negocio. <br><br>
     - **2.6.1. Bounded Context: Technician-Catalog**
-        - **2.6.1.1. Domain Layer** <br>
+    <br> En el bounded context Technician-Catalog se aborda la gestión de perfiles de técnicos y sus categorías de especialización. Este módulo permite registrar, actualizar y consultar la información profesional, habilidades y calificaciones de los técnicos, garantizando la organización del catálogo y una experiencia eficiente para los usuarios. <br>
+        - **2.6.1.1. Domain Layer**
+          <br> En la Domain Layer del bounded context Catalog se definen las entidades, value objects, comandos y consultas que modelan la información profesional de los Technicians y sus categorías, asegurando la integridad de los datos y las reglas de negocio asociadas a la gestión del catálogo de técnicos. <br><br>
           **Sub-capa Model:**
 
           | Tipo         | Nombre                               | Descripción                                                                | Responsabilidad Principal                                                                                  | Relación con otros elementos                           |
@@ -2871,7 +2871,7 @@
           | Service  | TechnicianApiService       | Servicio para integrar con el backend vía API REST              | Gestionar Technicians y categorías en BD           | Se comunica con `/api/v1/Technicians` y `/api/v1/categories` |
 
         - **2.6.1.2. Interface Layer**
-      
+          <br> En la Interface Layer del bounded context Catalog se implementan los controladores, recursos y assemblers que exponen los endpoints para gestionar perfiles de técnicos y categorías, asegurando la correcta transformación de datos entre la capa de presentación y la lógica de dominio. <br><br>
           **Sub-capa Service:**
 
           | Tipo        | Nombre                                              | Descripción                                                         | Responsabilidad Principal                                 | Relación con otros elementos         |
@@ -2887,7 +2887,7 @@
           | Assembler   | TechnicianProfileResourceFromEntityAssembler        | Convierte entidad TechnicianProfile en respuesta                    | Asegurar consistencia en API                              | Usado en TechnicianProfileController |
 
         - **2.6.1.3. Application Layer**
-      
+          <br> En la Application Layer del bounded context Catalog se gestionan los casos de uso y la lógica de aplicación relacionada con perfiles de técnicos y categorías, coordinando comandos y consultas para garantizar la correcta ejecución de las operaciones del dominio. <br><br>
           **Sub-capa Internal:**
 
           | Tipo             | Nombre                                | Descripción                                       | Responsabilidad Principal                              | Relación con otros elementos           |
@@ -2898,7 +2898,7 @@
           | QueryHandler     | CategoryQueryServiceImpl              | Implementación de consultas para categorías       | Listar categorías disponibles                          | Usado por CategoryController           |
 
         - **2.6.1.4. Infrastructure Layer**
-      
+          <br> En la Infrastructure Layer del bounded context Catalog se implementan los componentes técnicos que permiten la persistencia de perfiles de técnicos y categorías, garantizando la integración del dominio con la base de datos. <br><br>
           **Sub-capa Repository:**
 
           | Tipo        | Nombre                        | Descripción                          | Responsabilidad Principal           | Relación con otros elementos |
@@ -2926,7 +2926,7 @@
               </div>
               <br>
             - **2.6.1.6.2. Bounded Context Database Design Diagram** <br>
-          
+              <br> En esta imagen se muestra el diseño de la base de datos del bounded context Catalog, donde se estructuran las tablas principales para productos, categorías y atributos, asegurando la integridad referencial y la trazabilidad de la información del catálogo. <br><br>
               <div align="center">
               <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/1_Catalog/3_Bounded_Context_Database_Design_Diagram.png"/>
               </div>
@@ -2978,8 +2978,9 @@
           | created\_at    | datetime      | Fecha y hora en que se registró la calificación. |
 
     - **2.6.2. Bounded Context: Payments**
+    <br> En el bounded context Payments veremos la gestión integral de los pagos dentro del sistema, incluyendo su registro, validación, procesamiento y posibles reembolsos. Este módulo asegura la correcta ejecución de las transacciones financieras entre Customers y Technicians, manteniendo la integridad y trazabilidad de cada operación. <br>
         - **2.6.2.1. Domain Layer** <br>
-
+          <br> En la Domain Layer del bounded context Payments se modela la lógica principal de gestión de pagos y transacciones, asegurando la integridad de los datos financieros y la correcta asociación con órdenes y usuarios. <br><br>
           **Sub-capa Model:**
 
           | Tipo     | Nombre      | Descripción                                                               | Responsabilidad Principal                                    | Relación con otros elementos                      |
@@ -2998,7 +2999,7 @@
           | Service   | ValidationService  | Reglas de validación de datos en el proceso de pago.            | Validar montos, usuarios y métodos de pago.        | Usado por `PaymentService`.             |
 
         - **2.6.2.2. Interface Layer** <br>
-
+          <br> En la Interface Layer del bounded context Payments se exponen los endpoints REST que permiten a los clientes interactuar con la lógica de pagos y reembolsos, garantizando la comunicación estructurada con la capa de aplicación. <br><br>
           **Sub-capa REST**
 
           | Tipo     | Nombre             | Descripción                                               | Responsabilidad Principal                       | Relación con otros elementos   |
@@ -3008,7 +3009,7 @@
           | Endpoint | POST /refunds      | Procesa una solicitud de reembolso.                       | Ejecutar lógica de devolución de dinero.        | Llama a `RefundService`.       |
 
         - **2.6.2.3. Application Layer** <br>
-
+          <br> En la Application Layer del bounded context Payments se gestionan los casos de uso y la integración con servicios externos, coordinando la ejecución de pagos y reembolsos mientras se comunica con la capa de infraestructura y pasarelas de pago. <br>
           **Sub-capa Internal**
 
           | Tipo         | Nombre            | Descripción                                             | Responsabilidad Principal                            | Relación con otros elementos     |
@@ -3023,7 +3024,7 @@
           | Gateway    | PaymentGateway     | Integración con pasarela de pago externa (ej. Stripe).  | Conectar con sistemas externos de cobro.        | Llamado por `PaymentService`.   |  
 
         - **2.6.2.4. Infrastructure Layer**<br>
-
+          <br> En la Infrastructure Layer del bounded context Payments se implementan los componentes necesarios para la persistencia y manejo de datos de pagos y transacciones, asegurando que la lógica del dominio se integre correctamente con la base de datos. <br><br>
           **Sub-capa Repository**
 
           | Tipo          | Nombre                | Descripción                                      | Responsabilidad Principal                         | Relación con otros elementos |
@@ -3032,20 +3033,23 @@
           | Repository    | TransactionRepository | Repositorio para registros de transacciones.     | Guardar y recuperar `Transaction`.                | Relación con `Database`.     |
 
         - **2.6.2.5. Bounded Context Software Architecture Component Level Diagrams**
-      
+          
+          <br> Este diagrama muestra la arquitectura de componentes del bounded context Payments, evidenciando cómo se organizan los servicios, controladores y recursos para gestionar transacciones de manera segura y consistente dentro del sistema. <br>
           <div align="center">
           <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/2_Payments/1_Bounded_Context_Software_Architecture_Component_Level_Diagrams.png"/>
           </div>
           
         - **2.6.2.6. Bounded Context Software Architecture Code Level Diagrams**
           - **2.6.2.6.1. Bounded Context Domain Layer Class Diagrams**
-
+          
+            <br> En este diagrama se muestra la estructura de clases del bounded context Payments, donde la clase principal Payment gestiona los atributos esenciales de cada transacción, garantizando la consistencia de datos financieros y la relación con métodos de pago y usuarios involucrados. <br><br>
             <div align="center">
             <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/2_Payments/2_Bounded_Context_Domain_Layer_Class_Diagrams.png"/>
             </div>
 
           - **2.6.2.6.2. Bounded Context Database Design Diagram**
-
+          
+            <br> En esta imagen se presenta el diseño de la base de datos del bounded context Payments, mostrando las tablas principales para la gestión de transacciones, métodos de pago y registros asociados, asegurando integridad, trazabilidad y correcta relación entre las entidades dentro del sistema. <br><br>
             <div align="center">
             <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/2_Payments/3_Bounded_Context_Database_Design_Diagram.png"/>
             </div>
@@ -3080,9 +3084,9 @@
             | timestamp               | timestamp   | Marca de tiempo de la transacción     |
 
     - **2.6.3. Bounded Context: Alerts**
-
+    <br> En el bounded context Alerts veremos la gestión completa de las alertas del sistema, incluyendo su creación, consulta y actualización. Este módulo permite notificar a Customers y Technicians sobre eventos importantes, garantizando una comunicación clara y oportuna dentro de la plataforma. <br>
         - **2.6.3.1. Domain Layer**
-      
+          <br> En la Domain Layer del bounded context Alerts se definen los modelos, comandos, consultas y servicios que encapsulan la lógica principal de creación, aceptación, rechazo y eliminación de alertas, asegurando la integridad y consistencia de los datos dentro del sistema. <br><br>
             **Sub-capa Model:**  
       
             | Tipo         | Nombre                      | Descripción                                               | Responsabilidad Principal                              | Relación con otros elementos                                                                                                                                    |
@@ -3106,6 +3110,7 @@
             | Interface | AlertQueryService   | Servicio para consultas relacionadas con Alert  | Declarar métodos para filtrar por Customer o técnico             | Implementado por `AlertQueryServiceImpl`. Usado en capa de Application |
 
         - **2.6.3.2. Interface Layer**
+          <br> En la Interface Layer del bounded context Alerts se implementan los controladores, recursos y ensambladores que permiten la comunicación entre el cliente y la lógica de dominio, asegurando que las solicitudes y respuestas de alertas se manejen de forma estructurada y consistente. <br><br>
           **Sub-capa REST**
 
           | Tipo       | Nombre                                    | Descripción                                                  | Responsabilidad Principal                                                                                                                      | Relación con otros elementos                                                             |
@@ -3120,6 +3125,7 @@
           | Assembler  | AlertResourceFromEntityAssembler          | Convierte una entidad Alert en un recurso de respuesta       | Asegura una respuesta consistent para el cliente                                                                                               | Usado en `AlertController` para retornar `AlertResponseResource`                         |
 
         - **2.6.3.3. Application Layer**
+          <br> En la Application Layer del bounded context Alerts se gestionan los comandos y consultas que coordinan la ejecución de la lógica para crear, aceptar, rechazar y consultar alertas, asegurando que las operaciones sobre las notificaciones se ejecuten correctamente dentro del sistema. <br><br>
           **Sub-capa Internal**
 
           | Tipo           | Nombre                  | Descripción                              | Responsabilidad Principal                                                                              | Relación con otros elementos                                                                    |
@@ -3128,6 +3134,7 @@
           | QueryHandler   | AlertQueryServiceImpl   | Implementación de las consultas de Alert | Implementar métodos para obtener alertas por ` GetAlertByCustomerQuery` y `GetAlertByTechnicianQuery ` | Implementa la interfaz `AlerQueryService`. Usado por `AlertController` y lo Query  del dominio  |
 
         - **2.6.3.4. Infrastructure Layer**
+          <br> En la Infrastructure Layer del bounded context Alerts se implementan los componentes técnicos encargados de la persistencia y acceso a datos del modelo de alertas, garantizando la correcta gestión y almacenamiento de las notificaciones generadas por el sistema. <br> <br>
           **Sub-capa Repository**
 
           | Tipo       | Nombre          | Descripción                            | Responsabilidad Principal                        | Relación con otros elementos                                                             |
@@ -3153,6 +3160,7 @@
               <br>
 
             - **2.6.3.6.2. Bounded Context Database Design Diagram**
+              <br>  Este diagrama representa el diseño de base de datos correspondiente al bounded context Alerts, mostrando las entidades, sus atributos principales y las relaciones entre ellas dentro del contexto delimitado.
               <br><br>
 
                 <div align="center">
@@ -3173,11 +3181,11 @@
             | created_at     | datetime      | Fecha de creación de la alerta    |
             | updated_at     | datetime      | Fecha de última actualización     |
 
-    - **2.6.4. Bounded Context: Tec-Section** 
-
+    - **2.6.4. Bounded Context: Tec-Section**
+    <br> En el bounded context Tec-Section se desarrolla la gestión de solicitudes de trabajo y perfiles técnicos. Este módulo permite crear, asignar y completar servicios entre Customers y Technicians, garantizando un flujo ordenado, trazable y eficiente en la ejecución de tareas dentro de la plataforma. <br>
         - **2.6.4.1. Domain Layer**
-
-            <br>**Sub-capa Model:**
+        <br> En la Domain Layer del bounded context Tec-Section se modelan las entidades, value objects, comandos y consultas que definen la lógica principal del dominio, abarcando la gestión de solicitudes de trabajo y la información de los técnicos involucrados.<br> <br>
+            **Sub-capa Model:**
       
           | Tipo         | Nombre                           | Descripción                                          | Responsabilidad Principal                                        | Relación con otros elementos                                                                        |
           |--------------|----------------------------------|------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -3202,8 +3210,8 @@
           | Service   | TechnicianApiService | Servicio para integrar con el backend vía API REST             | Gestionar Technicians, Customers, categorías y solicitudes en la base de datos | Se comunica con la API (`/api/v1/Technicians`, `/api/v1/users`, `/api/v1/categories`). Consumido en capa Application |
 
         - **2.6.4.2. Interface Layer**
-
-          <br>**Sub-capa REST**
+          <br> En la Interface Layer del bounded context Tec-Section se definen los controladores, recursos y ensambladores que exponen los endpoints REST para gestionar solicitudes de trabajo y perfiles técnicos, facilitando la comunicación entre los usuarios y la lógica de aplicación..<br> <br>
+          **Sub-capa REST**
 
           | Tipo       | Nombre                                          | Descripción                                                           | Responsabilidad Principal                                                                                              | Relación con otros elementos                                                                               |
           |------------|-------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
@@ -3221,8 +3229,8 @@
           | Assembler  | TechnicianProfileResourceFromEntityAssembler    | Convierte una entidad TechnicianProfile en un recurso de respuesta    | Asegurar respuesta consistente para el cliente                                                                         | Usado en `TechnicianProfileController` para retornar `TechnicianProfileResponseResource`                   |
 
         - **2.6.4.3. Application Layer**
-
-          <br>**Sub-capa Internal**
+        <br> En la Application Layer del bounded context Tec-Section se implementan los servicios encargados de procesar comandos y consultas relacionados con solicitudes de trabajo y perfiles técnicos, gestionando la lógica de aplicación entre el dominio y las interfaces. <br>
+          **Sub-capa Internal**
       
             | Tipo           | Nombre                              | Descripción                                           | Responsabilidad Principal                                                                | Relación con otros elementos                                                                                                        |
             |----------------|-------------------------------------|-------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -3232,7 +3240,7 @@
             | QueryHandler   | TechnicianProfileQueryServiceImpl   | Implementación de las consultas de TechnicianProfile  | Implementar métodos para consultar perfiles por categoría, disponibilidad, experiencia   | Implementa la interfaz `TechnicianProfileQueryService`. Usado por `TechnicianProfileController` y los QueryHandlers del dominio     |
       
         - **2.6.4.4. Infrastructure Layer**
-      
+        <br> En la Infrastructure Layer del bounded context Tec-Section se implementan los repositorios encargados de la persistencia de datos de solicitudes de trabajo y perfiles técnicos, asegurando la comunicación eficiente entre la lógica de aplicación y la base de datos.<br> <br>
           **Sub-capa Repository**  
       
           | Tipo       | Nombre                      | Descripción                                        | Responsabilidad Principal                                              | Relación con otros elementos                                                                                 |
@@ -3258,6 +3266,7 @@
                </div>
                <br>
           - **2.6.4.6.2. Bounded Context Database Design Diagram**
+            <br> En esta imagen se presenta el diseño de la base de datos del bounded context Tec-Section, donde se definen las tablas relacionadas con las solicitudes de trabajo, técnicos y asignaciones. Este diagrama permite visualizar la estructura de datos y las relaciones que soportan la gestión operativa del módulo. <br>
             <br><br>
               <div align="center">
               <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/4_Tec_Section/3_Bounded_Context_Database_Design_Diagram.png"/>
@@ -3286,7 +3295,9 @@
             | updated_at               | datetime      | Fecha de última actualización de la solicitud    |
 
     - **2.6.5. Bounded Context: IAM**
+    <br> En el bounded context IAM se aborda la gestión de identidad y acceso de los usuarios dentro del sistema. Este módulo garantiza la autenticación, autorización y registro seguro, mediante el manejo de credenciales, roles, tokens JWT y auditoría de eventos críticos, asegurando la integridad y trazabilidad del acceso a los servicios. <br>
         - **2.6.5.1. Domain Layer**
+        <br> En la Domain Layer del bounded context IAM se definen los modelos, comandos, eventos y servicios que encapsulan la lógica principal de identidad y autenticación. <br>
           **Sub-capa Model:**
 
           | Tipo          | Nombre          | Descripción                                        | Responsabilidad Principal                                                 | Relación con otros elementos                                 |
@@ -3307,6 +3318,7 @@
           | Interface   | TokenService        | Interfaz para manejo de tokens       | Definir operaciones de generación y validación de tokens | Implementado en infraestructura como JwtServiceImpl |
 
         - **2.6.5.2. Interface Layer**
+        <br> En la Interface Layer del bounded context IAM se implementan los controladores, recursos y validadores que gestionan la comunicación entre el cliente y la lógica de dominio mediante servicios REST. <br>
           **Sub-capa REST**
       
           | Tipo       | Nombre                             | Descripción                                        | Responsabilidad Principal                                                | Relación con otros elementos                |
@@ -3322,6 +3334,7 @@
           | Assembler  | SignUpCommandFromResourceAssembler | Convierte RegisterRequestResource en SignUpCommand | Prevenir inconsistencias al transformar datos de recursos a comandos     | Usado por AuthController                    |
 
         - **2.6.5.3. Application Layer**
+        <br> En la Application Layer del bounded context IAM se gestionan los comandos y eventos que coordinan la ejecución de la lógica de autenticación y registro de usuarios dentro del sistema. <br>
           **Sub-capa Internal**
       
           | Tipo            | Nombre                | Descripción                      | Responsabilidad Principal                           | Relación con otros elementos       |
@@ -3331,6 +3344,7 @@
           | EventPublisher  | DomainEventPublisher  | Publica eventos de dominio       | Notificar cambios en el dominio a sistemas externos | Usado por CommandHandlers          |
 
         - **2.6.5.4. Infrastructure Layer**
+        <br> En la Infrastructure Layer del bounded context IAM se implementan los componentes técnicos que soportan la persistencia, seguridad, manejo de tokens JWT, eventos y auditoría, garantizando la integración del dominio con los servicios externos y la base de datos. <br>
           **Sub-capa Repository**
 
           | Tipo        | Nombre             | Descripción                                    | Responsabilidad Principal                                      | Relación con otros elementos             |
@@ -3363,73 +3377,73 @@
           |-----------|----------------|-----------------------------------------------------|-------------------------------------------------------|--------------------------------------------|
           | Service   | AuditService   | Registra eventos críticos (ej. intentos de login)   | Mantener un registro de auditoría para trazabilidad   | Usado por CommandHandlers o JwtAuthFilter  |
 
-    - **2.6.5.5. Bounded Context Software Architecture Component Level Diagrams**
+        - **2.6.5.5. Bounded Context Software Architecture Component Level Diagrams**
       
-      El diagrama muestra la estructura interna del contenedor IAM Application, que forma parte del bounded context de identidad y autenticación (IAM) del sistema. Este backend está construido siguiendo los principios de Clean Architecture y Domain-Driven Design (DDD)
-      <br><br>
-      <div align="center">
-      <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/5_Iam/1_Bounded_Context_Software_Architecture_Component_Level_Diagrams.png"/>
-      </div>
-      <br>
+          El diagrama muestra la estructura interna del contenedor IAM Application, que forma parte del bounded context de identidad y autenticación (IAM) del sistema. Este backend está construido siguiendo los principios de Clean Architecture y Domain-Driven Design (DDD)
+          <br><br>
+          <div align="center">
+          <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/5_Iam/1_Bounded_Context_Software_Architecture_Component_Level_Diagrams.png"/>
+          </div>
+          <br>
 
-    - **2.6.5.6. Bounded Context Software Architecture Code Level Diagrams**
-  
-      - **2.6.5.6.1. Bounded Context Domain Layer Class Diagrams**
+        - **2.6.5.6. Bounded Context Software Architecture Code Level Diagrams**
+        <br> En esta sección se presentan los diagramas a nivel de código del bounded context IAM, mostrando la estructura de clases del dominio y el diseño de la base de datos. Estos elementos reflejan cómo se modelan las entidades, relaciones y tablas que sustentan la gestión de usuarios, roles y auditoría del sistema. <br>
+          - **2.6.5.6.1. Bounded Context Domain Layer Class Diagrams**
 
-        En esta imagen, la clase User cumple un rol central al gestionar los atributos predeterminados del usuario, asegurando la integridad de la información básica como identificadores, credenciales y datos personales necesarios para el sistema
-        <br><br>
-        <div align="center">
-        <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/5_Iam/2_Bounded_Context_Domain_Layer_Class_Diagrams.png"/>
-        </div>
-        <br>
+            En esta imagen, la clase User cumple un rol central al gestionar los atributos predeterminados del usuario, asegurando la integridad de la información básica como identificadores, credenciales y datos personales necesarios para el sistema
+            <br><br>
+            <div align="center">
+            <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/5_Iam/2_Bounded_Context_Domain_Layer_Class_Diagrams.png"/>
+            </div>
+            <br>
 
-      - **2.6.5.6.2. Bounded Context Database Design Diagram**
-  
-         <br><br>
-         <div align="center">
-         <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/5_Iam/3_Bounded_Context_Database_Design_Diagram.png"/>
-         </div>
-         <br>
+          - **2.6.5.6.2. Bounded Context Database Design Diagram**
+            <br> En esta imagen se muestra el diseño de la base de datos correspondiente al bounded context IAM, donde se estructuran las tablas principales para la gestión de usuarios, roles y auditorías. Este diagrama garantiza la correcta relación entre las entidades y la trazabilidad de las operaciones dentro del sistema. <br>
+             <br><br>
+             <div align="center">
+             <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/5_Iam/3_Bounded_Context_Database_Design_Diagram.png"/>
+             </div>
+             <br>
     
-          **Tabla: users**
+              **Tabla: users**
 
-          | Nombre          | Descripción                                                        |
-          |-----------------|--------------------------------------------------------------------|
-          | id              | Identificador único del usuario (UUID), clave primaria.            |
-          | email           | Dirección de correo electrónico del usuario, único y obligatorio.  |
-          | first\_name     | Primer nombre del usuario.                                         |
-          | last\_name      | Apellido del usuario.                                              |
-          | password\_hash  | Contraseña del usuario, almacenada de forma segura (encriptada).   |
-          | status          | Estado del usuario (ACTIVE, INACTIVE, SUSPENDED).                  |
-          | last\_login\_at | Fecha y hora del último inicio de sesión.                          |
-          | created\_at     | Fecha y hora en que se creó el registro.                           |
-          | updated\_at     | Fecha y hora de la última actualización del registro.              |
+              | Nombre          | Descripción                                                        |
+              |-----------------|--------------------------------------------------------------------|
+              | id              | Identificador único del usuario (UUID), clave primaria.            |
+              | email           | Dirección de correo electrónico del usuario, único y obligatorio.  |
+              | first\_name     | Primer nombre del usuario.                                         |
+              | last\_name      | Apellido del usuario.                                              |
+              | password\_hash  | Contraseña del usuario, almacenada de forma segura (encriptada).   |
+              | status          | Estado del usuario (ACTIVE, INACTIVE, SUSPENDED).                  |
+              | last\_login\_at | Fecha y hora del último inicio de sesión.                          |
+              | created\_at     | Fecha y hora en que se creó el registro.                           |
+              | updated\_at     | Fecha y hora de la última actualización del registro.              |
         
-          **Tabla: roles**
+              **Tabla: roles**
         
-          | Nombre      | Descripción                                                     |
-          |-------------|-----------------------------------------------------------------|
-          | id          | Identificador único del rol (UUID), clave primaria.             |
-          | name        | Nombre del rol, único y obligatorio (ej. ADMIN, USER, AUDITOR). |
-          | description | Descripción opcional del rol.                                   |
+              | Nombre      | Descripción                                                     |
+              |-------------|-----------------------------------------------------------------|
+              | id          | Identificador único del rol (UUID), clave primaria.             |
+              | name        | Nombre del rol, único y obligatorio (ej. ADMIN, USER, AUDITOR). |
+              | description | Descripción opcional del rol.                                   |
         
-          **Tabla: user_roles**
+              **Tabla: user_roles**
         
-          | Nombre                 | Descripción                                                        |
-          |------------------------|--------------------------------------------------------------------|
-          | user\_id               | Identificador del usuario, clave foránea hacia `users`.            |
-          | role\_id               | Identificador del rol, clave foránea hacia `roles`.                |
-          | PK(user\_id, role\_id) | Llave primaria compuesta que asegura que un usuario no repita rol. |
+              | Nombre                 | Descripción                                                        |
+              |------------------------|--------------------------------------------------------------------|
+              | user\_id               | Identificador del usuario, clave foránea hacia `users`.            |
+              | role\_id               | Identificador del rol, clave foránea hacia `roles`.                |
+              | PK(user\_id, role\_id) | Llave primaria compuesta que asegura que un usuario no repita rol. |
         
-          **Tabla: audit_log**
+              **Tabla: audit_log**
         
-          | Nombre           | Descripción                                                                |
-          |------------------|----------------------------------------------------------------------------|
-          | id               | Identificador único del evento (UUID), clave primaria.                     |
-          | user\_id         | Identificador del usuario asociado al evento, clave foránea hacia `users`. |
-          | event\_type      | Tipo de evento (REGISTERED, SIGNED\_IN, FAILED\_LOGIN).                    |
-          | event\_timestamp | Fecha y hora en que ocurrió el evento.                                     |
-          | details          | Detalles adicionales del evento (ej. IP, descripción del error, etc.).     |
+              | Nombre           | Descripción                                                                |
+              |------------------|----------------------------------------------------------------------------|
+              | id               | Identificador único del evento (UUID), clave primaria.                     |
+              | user\_id         | Identificador del usuario asociado al evento, clave foránea hacia `users`. |
+              | event\_type      | Tipo de evento (REGISTERED, SIGNED\_IN, FAILED\_LOGIN).                    |
+              | event\_timestamp | Fecha y hora en que ocurrió el evento.                                     |
+              | details          | Detalles adicionales del evento (ej. IP, descripción del error, etc.).     |
 
 
 
