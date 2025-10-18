@@ -11,17 +11,20 @@
     <p><strong>Visión:</strong> Convertirnos en la plataforma líder en Latinoamérica para la contratación de servicios técnicos del hogar, reconocida por la confianza, rapidez y sostenibilidad de nuestro modelo, generando oportunidades de trabajo dignas y una experiencia superior para los usuarios.</p>
 
     - **1.1.2. Perfiles de integrantes del equipo**
+      <br>A continuación, se detallan los perfiles de los integrantes del equipo que llevarán a cabo este proyecto, resaltando sus roles clave y sus respectivas áreas de experiencia.<br><br>
 
-|                       Photo                       | Description |
-|:-------------------------------------------------:|:------------|
-|    ![Diego](./feature/chapter1/Diegopfp.jpeg)     | **Nombre y Apellido:** Diego Martin Bastidas Bastidas  <br> **Carrera:** Ingeniería de Software (8vo ciclo) <br> **Acerca de:** Decidí estudiar esta carrera porque desde pequeño me llamaba la atención el funcionamiento de las computadoras y los procesos que conllevan. Me apasiona practicar deportes de contacto, salir a pasear y, sobre todo, ser Groomer canino, ya que disfruto trabajar con mascotas. |
-|     ![Fabrisio](./feature/chapter1/fafa.jpeg)     | **Nombre y Apellido:** Fabrisio Belahonia Miranda <br> **Carrera:** Ingeniería de Software (7mo ciclo) <br> **Acerca de:** Me considero una persona responsable, ordenada y empática. Me interesa el área de Ciberseguridad y tengo experiencia en Linux, Redes y Cloud, lo que complementa mi formación académica y fortalece mi perfil técnico. |
-|     ![Rafael](./feature/chapter1/rafael.jpg)      | **Nombre y Apellido:** Rafael Alexander Dominguez Vargas  <br> **Carrera:** Ingeniería de Software (6to ciclo) <br> **Acerca de:** Soy una persona responsable y empática. Poseo conocimientos en lenguajes de programación como C++, Java y Python, lo que me permite desarrollar soluciones diversas dentro de mi formación en Ingeniería de Software. |
-| ![Sebastian](./feature/chapter1/Sebastianpfp.png) | **Nombre y Apellido:** Sebastian Escobar Palomino  <br> **Carrera:** Ingeniería de Software <br> **Acerca de:** Me comprometo a contribuir al máximo en el grupo y cumplir con las entregas dentro del plazo establecido. Busco mantener una comunicación efectiva con mis compañeros y aplicar mis habilidades para el desarrollo de las tareas asignadas en este proyecto. |
+|                       Photo                       | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|:-------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    ![Diego](./feature/chapter1/Diegopfp.jpeg)     | **Nombre y Apellido:** Diego Martin Bastidas Bastidas  <br> **Carrera:** Ingeniería de Software (8vo ciclo) <br> **Acerca de:** Decidí estudiar esta carrera porque desde pequeño me llamaba la atención el funcionamiento de las computadoras y los procesos que conllevan. Me apasiona practicar deportes de contacto, salir a pasear y, sobre todo, ser Groomer canino, ya que disfruto trabajar con mascotas.                                           |
+|     ![Fabrisio](./feature/chapter1/fafa.jpeg)     | **Nombre y Apellido:** Fabrisio Belahonia Miranda <br> **Carrera:** Ingeniería de Software (7mo ciclo) <br> **Acerca de:** Me considero una persona responsable, ordenada y empática. Me interesa el área de Ciberseguridad y tengo experiencia en Linux, Redes y Cloud, lo que complementa mi formación académica y fortalece mi perfil técnico.                                                                                                           |
+|     ![Rafael](./feature/chapter1/rafael.jpg)      | **Nombre y Apellido:** Rafael Alexander Dominguez Vargas  <br> **Carrera:** Ingeniería de Software (6to ciclo) <br> **Acerca de:** Soy una persona responsable y empática. Poseo conocimientos en lenguajes de programación como C++, Java y Python, lo que me permite desarrollar soluciones diversas dentro de mi formación en Ingeniería de Software.                                                                                                    |
+| ![Sebastian](./feature/chapter1/Sebastianpfp.png) | **Nombre y Apellido:** Sebastian Escobar Palomino  <br> **Carrera:** Ingeniería de Software <br> **Acerca de:** Me comprometo a contribuir al máximo en el grupo y cumplir con las entregas dentro del plazo establecido. Busco mantener una comunicación efectiva con mis compañeros y aplicar mis habilidades para el desarrollo de las tareas asignadas en este proyecto.                                                                                |
 |     ![Alonso](./feature/chapter1/Alonso.png)      | **Nombre y Apellido:** Percy Alonso Muñiz Huayanca <br> **Carrera:** Ingeniería de Software <br> **Acerca de:** Soy una persona responsable, creativa y empática, cualidades que me permiten establecer buenas conexiones con quienes me rodean. Valoro el trabajo en equipo porque me da la oportunidad de compartir ideas y aprender de otras perspectivas. Tengo conocimientos en C++, HTML, CSS, entre otros, y me apasiona el Frontend y el Diseño UX. |
 
 - **1.2. Solution Profile**
+  <br>En esta sección se describe de manera general la solución propuesta, detallando nuestros objetivos principales, funcionalidades clave y el valor que aportamos tanto a los usuarios finales como a los técnicos.<br><br>
     - **1.2.1 Antecedentes y problemática**
+      <br>Esta sección detalla el contexto del proyecto AlguienDijoChamba, utilizando el marco de las 5W2H para definir su alcance, justificar la necesidad de una plataforma segura para técnicos a domicilio y exponer la oportunidad de mercado en el sector de servicios informales.<br><br>
         - What (¿Qué?)<br>AlguienDijoChamba es una aplicación digital diseñada para conectar de forma rápida y segura a usuarios con especialistas en oficios como plomería, carpintería, electricidad, entre otros servicios del hogar. Además, incorpora un sistema de gamificación basado en niveles (Bronce, Plata y Oro) que premia la fidelidad de los clientes y motiva a los técnicos a brindar un servicio de mayor calidad. Esta herramienta busca resolver la dificultad recurrente de encontrar técnicos disponibles y confiables en momentos de urgencia.
         - Who (¿Quién?)<br>
           El servicio está dirigido a dos públicos principales: por un lado, usuarios urbanos entre 25 y 50 años que requieren soluciones técnicas inmediatas y seguras; y por otro, profesionales especializados que buscan ampliar su cartera de clientes y formalizar su trabajo mediante una plataforma digital. Según el Instituto Nacional de Estadística e Informática (INEI, 2023), más del 60% de los trabajadores técnicos en el Perú operan en la informalidad, lo que limita su acceso a oportunidades estables y genera desconfianza entre los clientes.
@@ -38,6 +41,7 @@
           El modelo de negocio de AlguienDijoChamba seguirá un enfoque freemium, ofreciendo acceso gratuito tanto a usuarios como a técnicos, con ingresos generados a través de comisiones por servicios concretados. Se incluirá también un plan premium con beneficios exclusivos, dirigido a usuarios frecuentes y técnicos destacados. Este enfoque ha demostrado ser sostenible en startups digitales, permitiendo captar usuarios iniciales y convertir hasta un 10% en suscriptores pagos en etapas de maduración (Pujol, 2022).
 
     - **1.2.2 Lean UX Process**
+      <br>En esta sección presentaremos el Lean UX Process, describiendo cómo se aplican iteraciones rápidas de diseño y validación con usuarios para mejorar la experiencia del producto mediante ciclos cortos de prueba y ajuste.<br><br>
 
         - **1.2.2.1. Lean UX Problem Statements**
         <br>Nuestro producto fue diseñado para conectar a personas con profesionales especializados en oficios técnicos, mediante una plataforma eficiente, confiable y de fácil uso.Hemos observado que muchas personas aún enfrentan dificultades para encontrar rápidamente profesionales disponibles en su zona, lo cual genera frustración y pérdida de tiempo en situaciones que requieren soluciones urgentes.
@@ -95,7 +99,8 @@
           Los técnicos independientes verán valor en registrarse para ampliar su base de clientes.  
           Un modelo freemium con opción premium será sostenible a largo plazo.
           <br> <br>
-      - **1.2.2.3. Lean UX Hypothesis Statements**<br> <br> 
+      - **1.2.2.3. Lean UX Hypothesis Statements**
+      <br> A continuación, detallamos las Declaraciones de Hipótesis Lean UX que guiarán el desarrollo de nuestro producto, identificando los resultados esperados y las métricas clave para validar nuestras suposiciones más críticas.<br><br> 
       **Hipótesis 1:**  
       Creemos que al ofrecer una plataforma con búsqueda filtrada por especialidad, ubicación, calificación y ejemplos de trabajos anteriores, para usuarios residenciales entre 25 y 50 años que necesitan encontrar técnicos confiables rápidamente, obtendremos una mejora en la tasa de concretación de servicios y mayor satisfacción del usuario.  
       **Sabremos que esta hipótesis es cierta**  
@@ -115,13 +120,15 @@
       Creemos que al permitir que los usuarios califiquen y comenten su experiencia con los técnicos, para nuevos usuarios que quieren asegurarse de contratar a alguien confiable, obtendremos un aumento en la confianza general y una mejora en la reputación de los técnicos mejor valorados.  
       **Sabremos que esta hipótesis es cierta**  
       Cuando veamos que más del 70% de los usuarios leen comentarios antes de contratar y que los técnicos mejor valorados reciben más solicitudes.  
-      - **1.2.2.4. Lean UX Canvas**<br><br>
+      - **1.2.2.4. Lean UX Canvas**
+      <br>A continuación, se presenta nuestro Lean UX Canvas, la herramienta que utilizamos para alinear nuestros objetivos de negocio con las necesidades del usuario, definiendo las hipótesis clave y el plan para su validación iterativa.<br><br>
       ![Lean UX Canvas](./feature/chapter1/Lean%20UX%20Canvas.png)
 
         Link: https://acortar.link/q1C2B8
       
 
 - **1.3. Segmentos objetivo**
+  <br>A continuación, se describen los dos segmentos objetivo principales que abordará la plataforma, detallando sus características, necesidades específicas y motivaciones de uso.<br><br>
 
   <b>Segmento 1 : Profesionales Tecnicos</b><br>
   Este segmento está formado por especialistas en distintos oficios (plomeros, electricistas, gasfiteros, carpinteros, pintores, entre otros) con edades entre 30 y 55 años. La mayoría trabaja de manera independiente o en pequeños grupos. Su principal interés es ampliar su cartera de clientes sin depender únicamente de las recomendaciones personales. Muchos aún no cuentan con una presencia digital sólida que les permita mostrar su experiencia, gestionar pedidos o recibir pagos. Por ello, valoran contar con una plataforma que les ayude a proyectar una imagen profesional, recibir evaluaciones positivas y organizar su disponibilidad de forma sencilla. Asimismo, son receptivos a nuevas herramientas digitales que contribuyan a formalizar y optimizar su labor
