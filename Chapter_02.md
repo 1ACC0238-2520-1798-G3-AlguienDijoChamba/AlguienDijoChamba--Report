@@ -3038,46 +3038,46 @@
           </div>
           
         - **2.6.2.6. Bounded Context Software Architecture Code Level Diagrams**
-        - **2.6.2.6.1. Bounded Context Domain Layer Class Diagrams**
+          - **2.6.2.6.1. Bounded Context Domain Layer Class Diagrams**
 
-          <div align="center">
-          <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/2_Payments/2_Bounded_Context_Domain_Layer_Class_Diagrams.png"/>
-          </div>
+            <div align="center">
+            <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/2_Payments/2_Bounded_Context_Domain_Layer_Class_Diagrams.png"/>
+            </div>
 
-        - **2.6.2.6.2. Bounded Context Database Design Diagram**
+          - **2.6.2.6.2. Bounded Context Database Design Diagram**
 
-          <div align="center">
-          <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/2_Payments/3_Bounded_Context_Database_Design_Diagram.png"/>
-          </div>
+            <div align="center">
+            <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/2_Payments/3_Bounded_Context_Database_Design_Diagram.png"/>
+            </div>
           
-          **Tabla: Order**          
+            **Tabla: Order**          
       
-            | Campo               | Tipo       | Descripción                    |
-            |---------------------|------------|--------------------------------|
-            | **order_id** (PK)   | uuid       | Identificador único del pedido |
-            | customer_id         | uuid       | ID del cliente                 |
-            | total               | decimal    | Total del pedido               |
-            | currency            | varchar(3) | Moneda del pedido              |
+              | Campo               | Tipo       | Descripción                    |
+              |---------------------|------------|--------------------------------|
+              | **order_id** (PK)   | uuid       | Identificador único del pedido |
+              | customer_id         | uuid       | ID del cliente                 |
+              | total               | decimal    | Total del pedido               |
+              | currency            | varchar(3) | Moneda del pedido              |
           
-          **Tabla: Payments**          
+            **Tabla: Payments**          
       
-            | Campo               | Tipo        | Descripción                  |
-            |:--------------------|:------------|:-----------------------------|
-            | **payment_id** (PK) | uuid        | Identificador único del pago |
-            | amount              | decimal     | Cantidad del pago            |
-            | currency            | varchar(3)  | Moneda del pago              |
-            | status              | varchar(20) | Estado del pago              |
-            | date                | timestamp   | Fecha del pago               |
-            | order_id (FK)       | uuid        | ID del pedido relacionado    |
+              | Campo               | Tipo        | Descripción                  |
+              |:--------------------|:------------|:-----------------------------|
+              | **payment_id** (PK) | uuid        | Identificador único del pago |
+              | amount              | decimal     | Cantidad del pago            |
+              | currency            | varchar(3)  | Moneda del pago              |
+              | status              | varchar(20) | Estado del pago              |
+              | date                | timestamp   | Fecha del pago               |
+              | order_id (FK)       | uuid        | ID del pedido relacionado    |
               
-          **Tabla: Transaction** 
+            **Tabla: Transaction** 
       
-          | Campo                   | Tipo        | Descripción                           |
-          |:------------------------|:------------|:--------------------------------------|
-          | **transaction_id** (PK) | uuid        | Identificador único de la transacción |
-          | payment_id (FK)         | uuid        | ID del pago relacionado               |
-          | method                  | varchar(50) | Método de la transacción              |
-          | timestamp               | timestamp   | Marca de tiempo de la transacción     |
+            | Campo                   | Tipo        | Descripción                           |
+            |:------------------------|:------------|:--------------------------------------|
+            | **transaction_id** (PK) | uuid        | Identificador único de la transacción |
+            | payment_id (FK)         | uuid        | ID del pago relacionado               |
+            | method                  | varchar(50) | Método de la transacción              |
+            | timestamp               | timestamp   | Marca de tiempo de la transacción     |
 
     - **2.6.3. Bounded Context: Alerts**
 
@@ -3374,62 +3374,62 @@
 
     - **2.6.5.6. Bounded Context Software Architecture Code Level Diagrams**
   
-    - **2.6.5.6.1. Bounded Context Domain Layer Class Diagrams**
+      - **2.6.5.6.1. Bounded Context Domain Layer Class Diagrams**
 
-      En esta imagen, la clase User cumple un rol central al gestionar los atributos predeterminados del usuario, asegurando la integridad de la información básica como identificadores, credenciales y datos personales necesarios para el sistema
-      <br><br>
-      <div align="center">
-      <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/5_Iam/2_Bounded_Context_Domain_Layer_Class_Diagrams.png"/>
-      </div>
-      <br>
+        En esta imagen, la clase User cumple un rol central al gestionar los atributos predeterminados del usuario, asegurando la integridad de la información básica como identificadores, credenciales y datos personales necesarios para el sistema
+        <br><br>
+        <div align="center">
+        <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/5_Iam/2_Bounded_Context_Domain_Layer_Class_Diagrams.png"/>
+        </div>
+        <br>
 
-    - **2.6.5.6.2. Bounded Context Database Design Diagram**
+      - **2.6.5.6.2. Bounded Context Database Design Diagram**
   
-       <br><br>
-       <div align="center">
-       <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/5_Iam/3_Bounded_Context_Database_Design_Diagram.png"/>
-       </div>
-       <br>
+         <br><br>
+         <div align="center">
+         <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/5_Iam/3_Bounded_Context_Database_Design_Diagram.png"/>
+         </div>
+         <br>
     
-        **Tabla: users**
+          **Tabla: users**
 
-        | Nombre          | Descripción                                                        |
-        |-----------------|--------------------------------------------------------------------|
-        | id              | Identificador único del usuario (UUID), clave primaria.            |
-        | email           | Dirección de correo electrónico del usuario, único y obligatorio.  |
-        | first\_name     | Primer nombre del usuario.                                         |
-        | last\_name      | Apellido del usuario.                                              |
-        | password\_hash  | Contraseña del usuario, almacenada de forma segura (encriptada).   |
-        | status          | Estado del usuario (ACTIVE, INACTIVE, SUSPENDED).                  |
-        | last\_login\_at | Fecha y hora del último inicio de sesión.                          |
-        | created\_at     | Fecha y hora en que se creó el registro.                           |
-        | updated\_at     | Fecha y hora de la última actualización del registro.              |
+          | Nombre          | Descripción                                                        |
+          |-----------------|--------------------------------------------------------------------|
+          | id              | Identificador único del usuario (UUID), clave primaria.            |
+          | email           | Dirección de correo electrónico del usuario, único y obligatorio.  |
+          | first\_name     | Primer nombre del usuario.                                         |
+          | last\_name      | Apellido del usuario.                                              |
+          | password\_hash  | Contraseña del usuario, almacenada de forma segura (encriptada).   |
+          | status          | Estado del usuario (ACTIVE, INACTIVE, SUSPENDED).                  |
+          | last\_login\_at | Fecha y hora del último inicio de sesión.                          |
+          | created\_at     | Fecha y hora en que se creó el registro.                           |
+          | updated\_at     | Fecha y hora de la última actualización del registro.              |
         
-        **Tabla: roles**
+          **Tabla: roles**
         
-        | Nombre      | Descripción                                                     |
-        |-------------|-----------------------------------------------------------------|
-        | id          | Identificador único del rol (UUID), clave primaria.             |
-        | name        | Nombre del rol, único y obligatorio (ej. ADMIN, USER, AUDITOR). |
-        | description | Descripción opcional del rol.                                   |
+          | Nombre      | Descripción                                                     |
+          |-------------|-----------------------------------------------------------------|
+          | id          | Identificador único del rol (UUID), clave primaria.             |
+          | name        | Nombre del rol, único y obligatorio (ej. ADMIN, USER, AUDITOR). |
+          | description | Descripción opcional del rol.                                   |
         
-        **Tabla: user_roles**
+          **Tabla: user_roles**
         
-        | Nombre                 | Descripción                                                        |
-        |------------------------|--------------------------------------------------------------------|
-        | user\_id               | Identificador del usuario, clave foránea hacia `users`.            |
-        | role\_id               | Identificador del rol, clave foránea hacia `roles`.                |
-        | PK(user\_id, role\_id) | Llave primaria compuesta que asegura que un usuario no repita rol. |
+          | Nombre                 | Descripción                                                        |
+          |------------------------|--------------------------------------------------------------------|
+          | user\_id               | Identificador del usuario, clave foránea hacia `users`.            |
+          | role\_id               | Identificador del rol, clave foránea hacia `roles`.                |
+          | PK(user\_id, role\_id) | Llave primaria compuesta que asegura que un usuario no repita rol. |
         
-        **Tabla: audit_log**
+          **Tabla: audit_log**
         
-        | Nombre           | Descripción                                                                |
-        |------------------|----------------------------------------------------------------------------|
-        | id               | Identificador único del evento (UUID), clave primaria.                     |
-        | user\_id         | Identificador del usuario asociado al evento, clave foránea hacia `users`. |
-        | event\_type      | Tipo de evento (REGISTERED, SIGNED\_IN, FAILED\_LOGIN).                    |
-        | event\_timestamp | Fecha y hora en que ocurrió el evento.                                     |
-        | details          | Detalles adicionales del evento (ej. IP, descripción del error, etc.).     |
+          | Nombre           | Descripción                                                                |
+          |------------------|----------------------------------------------------------------------------|
+          | id               | Identificador único del evento (UUID), clave primaria.                     |
+          | user\_id         | Identificador del usuario asociado al evento, clave foránea hacia `users`. |
+          | event\_type      | Tipo de evento (REGISTERED, SIGNED\_IN, FAILED\_LOGIN).                    |
+          | event\_timestamp | Fecha y hora en que ocurrió el evento.                                     |
+          | details          | Detalles adicionales del evento (ej. IP, descripción del error, etc.).     |
 
 
 
