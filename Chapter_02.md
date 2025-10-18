@@ -2768,13 +2768,13 @@
 
       La técnica Start-With-Value, de DDD y diseño centrado en el usuario, propone modelar el dominio empezando por el valor que debe entregar. La usamos para definir los eventos clave de nuestros bounded contexts y el valor que espera el usuario.
 
-      | **Bounded Context**                                      | **Valor esperado por el usuario**                                                                                         | **Eventos clave**                                                               |
-              | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-      | **IAM (Accesos)**                                         | Permitir que el usuario se registre, inicie sesión y gestione su perfil en la aplicación                                    | Usuario registrado, usuario autenticado, acceso al perfil de usuario             |
-      | **Alerts (Notificaciones)**                               | Enviar notificaciones relevantes sobre el estado de las solicitudes, servicios o cambios en la plataforma                   | Notificación de solicitud aceptada, notificación de cambio de estado, alerta de disponibilidad |
-      | **Payments (Pagos)**                                      | Realizar pagos de forma segura, confirmar transacciones y notificar al usuario sobre el estado de su pago                 | Pago realizado, pago fallido, confirmación de pago exitoso                       |
-      | **Technician Catalog (Catálogo de Profesionales)**            | Ver detalles de los profesionales y realizar solicitudes de servicios                                                     | Perfil profesional visualizado, solicitud de servicio enviada, perfil actualizado |
-      | **Tec-Section (Sección Técnica)**                         | Gestionar las solicitudes de servicio, la disponibilidad de los profesionales y confirmar la finalización de los trabajos  | Solicitud de servicio confirmada, disponibilidad actualizada, servicio completado |
+      | **Bounded Context**                                   | **Valor esperado por el usuario**                                                                                         | **Eventos clave**                                                                              |
+      |-------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+      | **IAM (Accesos)**                                     | Permitir que el usuario se registre, inicie sesión y gestione su perfil en la aplicación                                  | Usuario registrado, usuario autenticado, acceso al perfil de usuario                           |
+      | **Alerts (Notificaciones)**                           | Enviar notificaciones relevantes sobre el estado de las solicitudes, servicios o cambios en la plataforma                 | Notificación de solicitud aceptada, notificación de cambio de estado, alerta de disponibilidad |
+      | **Payments (Pagos)**                                  | Realizar pagos de forma segura, confirmar transacciones y notificar al usuario sobre el estado de su pago                 | Pago realizado, pago fallido, confirmación de pago exitoso                                     |
+      | **Technician Catalog (Catálogo de Profesionales)**    | Ver detalles de los profesionales y realizar solicitudes de servicios                                                     | Perfil profesional visualizado, solicitud de servicio enviada, perfil actualizado              |
+      | **Tec-Section (Sección Técnica)**                     | Gestionar las solicitudes de servicio, la disponibilidad de los profesionales y confirmar la finalización de los trabajos | Solicitud de servicio confirmada, disponibilidad actualizada, servicio completado              |
 
     - **2.5.1.2. Domain Message Flows Modeling**
       El Domain Storytelling es una técnica visual y colaborativa que permite descubrir y compartir el conocimiento sobre un dominio de negocio. Su objetivo principal es generar una comprensión común del funcionamiento de un proceso empresarial específico entre las distintas partes involucradas, como los expertos del negocio y los equipos técnicos.
@@ -2910,7 +2910,7 @@
           <br>
           El flujo completo refleja una arquitectura cuidadosamente estructurada, donde cada capa tiene responsabilidades bien definidas: los controladores exponen los endpoints para la interacción externa, los servicios de aplicación gestionan la lógica de negocio y coordinan comandos y consultas, los comandos y consultas representan operaciones específicas sobre el dominio, los agregados y value objects encapsulan el comportamiento y los datos esenciales del dominio, y los repositorios se encargan de la persistencia e interacción con la base de datos. Este enfoque sigue los principios de Clean Architecture y Domain-Driven Design (DDD), garantizando un sistema modular, mantenible y fácilmente extensible.
           <div align="center">
-          <img src="./feature/chapter02/worker_domain.jpeg"/>
+          <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/1_Catalog/1_Bounded_Context_Software_Architecture_Component_Level_Diagrams.png"/>
           </div>
           <br>
           
@@ -2922,13 +2922,13 @@
 
               Los Value Objects (TechnicianContact, TechnicianSkill, TechnicianRating) encapsulan datos inmutables, mientras que Category organiza a los trabajadores por especialidad. Los Commands y Queries representan casos de uso explícitos, y los Servicios (TechnicianCatalogService, TechnicianApiService) orquestan operaciones y comunicación con infraestructura, garantizando un diseño cohesivo, escalable y mantenible.<br> <br>
               <div align="center">
-              <img src="./feature/chapter02/Bounded_Context_Software_Architecture_Code_Level_Diagrams_Worker.jpeg"/>
+              <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/1_Catalog/2_Bounded_Context_Domain_Layer_Class_Diagrams.png"/>
               </div>
               <br>
             - **2.6.1.6.2. Bounded Context Database Design Diagram** <br>
           
               <div align="center">
-              <img src="./feature/chapter02/Bounded_Context_Software_Architecture_Code_Level_Database_Worker.jpeg"/>
+              <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/1_Catalog/3_Bounded_Context_Database_Design_Diagram.png"/>
               </div>
               <br>
 
@@ -2971,7 +2971,7 @@
           | Campo          | Tipo          | Descripción                                      |
           |----------------|---------------|--------------------------------------------------|
           | id             | int           | Identificador único de la calificación (PK).     |
-          | Technician\_id | varchar(36)   | ID del trabajador calificado (FK).               |
+          | technician\_id | varchar(36)   | ID del trabajador calificado (FK).               |
           | customer\_id   | varchar(36)   | ID del cliente que realizó la reseña.            |
           | score          | int           | Puntaje asignado (1–5).                          |
           | comment        | varchar(300)  | Comentario escrito por el cliente.               |
@@ -3033,42 +3033,77 @@
 
         - **2.6.2.5. Bounded Context Software Architecture Component Level Diagrams**
       
-          <img src="./feature/chapter02/Payments.png"/>
-
+          <div align="center">
+          <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/2_Payments/1_Bounded_Context_Software_Architecture_Component_Level_Diagrams.png"/>
+          </div>
+          
         - **2.6.2.6. Bounded Context Software Architecture Code Level Diagrams**
         - **2.6.2.6.1. Bounded Context Domain Layer Class Diagrams**
-      
-          <img src="./feature/chapter02/Class_diagram_payments.png"/>
+
+          <div align="center">
+          <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/2_Payments/2_Bounded_Context_Domain_Layer_Class_Diagrams.png"/>
+          </div>
 
         - **2.6.2.6.2. Bounded Context Database Design Diagram**
+
+          <div align="center">
+          <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/2_Payments/3_Bounded_Context_Database_Design_Diagram.png"/>
+          </div>
+          
+          **Tabla: Order**          
       
-          <img src="./feature/chapter02/Datebase diagram payments.png"/>
+            | Campo               | Tipo       | Descripción                    |
+            |---------------------|------------|--------------------------------|
+            | **order_id** (PK)   | uuid       | Identificador único del pedido |
+            | customer_id         | uuid       | ID del cliente                 |
+            | total               | decimal    | Total del pedido               |
+            | currency            | varchar(3) | Moneda del pedido              |
+          
+          **Tabla: Payments**          
+      
+            | Campo               | Tipo        | Descripción                  |
+            |:--------------------|:------------|:-----------------------------|
+            | **payment_id** (PK) | uuid        | Identificador único del pago |
+            | amount              | decimal     | Cantidad del pago            |
+            | currency            | varchar(3)  | Moneda del pago              |
+            | status              | varchar(20) | Estado del pago              |
+            | date                | timestamp   | Fecha del pago               |
+            | order_id (FK)       | uuid        | ID del pedido relacionado    |
+              
+          **Tabla: Transaction** 
+      
+          | Campo                   | Tipo        | Descripción                           |
+          |:------------------------|:------------|:--------------------------------------|
+          | **transaction_id** (PK) | uuid        | Identificador único de la transacción |
+          | payment_id (FK)         | uuid        | ID del pago relacionado               |
+          | method                  | varchar(50) | Método de la transacción              |
+          | timestamp               | timestamp   | Marca de tiempo de la transacción     |
 
     - **2.6.3. Bounded Context: Alerts**
 
         - **2.6.3.1. Domain Layer**
-
-      <br>**Sub-capa Model:**
-
-      | Tipo         | Nombre                      | Descripción                                               | Responsabilidad Principal                              | Relación con otros elementos                                                                                                                                    |
-      |--------------|-----------------------------|-----------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-      | Aggregate    | Alert                       | Clase para definir una Alerta de la aplicación            | Ser el punto de entrada para la gestion de Alertas     | Relacionado con el boundedContext de pagos para generar Alertas y el boundedContext de Tec-Section para generar una Alerta al momento de llamar a un Technician |
-      | Value Object | AlertType                   | Value object usado en el Aggregate Alert                  | Representa el tipo de Alerta                           | Relacionado con Alert                                                                                                                                           |
-      | Value Object | AlertTittle                 | Value object usado en el Aggregate Alert                  | Representa el titulo de la Alerta                      | Relacionado con Alert                                                                                                                                           |
-      | Value Object | AlertMessage                | Value object usado en el Aggregate Alert                  | Representa el contenido de la Alerta                   | Relacionado con Alert                                                                                                                                           |
-      | Command      | CreateAlertCommand          | Comando para crear una Alerta                             | Encapsular los datos requeridos para crear una alerta  | Usado cuando se quiere crear una alerta para el Technician y el Customer                                                                                        |
-      | Command      | DeleteAlertCommand          | Comando para eliminar una Alert                           | Encapsular los datos para crear eliminar una alerta    | Verifica si el Technician  o el Customer  eliminan la alerta. Tambien si el Technician  rechaza una alerta esta se eliminara luego para este mismo.             |
-      | Command      | AcceptAlertCommand          | Comando para aceptar una Alert                            | Modificar informacion para aceptar una alerta          | Usado cuando el Technician  acepta el trabajo pedido por el Customer                                                                                            |
-      | Command      | DeclineAlertCommand         | Comando para rechazar una Alert                           | Modificar informacion para rechazar una alerta         | Usado cuando el Technician  acepta el trabajo pedido por el Customer                                                                                            |
-      | Query        | GetAlertByCustomerQuery     | Consulta para obtener todas las alertas del Customer      | Recuperar las alertas del Usuario                      | Usado en la seccion de Alertas del Customer                                                                                                                     |
-      | Query        | GetAlertByTechnicianQuery   | Consulta para obtener todas las alertas del Technician    | Recuperar las alertas del Technician                   | Usado en la seccion de Alertas del Technician                                                                                                                   |
-
-      **Sub-capa Service:**
-
-      | Tipo      | Nombre              | Descripción                                     | Responsabilidad Principal                                        | Relación con otros elementos                                           |
-      |-----------|---------------------|-------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------|
-      | Interface | AlertCommandService | Servicio para comandos relacionados con Alert   | Declara métodos para crear, aceptar, rechazar o eliminar alertas | Implementado por  `AlertCommandServiceImp`. Usado en capa Application  |
-      | Interface | AlertQueryService   | Servicio para consultas relacionadas con Alert  | Declarar métodos para filtrar por Customer o técnico             | Implementado por `AlertQueryServiceImpl`. Usado en capa de Application |
+      
+            **Sub-capa Model:**  
+      
+            | Tipo         | Nombre                      | Descripción                                               | Responsabilidad Principal                              | Relación con otros elementos                                                                                                                                    |
+            |--------------|-----------------------------|-----------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+            | Aggregate    | Alert                       | Clase para definir una Alerta de la aplicación            | Ser el punto de entrada para la gestion de Alertas     | Relacionado con el boundedContext de pagos para generar Alertas y el boundedContext de Tec-Section para generar una Alerta al momento de llamar a un Technician |
+            | Value Object | AlertType                   | Value object usado en el Aggregate Alert                  | Representa el tipo de Alerta                           | Relacionado con Alert                                                                                                                                           |
+            | Value Object | AlertTittle                 | Value object usado en el Aggregate Alert                  | Representa el titulo de la Alerta                      | Relacionado con Alert                                                                                                                                           |
+            | Value Object | AlertMessage                | Value object usado en el Aggregate Alert                  | Representa el contenido de la Alerta                   | Relacionado con Alert                                                                                                                                           |
+            | Command      | CreateAlertCommand          | Comando para crear una Alerta                             | Encapsular los datos requeridos para crear una alerta  | Usado cuando se quiere crear una alerta para el Technician y el Customer                                                                                        |
+            | Command      | DeleteAlertCommand          | Comando para eliminar una Alert                           | Encapsular los datos para crear eliminar una alerta    | Verifica si el Technician  o el Customer  eliminan la alerta. Tambien si el Technician  rechaza una alerta esta se eliminara luego para este mismo.             |
+            | Command      | AcceptAlertCommand          | Comando para aceptar una Alert                            | Modificar informacion para aceptar una alerta          | Usado cuando el Technician  acepta el trabajo pedido por el Customer                                                                                            |
+            | Command      | DeclineAlertCommand         | Comando para rechazar una Alert                           | Modificar informacion para rechazar una alerta         | Usado cuando el Technician  acepta el trabajo pedido por el Customer                                                                                            |
+            | Query        | GetAlertByCustomerQuery     | Consulta para obtener todas las alertas del Customer      | Recuperar las alertas del Usuario                      | Usado en la seccion de Alertas del Customer                                                                                                                     |
+            | Query        | GetAlertByTechnicianQuery   | Consulta para obtener todas las alertas del Technician    | Recuperar las alertas del Technician                   | Usado en la seccion de Alertas del Technician                                                                                                                   |
+           
+           **Sub-capa Service:**    
+      
+            | Tipo      | Nombre              | Descripción                                     | Responsabilidad Principal                                        | Relación con otros elementos                                           |
+            |-----------|---------------------|-------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------|
+            | Interface | AlertCommandService | Servicio para comandos relacionados con Alert   | Declara métodos para crear, aceptar, rechazar o eliminar alertas | Implementado por  `AlertCommandServiceImp`. Usado en capa Application  |
+            | Interface | AlertQueryService   | Servicio para consultas relacionadas con Alert  | Declarar métodos para filtrar por Customer o técnico             | Implementado por `AlertQueryServiceImpl`. Usado en capa de Application |
 
         - **2.6.3.2. Interface Layer**
           **Sub-capa REST**
@@ -3103,7 +3138,7 @@
           <br><br>
           El diagrama de componentes del Alert System muestra una arquitectura modular y bien definida. Los controladores gestionan la comunicación con los usuarios Customer y Technician, delegando la ejecución en los servicios de aplicación. Las entidades de dominio encapsulan la lógica central, mientras que los repositorios manejan la persistencia de datos. Este enfoque sigue los principios de DDD y Clean Architecture, garantizando separación de responsabilidades, mantenibilidad y facilidad de extensión del sistema.<br> <br>
           <div align="center">
-          <img src="feature/chapter02/Alert_Component.png">
+          <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/3_Alerts/1_Bounded_Context_Software_Architecture_Component_Level_Diagrams.png"/>
           </div>
           <br>
         - **2.6.3.6. Bounded Context Software Architecture Code Level Diagrams**
@@ -3112,137 +3147,143 @@
               <br><br>
               Este diagrama UML representa la arquitectura de un sistema de gestión de alertas centrado en la administración de notificaciones entre Customers y Technicians. La estructura está basada en principios de diseño orientado a objetos y se organiza en capas de comandos y consultas, siguiendo un enfoque CQRS . A lo largo del análisis, se describirán los principales componentes del sistema, como los servicios de comandos y consultas, la entidad central Alert, así como los value objects, los comandos y consultas asociados. También se explicará cómo estas clases interactúan entre sí mediante relaciones de herencia, interfaces, asociación y dependencia para mantener una lógica de negocio clara, desacoplada y mantenible.<br> <br>
           
-          <div align="center">
-          <img src="feature/chapter02/Diagrama_de_Datos_Bounded_Alert.jpg">
-          </div>
-          <br>
+              <div align="center">
+              <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/3_Alerts/2_Bounded_Context_Domain_Layer_Class_Diagrams.png"/>
+              </div>
+              <br>
 
             - **2.6.3.6.2. Bounded Context Database Design Diagram**
               <br><br>
-          
-          <div align="center">
-          <img src="feature/chapter02/Diagrama_de_Datos_Bounded_Alert_Diagrama_Base_Datos.png">
-          </div>
-          <br>
 
-          **Tabla: Appointments**
+                <div align="center">
+                <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/3_Alerts/3_Bounded_Context_Database_Design_Diagram.png"/>
+                </div>
+                <br>
+    
+            **Tabla: Appointments**   
+      
+            | Campo          | Tipo          | Descripción                       |
+            |----------------|---------------|-----------------------------------|
+            | id             | int           | Identificador único de la alerta  |
+            | type           | varchar(14)   | Tipo de alerta                    |
+            | title          | varchar(120)  | Título de la alerta               |
+            | message        | varchar(250)  | Contenido de la alerta            |
+            | customer_id    | int           | ID del Customer relacionado       |
+            | Technician_id  | int           | ID del Technician relacionado     |
+            | created_at     | datetime      | Fecha de creación de la alerta    |
+            | updated_at     | datetime      | Fecha de última actualización     |
 
-          | Campo          | Tipo          | Descripción                       |
-          |----------------|---------------|-----------------------------------|
-          | id             | int           | Identificador único de la alerta  |
-          | type           | varchar(14)   | Tipo de alerta                    |
-          | title          | varchar(120)  | Título de la alerta               |
-          | message        | varchar(250)  | Contenido de la alerta            |
-          | customer_id    | int           | ID del Customer relacionado       |
-          | Technician_id  | int           | ID del Technician relacionado     |
-          | created_at     | datetime      | Fecha de creación de la alerta    |
-          | updated_at     | datetime      | Fecha de última actualización     |
+    - **2.6.4. Bounded Context: Tec-Section** 
 
-    - **2.6.4. Bounded Context: Tec-Section**
         - **2.6.4.1. Domain Layer**
 
-          <br>**Sub-capa Model:**
+            <br>**Sub-capa Model:**
+      
+          | Tipo         | Nombre                           | Descripción                                          | Responsabilidad Principal                                        | Relación con otros elementos                                                                        |
+          |--------------|----------------------------------|------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+          | Aggregate    | WorkRequest                      | Entidad que representa una solicitud de trabajo      | Ser el punto de entrada para gestionar trabajos solicitados      | Relacionado con TechnicianProfile para asignar técnicos y con los servicios que manejan solicitudes |
+          | Value Object | WorkStatus                       | Value object dentro de WorkRequest                   | Representa el estado del trabajo (pending, accepted, etc.)       | Relacionado con WorkRequest                                                                         |
+          | Value Object | WorkDetails                      | Value object dentro de WorkRequest                   | Representa descripción final, monto y horario                    | Relacionado con WorkRequest                                                                         |
+          | Aggregate    | TechnicianProfile                | Entidad que representa el perfil del técnico         | Ser el punto de entrada para gestionar información de Technician | Relacionado con WorkRequest, ya que es quien recibe o acepta las solicitudes de trabajo             |
+          | Value Object | TechnicianStatus                 | Value object dentro de TechnicianProfile             | Representa el estado del técnico (PENDING_APPROVAL, ACTIVE)      | Relacionado con TechnicianProfile                                                                   |
+          | Value Object | TechnicianContact                | Value object dentro de TechnicianProfile             | Contiene información de contacto como email y teléfono           | Relacionado con TechnicianProfile                                                                   |
+          | Command      | CreateWorkRequestCommand         | Comando para crear una solicitud de trabajo          | Encapsular datos requeridos para generar un nuevo WorkRequest    | Usado cuando un Customer registra un nuevo trabajo                                                  |
+          | Command      | UpdateWorkRequestCommand         | Comando para actualizar datos de un WorkRequest      | Modificar datos como fecha, dirección o descripción              | Usado por el Customer antes de que un Technician lo acepte                                          |
+          | Command      | AcceptWorkRequestCommand         | Comando para aceptar un trabajo solicitado           | Modificar estado de WorkRequest a "accepted"                     | Usado cuando un Technician acepta el trabajo                                                        |
+          | Command      | CompleteWorkRequestCommand       | Comando para marcar un trabajo como completado       | Modificar estado y registrar monto y descripción final           | Usado por el Technician al finalizar el servicio                                                    |
+          | Query        | GetWorkRequestsByTechnicianQuery | Consulta para obtener solicitudes por Technician     | Recuperar las solicitudes asignadas a un Technician              | Usado en la sección de solicitudes del Technician                                                   |
+          | Query        | GetWorkRequestsByCustomerQuery   | Consulta para obtener solicitudes por Customer       | Recuperar las solicitudes hechas por un Customer                 | Usado en la sección de solicitudes del Customer                                                     |
 
-| Tipo         | Nombre                           | Descripción                                          | Responsabilidad Principal                                        | Relación con otros elementos                                                                        |
-|--------------|----------------------------------|------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Aggregate    | WorkRequest                      | Entidad que representa una solicitud de trabajo      | Ser el punto de entrada para gestionar trabajos solicitados      | Relacionado con TechnicianProfile para asignar técnicos y con los servicios que manejan solicitudes |
-| Value Object | WorkStatus                       | Value object dentro de WorkRequest                   | Representa el estado del trabajo (pending, accepted, etc.)       | Relacionado con WorkRequest                                                                         |
-| Value Object | WorkDetails                      | Value object dentro de WorkRequest                   | Representa descripción final, monto y horario                    | Relacionado con WorkRequest                                                                         |
-| Aggregate    | TechnicianProfile                | Entidad que representa el perfil del técnico         | Ser el punto de entrada para gestionar información de Technician | Relacionado con WorkRequest, ya que es quien recibe o acepta las solicitudes de trabajo             |
-| Value Object | TechnicianStatus                 | Value object dentro de TechnicianProfile             | Representa el estado del técnico (PENDING_APPROVAL, ACTIVE)      | Relacionado con TechnicianProfile                                                                   |
-| Value Object | TechnicianContact                | Value object dentro de TechnicianProfile             | Contiene información de contacto como email y teléfono           | Relacionado con TechnicianProfile                                                                   |
-| Command      | CreateWorkRequestCommand         | Comando para crear una solicitud de trabajo          | Encapsular datos requeridos para generar un nuevo WorkRequest    | Usado cuando un Customer registra un nuevo trabajo                                                  |
-| Command      | UpdateWorkRequestCommand         | Comando para actualizar datos de un WorkRequest      | Modificar datos como fecha, dirección o descripción              | Usado por el Customer antes de que un Technician lo acepte                                          |
-| Command      | AcceptWorkRequestCommand         | Comando para aceptar un trabajo solicitado           | Modificar estado de WorkRequest a "accepted"                     | Usado cuando un Technician acepta el trabajo                                                        |
-| Command      | CompleteWorkRequestCommand       | Comando para marcar un trabajo como completado       | Modificar estado y registrar monto y descripción final           | Usado por el Technician al finalizar el servicio                                                    |
-| Query        | GetWorkRequestsByTechnicianQuery | Consulta para obtener solicitudes por Technician     | Recuperar las solicitudes asignadas a un Technician              | Usado en la sección de solicitudes del Technician                                                   |
-| Query        | GetWorkRequestsByCustomerQuery   | Consulta para obtener solicitudes por Customer       | Recuperar las solicitudes hechas por un Customer                 | Usado en la sección de solicitudes del Customer                                                     |
+            <br>**Sub-capa Service:**
+      
+          | Tipo      | Nombre               | Descripción                                                    | Responsabilidad Principal                                                      | Relación con otros elementos                                                                                         |
+          |-----------|----------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+          | Service   | WorkRequestService   | Servicio simulado para manejar solicitudes de trabajo (mock).  | Retornar listado de solicitudes para un Technician o Customer (Observable).    | Usado en capa Application para renderizar en vistas de Technician y Customer                                         |
+          | Service   | TechnicianApiService | Servicio para integrar con el backend vía API REST             | Gestionar Technicians, Customers, categorías y solicitudes en la base de datos | Se comunica con la API (`/api/v1/Technicians`, `/api/v1/users`, `/api/v1/categories`). Consumido en capa Application |
 
-**Sub-capa Service:**
+        - **2.6.4.2. Interface Layer**
 
-| Tipo      | Nombre               | Descripción                                                    | Responsabilidad Principal                                                      | Relación con otros elementos                                                                                         |
-|-----------|----------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Service   | WorkRequestService   | Servicio simulado para manejar solicitudes de trabajo (mock).  | Retornar listado de solicitudes para un Technician o Customer (Observable).    | Usado en capa Application para renderizar en vistas de Technician y Customer                                         |
-| Service   | TechnicianApiService | Servicio para integrar con el backend vía API REST             | Gestionar Technicians, Customers, categorías y solicitudes en la base de datos | Se comunica con la API (`/api/v1/Technicians`, `/api/v1/users`, `/api/v1/categories`). Consumido en capa Application |
+          <br>**Sub-capa REST**
 
-- **2.6.4.2. Interface Layer**
-  **Sub-capa REST**
+          | Tipo       | Nombre                                          | Descripción                                                           | Responsabilidad Principal                                                                                              | Relación con otros elementos                                                                               |
+          |------------|-------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+          | Controller | WorkRequestController                           | Controlador REST para gestionar solicitudes de trabajo                | Recibir solicitudes de Customer (crear, actualizar, listar) y de Technician (aceptar, completar), y coordinar comandos | Utiliza `WorkRequestResource`, `WorkRequestResponseResource` y los assemblers correspondientes             |
+          | Controller | TechnicianProfileController                     | Controlador REST para gestionar perfiles de técnicos                  | Exponer endpoints para registrar, actualizar y consultar información de Technician                                     | Utiliza `TechnicianProfileResource`, `TechnicianProfileResponseResource` y los assemblers correspondientes |
+          | Resource   | WorkRequestResource                             | Estructura de una petición para crear o modificar un WorkRequest      | Representar datos del dominio (dirección, fecha, descripción, categoría, etc.) de forma accesible al Cliente           | Usado en `WorkRequestController` para recibir datos estructurados del Customer                             |
+          | Resource   | WorkRequestResponseResource                     | Estructura de respuesta para un WorkRequest                           | Exponer estado, técnico asignado y detalles del trabajo en formato accesible                                           | Usado en `WorkRequestController` para responder con datos procesados                                       |
+          | Resource   | TechnicianProfileResource                       | Estructura de petición para crear o modificar un perfil de Technician | Representar datos como nombre, experiencia, contacto, categoría                                                        | Usado en `TechnicianProfileController` para recibir información del Technician                             |
+          | Resource   | TechnicianProfileResponseResource               | Estructura de respuesta para un perfil de Technician                  | Exponer datos del técnico en formato accesible (estado, disponibilidad, contacto)                                      | Usado en `TechnicianProfileController` para responder con datos procesados                                 |
+          | Assembler  | CreateWorkRequestCommandFromResourceAssembler   | Convierte un recurso de petición en un `CreateWorkRequestCommand`     | Evitar acoplamiento entre la interfaz REST y la capa de aplicación                                                     | Usado en `WorkRequestController` para traducir la petición a comando                                       |
+          | Assembler  | UpdateWorkRequestCommandFromResourceAssembler   | Convierte un recurso de petición en un `UpdateWorkRequestCommand`     | Evitar acoplamiento entre REST y la capa de aplicación                                                                 | Usado en `WorkRequestController`                                                                           |
+          | Assembler  | AcceptWorkRequestCommandFromResourceAssembler   | Convierte un recurso de petición en un `AcceptWorkRequestCommand`     | Traducir acción del Technician al comando correspondiente                                                              | Usado en `WorkRequestController`                                                                           |
+          | Assembler  | CompleteWorkRequestCommandFromResourceAssembler | Convierte un recurso de petición en un `CompleteWorkRequestCommand`   | Traducir acción de finalizar trabajo al comando correspondiente                                                        | Usado en `WorkRequestController`                                                                           |
+          | Assembler  | WorkRequestResourceFromEntityAssembler          | Convierte una entidad WorkRequest en un recurso de respuesta          | Asegurar respuesta consistente para el cliente                                                                         | Usado en `WorkRequestController` para retornar `WorkRequestResponseResource`                               |
+          | Assembler  | TechnicianProfileResourceFromEntityAssembler    | Convierte una entidad TechnicianProfile en un recurso de respuesta    | Asegurar respuesta consistente para el cliente                                                                         | Usado en `TechnicianProfileController` para retornar `TechnicianProfileResponseResource`                   |
 
-| Tipo       | Nombre                                          | Descripción                                                           | Responsabilidad Principal                                                                                              | Relación con otros elementos                                                                               |
-|------------|-------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Controller | WorkRequestController                           | Controlador REST para gestionar solicitudes de trabajo                | Recibir solicitudes de Customer (crear, actualizar, listar) y de Technician (aceptar, completar), y coordinar comandos | Utiliza `WorkRequestResource`, `WorkRequestResponseResource` y los assemblers correspondientes             |
-| Controller | TechnicianProfileController                     | Controlador REST para gestionar perfiles de técnicos                  | Exponer endpoints para registrar, actualizar y consultar información de Technician                                     | Utiliza `TechnicianProfileResource`, `TechnicianProfileResponseResource` y los assemblers correspondientes |
-| Resource   | WorkRequestResource                             | Estructura de una petición para crear o modificar un WorkRequest      | Representar datos del dominio (dirección, fecha, descripción, categoría, etc.) de forma accesible al Cliente           | Usado en `WorkRequestController` para recibir datos estructurados del Customer                             |
-| Resource   | WorkRequestResponseResource                     | Estructura de respuesta para un WorkRequest                           | Exponer estado, técnico asignado y detalles del trabajo en formato accesible                                           | Usado en `WorkRequestController` para responder con datos procesados                                       |
-| Resource   | TechnicianProfileResource                       | Estructura de petición para crear o modificar un perfil de Technician | Representar datos como nombre, experiencia, contacto, categoría                                                        | Usado en `TechnicianProfileController` para recibir información del Technician                             |
-| Resource   | TechnicianProfileResponseResource               | Estructura de respuesta para un perfil de Technician                  | Exponer datos del técnico en formato accesible (estado, disponibilidad, contacto)                                      | Usado en `TechnicianProfileController` para responder con datos procesados                                 |
-| Assembler  | CreateWorkRequestCommandFromResourceAssembler   | Convierte un recurso de petición en un `CreateWorkRequestCommand`     | Evitar acoplamiento entre la interfaz REST y la capa de aplicación                                                     | Usado en `WorkRequestController` para traducir la petición a comando                                       |
-| Assembler  | UpdateWorkRequestCommandFromResourceAssembler   | Convierte un recurso de petición en un `UpdateWorkRequestCommand`     | Evitar acoplamiento entre REST y la capa de aplicación                                                                 | Usado en `WorkRequestController`                                                                           |
-| Assembler  | AcceptWorkRequestCommandFromResourceAssembler   | Convierte un recurso de petición en un `AcceptWorkRequestCommand`     | Traducir acción del Technician al comando correspondiente                                                              | Usado en `WorkRequestController`                                                                           |
-| Assembler  | CompleteWorkRequestCommandFromResourceAssembler | Convierte un recurso de petición en un `CompleteWorkRequestCommand`   | Traducir acción de finalizar trabajo al comando correspondiente                                                        | Usado en `WorkRequestController`                                                                           |
-| Assembler  | WorkRequestResourceFromEntityAssembler          | Convierte una entidad WorkRequest en un recurso de respuesta          | Asegurar respuesta consistente para el cliente                                                                         | Usado en `WorkRequestController` para retornar `WorkRequestResponseResource`                               |
-| Assembler  | TechnicianProfileResourceFromEntityAssembler    | Convierte una entidad TechnicianProfile en un recurso de respuesta    | Asegurar respuesta consistente para el cliente                                                                         | Usado en `TechnicianProfileController` para retornar `TechnicianProfileResponseResource`                   |
+        - **2.6.4.3. Application Layer**
 
-- **2.6.4.3. Application Layer**
-  **Sub-capa Internal**
+          <br>**Sub-capa Internal**
+      
+            | Tipo           | Nombre                              | Descripción                                           | Responsabilidad Principal                                                                | Relación con otros elementos                                                                                                        |
+            |----------------|-------------------------------------|-------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+            | CommandHandler | WorkRequestCommandServiceImpl       | Implementación de los comandos de WorkRequest         | Implementar métodos para crear, actualizar, aceptar y completar solicitudes de trabajo   | Implementa la interfaz `WorkRequestCommandService`. Usado por `WorkRequestController` y los CommandHandlers del dominio             |
+            | QueryHandler   | WorkRequestQueryServiceImpl         | Implementación de las consultas de WorkRequest        | Implementar métodos para obtener solicitudes por estado, cliente o técnico               | Implementa la interfaz `WorkRequestQueryService`. Usado por `WorkRequestController` y los QueryHandlers del dominio                 |
+            | CommandHandler | TechnicianProfileCommandServiceImpl | Implementación de los comandos de TechnicianProfile   | Implementar métodos para registrar y actualizar perfiles de técnicos                     | Implementa la interfaz `TechnicianProfileCommandService`. Usado por `TechnicianProfileController` y los CommandHandlers del dominio |
+            | QueryHandler   | TechnicianProfileQueryServiceImpl   | Implementación de las consultas de TechnicianProfile  | Implementar métodos para consultar perfiles por categoría, disponibilidad, experiencia   | Implementa la interfaz `TechnicianProfileQueryService`. Usado por `TechnicianProfileController` y los QueryHandlers del dominio     |
+      
+        - **2.6.4.4. Infrastructure Layer**
+      
+          **Sub-capa Repository**  
+      
+          | Tipo       | Nombre                      | Descripción                                        | Responsabilidad Principal                                              | Relación con otros elementos                                                                                 |
+          |------------|-----------------------------|----------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+          | Repository | WorkRequestRepository       | Repositorio para el modelo `WorkRequest`           | Acceder y manipular datos persistidos de solicitudes de trabajo        | Usado en la capa Application por `WorkRequestCommandServiceImpl` y `WorkRequestQueryServiceImpl`             |
+          | Repository | TechnicianProfileRepository | Repositorio para el modelo `TechnicianProfile`     | Acceder y manipular datos persistidos de perfiles de técnicos          | Usado en la capa Application por `TechnicianProfileCommandServiceImpl` y `TechnicianProfileQueryServiceImpl` |
 
-  | Tipo           | Nombre                              | Descripción                                           | Responsabilidad Principal                                                                | Relación con otros elementos                                                                                                        |
-  |----------------|-------------------------------------|-------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-  | CommandHandler | WorkRequestCommandServiceImpl       | Implementación de los comandos de WorkRequest         | Implementar métodos para crear, actualizar, aceptar y completar solicitudes de trabajo   | Implementa la interfaz `WorkRequestCommandService`. Usado por `WorkRequestController` y los CommandHandlers del dominio             |
-  | QueryHandler   | WorkRequestQueryServiceImpl         | Implementación de las consultas de WorkRequest        | Implementar métodos para obtener solicitudes por estado, cliente o técnico               | Implementa la interfaz `WorkRequestQueryService`. Usado por `WorkRequestController` y los QueryHandlers del dominio                 |
-  | CommandHandler | TechnicianProfileCommandServiceImpl | Implementación de los comandos de TechnicianProfile   | Implementar métodos para registrar y actualizar perfiles de técnicos                     | Implementa la interfaz `TechnicianProfileCommandService`. Usado por `TechnicianProfileController` y los CommandHandlers del dominio |
-  | QueryHandler   | TechnicianProfileQueryServiceImpl   | Implementación de las consultas de TechnicianProfile  | Implementar métodos para consultar perfiles por categoría, disponibilidad, experiencia   | Implementa la interfaz `TechnicianProfileQueryService`. Usado por `TechnicianProfileController` y los QueryHandlers del dominio     |
-
-- **2.6.4.4. Infrastructure Layer**
-  **Sub-capa Repository**
-
-  | Tipo       | Nombre                      | Descripción                                        | Responsabilidad Principal                                              | Relación con otros elementos                                                                                 |
-  |------------|-----------------------------|----------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-  | Repository | WorkRequestRepository       | Repositorio para el modelo `WorkRequest`           | Acceder y manipular datos persistidos de solicitudes de trabajo        | Usado en la capa Application por `WorkRequestCommandServiceImpl` y `WorkRequestQueryServiceImpl`             |
-  | Repository | TechnicianProfileRepository | Repositorio para el modelo `TechnicianProfile`     | Acceder y manipular datos persistidos de perfiles de técnicos          | Usado en la capa Application por `TechnicianProfileCommandServiceImpl` y `TechnicianProfileQueryServiceImpl` |
-
-    - **2.6.4.5. Bounded Context Software Architecture Component Level Diagrams**
-      <br><br>
-      El diagrama de componentes de Tec Section muestra la organización del sistema en dos módulos principales: WorkRequest y TechnicianProfile, cada uno compuesto por cuatro elementos con responsabilidades específicas. Los Controllers cumplen el rol de exponer datos, actuando como interfaz REST para que los actores externos (Customer y Technician) interactúen con la aplicación. Los Services se encargan de ejecutar datos, orquestando la lógica de negocio mediante la creación, actualización y finalización de solicitudes. Los Resources permiten consultar datos, garantizando que la información del dominio se estructure y presente de manera consistente para su consumo. Finalmente, los Repositories se responsabilizan de modificar datos, encapsulando la persistencia y asegurando independencia entre el dominio y la infraestructura. Esta división modular garantiza claridad en las responsabilidades, bajo acoplamiento y facilidad de mantenimiento, siguiendo los principios de DDD y Clean Architecture.
-        <div align="center">
-        <img src="feature/chapter02/TecSection_Component.jpg">
-        </div>
-        <br>
-    - **2.6.4.6. Bounded Context Software Architecture Code Level Diagrams**
-    - **2.6.4.6.1. Bounded Context Domain Layer Class Diagrams**
-      <br><br>
-      Este diagrama UML representa la arquitectura de un sistema de gestión técnica centrado en la administración de secciones de trabajo, solicitudes de servicio y la interacción entre clientes (Customers) y técnicos (Technicians), teniendo como entidad principal a TecSection, la cual coordina la relación entre técnicos, solicitudes y servicios. Los principales componentes incluyen: Technician y Customer como actores principales, ServiceRequest como núcleo de la interacción entre cliente y técnico, Invoice y Payment para la gestión de facturación y cobros, Category para agrupar técnicos por especialidad, Review para la retroalimentación del cliente y Admin como supervisor del sistema. Las relaciones reflejan la lógica del dominio, donde un Customer puede generar múltiples solicitudes que se asignan a un Technician dentro de una TecSection, cada solicitud puede generar facturas y pagos, y los clientes pueden dejar reseñas sobre el servicio recibido. En conjunto, este diseño permite un sistema modular, escalable y mantenible, con una clara separación de responsabilidades que facilita su evolución futura.<br> <br>
-         <div align="center">
-         <img src="feature/chapter02/Diagrama_de_Datos_Bounded_TecSection.jpg">
-         </div>
-         <br>
-    - **2.6.4.6.2. Bounded Context Database Design Diagram**
-      <br><br>
-  <div align="center">
-  <img src="feature/chapter02/Diagrama_de_Datos_Bounded_TecSection_Diagrama_Base_Datos.jpg">
-  </div>
-  <br>
-
-  **Tabla: WorkRequest**
-
-  | Campo                    | Tipo          | Descripción                                      |
-  |--------------------------|---------------|--------------------------------------------------|
-  | id                       | varchar(36)   | Identificador único de la solicitud (PK)         |
-  | title                    | varchar(120)  | Título de la solicitud de trabajo                |
-  | **Description**          | varchar(300)  | Detalle de la solicitud                          |
-  | date                     | datetime      | Fecha en la que se realizará el servicio         |
-  | time                     | varchar(20)   | Hora programada del inicio del servicio          |
-  | endTime                  | varchar(20)   | Hora estimada de finalización                    |
-  | technicianName           | varchar(120)  | Nombre del técnico asignado o del cliente        |
-  | address                  | varchar(200)  | Dirección donde se realizará el trabajo          |
-  | mapImageUrl              | varchar(250)  | URL del mapa de referencia                       |
-  | dayText                  | varchar(20)   | Texto descriptivo del día (Hoy, Mañana, etc.)    |
-  | finalAmount              | decimal(10,2) | Monto final del servicio acordado                |
-  | finalWork**Description** | varchar(250)  | Descripción final del trabajo realizado          |
-  | status                   | varchar(15)   | Estado de la solicitud (pending, accepted, etc.) |
-  | Technician_id            | int           | ID del Technician relacionado (FK)               |
-  | created_at               | datetime      | Fecha de creación de la solicitud                |
-  | updated_at               | datetime      | Fecha de última actualización de la solicitud    |
+        - **2.6.4.5. Bounded Context Software Architecture Component Level Diagrams**
+          <br><br>
+          El diagrama de componentes de Tec Section muestra la organización del sistema en dos módulos principales: WorkRequest y TechnicianProfile, cada uno compuesto por cuatro elementos con responsabilidades específicas. Los Controllers cumplen el rol de exponer datos, actuando como interfaz REST para que los actores externos (Customer y Technician) interactúen con la aplicación. Los Services se encargan de ejecutar datos, orquestando la lógica de negocio mediante la creación, actualización y finalización de solicitudes. Los Resources permiten consultar datos, garantizando que la información del dominio se estructure y presente de manera consistente para su consumo. Finalmente, los Repositories se responsabilizan de modificar datos, encapsulando la persistencia y asegurando independencia entre el dominio y la infraestructura. Esta división modular garantiza claridad en las responsabilidades, bajo acoplamiento y facilidad de mantenimiento, siguiendo los principios de DDD y Clean Architecture.
+            <div align="center">
+            <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/4_Tec_Section/1_Bounded_Context_Software_Architecture_Component_Level_Diagrams.png"/>
+            </div>
+            <br>
+          
+        - **2.6.4.6. Bounded Context Software Architecture Code Level Diagrams**
+          <br>
+          - **2.6.4.6.1. Bounded Context Domain Layer Class Diagrams**
+            <br><br>
+            Este diagrama UML representa la arquitectura de un sistema de gestión técnica centrado en la administración de secciones de trabajo, solicitudes de servicio y la interacción entre clientes (Customers) y técnicos (Technicians), teniendo como entidad principal a TecSection, la cual coordina la relación entre técnicos, solicitudes y servicios. Los principales componentes incluyen: Technician y Customer como actores principales, ServiceRequest como núcleo de la interacción entre cliente y técnico, Invoice y Payment para la gestión de facturación y cobros, Category para agrupar técnicos por especialidad, Review para la retroalimentación del cliente y Admin como supervisor del sistema. Las relaciones reflejan la lógica del dominio, donde un Customer puede generar múltiples solicitudes que se asignan a un Technician dentro de una TecSection, cada solicitud puede generar facturas y pagos, y los clientes pueden dejar reseñas sobre el servicio recibido. En conjunto, este diseño permite un sistema modular, escalable y mantenible, con una clara separación de responsabilidades que facilita su evolución futura.<br> <br>
+               <div align="center">
+               <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/4_Tec_Section/2_Bounded_Context_Domain_Layer_Class_Diagrams.png"/>
+               </div>
+               <br>
+          - **2.6.4.6.2. Bounded Context Database Design Diagram**
+            <br><br>
+              <div align="center">
+              <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/4_Tec_Section/3_Bounded_Context_Database_Design_Diagram.png"/>
+              </div>
+              <br>
+            
+            **Tabla: WorkRequest**
+          
+            | Campo                    | Tipo          | Descripción                                      |
+            |--------------------------|---------------|--------------------------------------------------|
+            | id                       | varchar(36)   | Identificador único de la solicitud (PK)         |
+            | title                    | varchar(120)  | Título de la solicitud de trabajo                |
+            | **Description**          | varchar(300)  | Detalle de la solicitud                          |
+            | date                     | datetime      | Fecha en la que se realizará el servicio         |
+            | time                     | varchar(20)   | Hora programada del inicio del servicio          |
+            | endTime                  | varchar(20)   | Hora estimada de finalización                    |
+            | technicianName           | varchar(120)  | Nombre del técnico asignado o del cliente        |
+            | address                  | varchar(200)  | Dirección donde se realizará el trabajo          |
+            | mapImageUrl              | varchar(250)  | URL del mapa de referencia                       |
+            | dayText                  | varchar(20)   | Texto descriptivo del día (Hoy, Mañana, etc.)    |
+            | finalAmount              | decimal(10,2) | Monto final del servicio acordado                |
+            | finalWork**Description** | varchar(250)  | Descripción final del trabajo realizado          |
+            | status                   | varchar(15)   | Estado de la solicitud (pending, accepted, etc.) |
+            | Technician_id            | int           | ID del Technician relacionado (FK)               |
+            | created_at               | datetime      | Fecha de creación de la solicitud                |
+            | updated_at               | datetime      | Fecha de última actualización de la solicitud    |
 
     - **2.6.5. Bounded Context: IAM**
         - **2.6.5.1. Domain Layer**
@@ -3323,74 +3364,72 @@
           | Service   | AuditService   | Registra eventos críticos (ej. intentos de login)   | Mantener un registro de auditoría para trazabilidad   | Usado por CommandHandlers o JwtAuthFilter  |
 
     - **2.6.5.5. Bounded Context Software Architecture Component Level Diagrams**
-
-  El diagrama muestra la estructura interna del contenedor IAM Application, que forma parte del bounded context de identidad y autenticación (IAM) del sistema. Este backend está construido siguiendo los principios de Clean Architecture y Domain-Driven Design (DDD)
-  <br><br>
-  <div align="center">
-  <img src="feature/chapter02/componet_IAM.png">
-  </div>
-  <br>
+      
+      El diagrama muestra la estructura interna del contenedor IAM Application, que forma parte del bounded context de identidad y autenticación (IAM) del sistema. Este backend está construido siguiendo los principios de Clean Architecture y Domain-Driven Design (DDD)
+      <br><br>
+      <div align="center">
+      <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/5_Iam/1_Bounded_Context_Software_Architecture_Component_Level_Diagrams.png"/>
+      </div>
+      <br>
 
     - **2.6.5.6. Bounded Context Software Architecture Code Level Diagrams**
+  
     - **2.6.5.6.1. Bounded Context Domain Layer Class Diagrams**
 
       En esta imagen, la clase User cumple un rol central al gestionar los atributos predeterminados del usuario, asegurando la integridad de la información básica como identificadores, credenciales y datos personales necesarios para el sistema
       <br><br>
-  <div align="center">
-  <img src="feature/chapter02/diagram_class_IAM.png">
-  </div>
-  <br>
+      <div align="center">
+      <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/5_Iam/2_Bounded_Context_Domain_Layer_Class_Diagrams.png"/>
+      </div>
+      <br>
 
     - **2.6.5.6.2. Bounded Context Database Design Diagram**
+  
+       <br><br>
+       <div align="center">
+       <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/5_Iam/3_Bounded_Context_Database_Design_Diagram.png"/>
+       </div>
+       <br>
+    
+        **Tabla: users**
 
-  <br><br>
-  <div align="center">
-  <img src="feature/chapter02/diagram_database_IAM.png">
-  </div>
-  <br>
-
-
-
-**Tabla: users**
-
-
-| Nombre          | Descripción                                                        |
-|-----------------|--------------------------------------------------------------------|
-| id              | Identificador único del usuario (UUID), clave primaria.            |
-| email           | Dirección de correo electrónico del usuario, único y obligatorio.  |
-| first\_name     | Primer nombre del usuario.                                         |
-| last\_name      | Apellido del usuario.                                              |
-| password\_hash  | Contraseña del usuario, almacenada de forma segura (encriptada).   |
-| status          | Estado del usuario (ACTIVE, INACTIVE, SUSPENDED).                  |
-| last\_login\_at | Fecha y hora del último inicio de sesión.                          |
-| created\_at     | Fecha y hora en que se creó el registro.                           |
-| updated\_at     | Fecha y hora de la última actualización del registro.              |
-
-**Tabla: roles**
-
-| Nombre      | Descripción                                                     |
-|-------------|-----------------------------------------------------------------|
-| id          | Identificador único del rol (UUID), clave primaria.             |
-| name        | Nombre del rol, único y obligatorio (ej. ADMIN, USER, AUDITOR). |
-| description | Descripción opcional del rol.                                   |
-
-**Tabla: user_roles**
-
-| Nombre                 | Descripción                                                        |
-|------------------------|--------------------------------------------------------------------|
-| user\_id               | Identificador del usuario, clave foránea hacia `users`.            |
-| role\_id               | Identificador del rol, clave foránea hacia `roles`.                |
-| PK(user\_id, role\_id) | Llave primaria compuesta que asegura que un usuario no repita rol. |
-
-**Tabla: audit_log**
-
-| Nombre           | Descripción                                                                |
-|------------------|----------------------------------------------------------------------------|
-| id               | Identificador único del evento (UUID), clave primaria.                     |
-| user\_id         | Identificador del usuario asociado al evento, clave foránea hacia `users`. |
-| event\_type      | Tipo de evento (REGISTERED, SIGNED\_IN, FAILED\_LOGIN).                    |
-| event\_timestamp | Fecha y hora en que ocurrió el evento.                                     |
-| details          | Detalles adicionales del evento (ej. IP, descripción del error, etc.).     |
+        | Nombre          | Descripción                                                        |
+        |-----------------|--------------------------------------------------------------------|
+        | id              | Identificador único del usuario (UUID), clave primaria.            |
+        | email           | Dirección de correo electrónico del usuario, único y obligatorio.  |
+        | first\_name     | Primer nombre del usuario.                                         |
+        | last\_name      | Apellido del usuario.                                              |
+        | password\_hash  | Contraseña del usuario, almacenada de forma segura (encriptada).   |
+        | status          | Estado del usuario (ACTIVE, INACTIVE, SUSPENDED).                  |
+        | last\_login\_at | Fecha y hora del último inicio de sesión.                          |
+        | created\_at     | Fecha y hora en que se creó el registro.                           |
+        | updated\_at     | Fecha y hora de la última actualización del registro.              |
+        
+        **Tabla: roles**
+        
+        | Nombre      | Descripción                                                     |
+        |-------------|-----------------------------------------------------------------|
+        | id          | Identificador único del rol (UUID), clave primaria.             |
+        | name        | Nombre del rol, único y obligatorio (ej. ADMIN, USER, AUDITOR). |
+        | description | Descripción opcional del rol.                                   |
+        
+        **Tabla: user_roles**
+        
+        | Nombre                 | Descripción                                                        |
+        |------------------------|--------------------------------------------------------------------|
+        | user\_id               | Identificador del usuario, clave foránea hacia `users`.            |
+        | role\_id               | Identificador del rol, clave foránea hacia `roles`.                |
+        | PK(user\_id, role\_id) | Llave primaria compuesta que asegura que un usuario no repita rol. |
+        
+        **Tabla: audit_log**
+        
+        | Nombre           | Descripción                                                                |
+        |------------------|----------------------------------------------------------------------------|
+        | id               | Identificador único del evento (UUID), clave primaria.                     |
+        | user\_id         | Identificador del usuario asociado al evento, clave foránea hacia `users`. |
+        | event\_type      | Tipo de evento (REGISTERED, SIGNED\_IN, FAILED\_LOGIN).                    |
+        | event\_timestamp | Fecha y hora en que ocurrió el evento.                                     |
+        | details          | Detalles adicionales del evento (ej. IP, descripción del error, etc.).     |
 
 
 
