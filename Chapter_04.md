@@ -723,9 +723,9 @@
 
 
 
-    - **4.2.1. Sprint 2**<br>
+    - **4.2.2. Sprint 2**<br>
       La siguiente sección detalla los resultados del Sprint #1, correspondiente a la entrega inicial del proyecto. Se presentan los avances organizativos, la distribución de trabajo y los productos desarrollados: la landing page operativa, el progreso del Web Service y la versión preliminar de la Mobile Application.
-    - **4.2.1.1. Sprint Planning 2**<br>
+    - **4.2.2.1. Sprint Planning 2**<br>
     <br>A continuación, se detalla la Planificación del Sprint 1, donde se definieron los objetivos iniciales, se seleccionaron las tareas prioritarias del backlog y se asignaron las responsabilidades del equipo para el primer ciclo de desarrollo.<br><br>
       
     <table>
@@ -786,7 +786,7 @@
               <td>  20</td>
             </tr>
     </table>
-- **4.2.1.2. Sprint Backlog 2** <br>
+- **4.2.2.2. Sprint Backlog 2** <br>
 
     En el primer sprint, el equipo enfocó su trabajo...
     <br> En el primer sprint, el equipo enfocó su trabajo en crear una landing page que fuera tanto funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
@@ -805,7 +805,7 @@
 
 
 
-    - **4.2.1.3. Development Evidence for Sprint Review**
+    - **4.2.2.3. Development Evidence for Sprint Review**
         <br>Esta sección se presenta la Evidencia de Desarrollo completada durante el sprint, demostrando el trabajo funcional realizado y los incrementos del producto listos para ser inspeccionados y validados en la Sprint Review.
 
         | *Repository*                                                             | *Branch*      | *Commit Id*                               | *Commit Message*                                                                                                                         | *Committed By*    | *Committed On* |
@@ -827,10 +827,10 @@
 
 
 
-    - **4.2.1.4. Testing Suite Evidence for Sprint Review**
+    - **4.2.2.4. Testing Suite Evidence for Sprint Review**
 
        
-    - **4.2.1.5. Execution Evidence for Sprint Review**
+    - **4.2.2.5. Execution Evidence for Sprint Review**
         <br>En esta sección se presenta la Evidencia de Ejecución del sprint, la cual muestra el producto funcional o el incremento de valor desarrollado, listo para la inspección y validación durante la Sprint Review.<br><br>
 
       ### LANDING PAGE:
@@ -928,7 +928,7 @@
 
       Link del video: <a href="https://acortar.link/se3cmV">Video </a>
 
-  - **4.2.1.6. Services Documentation Evidence for Sprint Review**
+  - **4.2.2.6. Services Documentation Evidence for Sprint Review**
   <br> En este Sprint se logró documentar con OpenAPI los endpoints correspondientes a las funcionalidades implementadas. La documentación incluye detalles técnicos de los servicios consumidos por la aplicación móvil, como los verbos HTTP, parámetros de entrada y respuestas esperadas, permitiendo una mejor comprensión e integración de la app con la API.
 
   | *Endpoint*                          | *Accion*                            | *Verbo HTTP* | *Sintaxis de llamada*              | *Parámetros o Peticiones*                                                                                                                             | *Ejemplo de Response*                                                                                                                                                                             | *URL de Documentacion*                                   |
@@ -961,7 +961,7 @@
   | /api/v1/work-requests               | Obtener solicitudes por Customer    | GET          | api/v1/work-requests               | none (query params: ?customerId=integer)                                                                                                              | [{"requestId": "string", "title": "string", "status": "string"}]                                                                                                                                  | http://localhost:8080/api/v1/work-requests               |
   | /api/v1/work-requests/{id}          | Obtener solicitud de trabajo por ID | GET          | api/v1/work-requests/{id}          | none                                                                                                                                                  | {"title": "string", "description": "string", "date": "datetime", "status": "string", "workerId": "integer"}                                                                                       | http://localhost:8080/api/v1/work-requests/{id}          |
 
-  - **4.2.1.7. Software Deployment Evidence for Sprint Review**
+  - **4.2.2.7. Software Deployment Evidence for Sprint Review**
       <br>En esta sección se presenta la Evidencia de Despliegue del Software, verificando que el incremento desarrollado durante el sprint ha sido implementado y se encuentra accesible en el entorno de destino para su revisión final.<br><br>
 
       ### LANDING PAGE:
@@ -1059,7 +1059,7 @@
       <img src="https://i.imgur.com/YqhFr0I.png">
       </div>
 
-  - **4.2.1.8. Team Collaboration Insights during Sprint**
+  - **4.2.2.8. Team Collaboration Insights during Sprint**
           <br>En esta sección se exponen las Reflexiones sobre la Colaboración del Equipo durante el sprint, detallando las dinámicas de trabajo y las lecciones clave identificadas para la mejora continua del proceso.<br><br>
 
       | *Alumno*                            | *Actividad*                                |
