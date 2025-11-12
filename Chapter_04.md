@@ -721,6 +721,402 @@
           <img src="https://i.imgur.com/BgP5Wvp.png">
           </div>
 
+
+
+    - **4.2.1. Sprint 2**<br>
+      La siguiente sección detalla los resultados del Sprint #1, correspondiente a la entrega inicial del proyecto. Se presentan los avances organizativos, la distribución de trabajo y los productos desarrollados: la landing page operativa, el progreso del Web Service y la versión preliminar de la Mobile Application.
+    - **4.2.1.1. Sprint Planning 2**<br>
+    <br>A continuación, se detalla la Planificación del Sprint 1, donde se definieron los objetivos iniciales, se seleccionaron las tareas prioritarias del backlog y se asignaron las responsabilidades del equipo para el primer ciclo de desarrollo.<br><br>
+      
+    <table>
+            <tr>
+              <th> Sprint # </th>
+              <th> Sprint 1 </th>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Date </td>
+              <td> 29/09/2025 </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Time </td>
+              <td> 00:38 horas (GMT-5) </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Location </td>
+              <td> Virtual (Google Meet) </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Prepared By </td>
+              <td> Bastidas Bastidas, Diego Martin </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+              <td>
+                Bastidas Bastidas, Diego Martin<br>
+                Belahonia Miranda, Fabrisio<br>
+                Dominguez Vargas, Rafael Alexander<br>
+                Escobar Palomino, Sebastian Matias<br>
+                Muñiz Huayanca, Percy Alonso	
+              </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+              <td> Dado que este es el primer sprint de desarrollo, no contamos con un review summary previo. </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+              <td> Al ser el primer sprint, aún no hemos identificado áreas específicas de mejora para el proceso. </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Sprint 1 Goal </td>
+              <td>Nuestro objetivo es crear una landing page que muestre de manera clara y atractiva todas las funcionalidades y ventajas de AlguienDijoChamba, ofreciendo a los visitantes una primera impresión sólida de la plataforma y su propuesta de valor. La página permitirá que los usuarios exploren las distintas secciones y comprendan cómo nuestra solución conecta de manera efectiva a empresas y profesionales. Paralelamente, queremos resaltar la app móvil, que ofrece una experiencia práctica y accesible, permitiendo a los usuarios interactuar con la plataforma desde cualquier lugar. Este enfoque integral se validará observando cómo los visitantes navegan por la landing page y aprovechan la conexión fluida con la app móvil.</td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+              <td>20</td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Sum of Story Points </td>
+              <td>  20</td>
+            </tr>
+    </table>
+- **4.2.1.2. Sprint Backlog 2** <br>
+
+    En el primer sprint, el equipo enfocó su trabajo...
+    <br> En el primer sprint, el equipo enfocó su trabajo en crear una landing page que fuera tanto funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
+
+    | **ID** | **Title**                      | **Description**                                                                                                                                            | **Estimation (Hours)** | **Assigned To**                 | **Status (To-do / In Process / To Review / Done)** |
+    | ------ | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------- | -------------------------------------------------- |
+    | LPS01  | Navigation                     | Implementación de la barra de navegación con enlaces a las secciones “¿Cómo funciona?”, “Casos de éxito”, “Planes” y “Contactos”.                          | 4                      | Bastidas Bastidas, Diego Martín | Done                                               |
+    | LPS02  | Hero Section                   | Implementación de la sección “Hero Section”, diseñada para captar la atención de los usuarios y presentar brevemente la aplicación móvil.                  | 2                      | Bastidas Bastidas, Diego Martín | Done                                               |
+    | LPS03  | About the Product              | Desarrollo de la sección “About the Product”, donde se describen brevemente el producto y sus principales beneficios.                                      | 2                      | Bastidas Bastidas, Diego Martín | Done                                               |
+    | LPS04  | Services and Technical Workers | Desarrollo de la sección “Services and Technical Workers”, donde se muestran los servicios ofrecidos por los técnicos calificados.                         | 3                      | Bastidas Bastidas, Diego Martín | Done                                               |
+    | LPS05  | Gamification                   | Desarrollo de la sección “Gamification”, en la que se explica el sistema de niveles de los usuarios y las formas de progresar dentro de la aplicación.     | 3                      | Bastidas Bastidas, Diego Martín | Done                                               |
+    | LPS06  | Testimonials                   | Desarrollo de la sección “Testimonials”, donde se presentan los comentarios y experiencias de usuarios que han utilizado la aplicación.                    | 3                      | Bastidas Bastidas, Diego Martín | Done                                               |
+    | LPS07  | Contact                        | Desarrollo de la sección “Contact”, donde se detalla la forma en que los usuarios pueden comunicarse con el equipo detrás de *AlguienDijoChamba*.          | 2                      | Bastidas Bastidas, Diego Martín | Done                                               |
+    | LPS08  | Footer                         | Desarrollo de la sección “Footer”, que incluye enlaces de navegación, redes sociales del equipo y accesos rápidos a las distintas secciones del sitio web. | 2                      | Bastidas Bastidas, Diego Martín | Done                                               |
+
+
+
+
+    - **4.2.1.3. Development Evidence for Sprint Review**
+        <br>Esta sección se presenta la Evidencia de Desarrollo completada durante el sprint, demostrando el trabajo funcional realizado y los incrementos del producto listos para ser inspeccionados y validados en la Sprint Review.
+
+        | *Repository*                                                             | *Branch*      | *Commit Id*                               | *Commit Message*                                                                                                                         | *Committed By*    | *Committed On* |
+        |--------------------------------------------------------------------------|---------------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------|----------------|
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-1     | e24070bfb6eee873f1f838c2e65c913c7ab8028b  | Initial commit                                                                                                                           | ghostnotfound404  | Sep 08, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-1     | e4daaa743de9a29709041949cb8dc0188e81163e  | Feat: update readme                                                                                                                      | ghostnotfound404  | Sep 08, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-1     | bda5d55e80d7ed66115d24f6c54cb0be793af8f8  | feat: update point of the report                                                                                                         | ghostnotfound404  | Sep 08, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-1     | 014a60dc712fad3715fde318a76df9fa40285825  | feat: chapter 01                                                                                                                         | ghostnotfound404  | Sep 08, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-1     | 8519a69634e435e92cc45b197619d2b81f812b39  | feat: perfil de integrante Rafael                                                                                                        | radv2005          | Sep 09, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-2     | ab9513074d7ee0cf4776a956764822d0d13c9930  | feat: update chapter 2 lack User Journey Mapping                                                                                         | ghostnotfound404  | Sep 11, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-2     | 91c494577672f203916155d0a1f2e8a02306e3f2  | docs(domain): add Alert tables Model and Service in Domain Layer                                                                         | radv2005          | Sep 13, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-2     | b85dc2d271ba6a40520b9ed93fa6a303eb196adf  | docs(BoundedAlert): add Alert tables REST resources, controller and assemblers                                                           | radv2005          | Sep 13, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-2     | 236dbdb8d3e87ce68686acc68346d9c427430fef  | docs(BoundedAlert): add AlertCommandServiceImpl and AlertQueryServiceImpl tables                                                         | radv2005          | Sep 13, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-2     | 247c483d062d63b6ed8e4b0e5c26465d1ffda5cc  | docs(BoundedAlert): add AlertRepository table in Infrastructure Layer                                                                    | radv2005          | Sep 13, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-2     | 83197eee233610241796c191e998d89a488321e9  | docs(BoundedAlert): add AlertComponent Diagram                                                                                           | radv2005          | Sep 13, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-2     | 9ed556c03dde8aed35bccef39cdb92f298c2dfb0  | docs(BoundedAlert): add Architecture Code Level Diagram                                                                                  | radv2005          | Sep 13, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-2     | 4bec31847f00b82d0fe6c1e284a1b15c665a8bb9  | docs(BoundedAlert): add Database Design Diagram                                                                                          | radv2005          | Sep 14, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-2     | 7c9007e5e797782b49a5acbe308e6cb53297ddda  | docs(BoundedAlert): fix images                                                                                                           | radv2005          | Sep 14, 2025   |
+
+
+
+    - **4.2.1.4. Testing Suite Evidence for Sprint Review**
+
+       
+    - **4.2.1.5. Execution Evidence for Sprint Review**
+        <br>En esta sección se presenta la Evidencia de Ejecución del sprint, la cual muestra el producto funcional o el incremento de valor desarrollado, listo para la inspección y validación durante la Sprint Review.<br><br>
+
+      ### LANDING PAGE:
+
+      A continuación, se muestran las evidencias de la ejecución de la landing page hecha en HTML, CSS y JS usando la biblioteca Bootstrap.
+
+      #### LPS 01:
+
+      Ver Hero Section
+
+      <div align="center">
+      <img src="feature/chapter04/Execution_Evidence_for_Sprint_Review/Landing_Page/LPS01.png" alt="Hero Section">
+      </div>
+
+      #### LPS 02:
+
+      Ver sección sobre el producto
+
+      <div align="center">
+      <img src="feature/chapter04/Execution_Evidence_for_Sprint_Review/Landing_Page/LPS02.png" alt="About us">
+      </div>
+
+      #### LPS 03:
+
+      Ver sección de servicios y características
+
+      <div align="center">
+      <img src="feature/chapter04/Execution_Evidence_for_Sprint_Review/Landing_Page/LPS03.png" alt="Services">
+      </div>
+
+      #### LPS 04:
+
+      Consultar gamificacion y beneficios
+
+      <div align="center">
+      <img src="feature/chapter04/Execution_Evidence_for_Sprint_Review/Landing_Page/LPS04.png" alt="Gamification">
+      </div>
+
+      #### LPS 05:
+
+      Ver testimonios de usuarios
+
+      <div align="center">
+      <img src="feature/chapter04/Execution_Evidence_for_Sprint_Review/Landing_Page/LPS05.png" alt="Testimonials">
+      </div>
+
+      #### LPS 06:
+
+      Acceder a sección de contacto
+
+      <div align="center">
+      <img src="feature/chapter04/Execution_Evidence_for_Sprint_Review/Landing_Page/LPS06.png" alt="Contacts">
+      </div>
+
+      #### LPS 07:
+
+      Ver sección Footer con enlaces útiles
+
+      <div align="center">
+      <img src="feature/chapter04/Execution_Evidence_for_Sprint_Review/Landing_Page/LPS07.png" alt="Footer">
+      </div>
+
+      ### MOBILE APPLICATION:
+      <div align="center">
+      <img src="https://i.imgur.com/2kYOCzS.png">
+       </div>
+
+      <div align="center">
+       <img src="https://i.imgur.com/PZzxKOo.png">
+      </div>
+
+      <div align="center">
+      <img src="https://i.imgur.com/irSNAxw.png">
+       </div>
+
+      <div align="center">
+      <img src="https://i.imgur.com/byVncR9.png">
+      </div>
+
+      <div align="center">
+       <img src="https://i.imgur.com/cZ5hQLM.png">
+      </div>
+
+      <div align="center">
+       <img src="https://i.imgur.com/Vgltnuj.png">
+       </div>
+
+      <div align="center">
+      <img src="https://i.imgur.com/AKQgRgd.png">
+      </div>
+
+       <div align="center">
+      <img src="https://i.imgur.com/YqhFr0I.png">
+       </div>
+
+      Link del video: <a href="https://acortar.link/se3cmV">Video </a>
+
+  - **4.2.1.6. Services Documentation Evidence for Sprint Review**
+  <br> En este Sprint se logró documentar con OpenAPI los endpoints correspondientes a las funcionalidades implementadas. La documentación incluye detalles técnicos de los servicios consumidos por la aplicación móvil, como los verbos HTTP, parámetros de entrada y respuestas esperadas, permitiendo una mejor comprensión e integración de la app con la API.
+
+  | *Endpoint*                          | *Accion*                            | *Verbo HTTP* | *Sintaxis de llamada*              | *Parámetros o Peticiones*                                                                                                                             | *Ejemplo de Response*                                                                                                                                                                             | *URL de Documentacion*                                   |
+  |-------------------------------------|-------------------------------------|--------------|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------| 
+  | /api/auth/login                     | Autenticación                       | POST         | api/auth/login                     | {"email": "string", "password": "string"}                                                                                                             | {"accessToken": "string", "refreshToken": "string"}                                                                                                                                               | http://localhost:8080/api/auth/login                     |
+  | /api/auth/register                  | Registro de usuario                 | POST         | api/auth/register                  | {"email": "string", "firstName": "string", "lastName": "string", "password": "string"}                                                                | {"userId": "string", "message": "Usuario registrado exitosamente"}                                                                                                                                | http://localhost:8080/api/auth/register                  |
+  | /api/v1/workers                     | Registrar Worker                    | POST         | api/v1/workers                     | {"name": "string", "email": "string", "phone": "string", "location": "string", "experience": "string", "categoryId": "integer", "skills": ["string"]} | {"workerId": "string", "message": "Worker registrado"}                                                                                                                                            | http://localhost:8080/api/v1/workers                     |
+  | /api/v1/workers/{id}                | Actualizar perfil de Worker         | PUT          | api/v1/workers/{id}                | {"name": "string", "email": "string", "phone": "string", "location": "string", "experience": "string"}                                                | {"workerId": "string", "message": "Perfil actualizado"}                                                                                                                                           | http://localhost:8080/api/v1/workers/{id}                |
+  | /api/v1/workers/{id}                | Obtener perfil de Worker por ID     | GET          | api/v1/workers/{id}                | none                                                                                                                                                  | {"name": "string", "email": "string", "phone": "string", "location": "string", "experience": "string", "ratingAvg": "decimal", "status": "string", "skills": ["string"], "categoryId": "integer"} | http://localhost:8080/api/v1/workers/{id}                |
+  | /api/v1/workers                     | Obtener Workers por categoría       | GET          | api/v1/workers                     | none (query params: ?category=string)                                                                                                                 | [{"workerId": "string", "name": "string", "ratingAvg": "decimal", "skills": ["string"]}]                                                                                                          | http://localhost:8080/api/v1/workers                     |
+  | /api/v1/workers/{id}/skills         | Añadir skill a Worker               | POST         | api/v1/workers/{id}/skills         | {"skillName": "string"}                                                                                                                               | {"message": "Skill añadido"}                                                                                                                                                                      | http://localhost:8080/api/v1/workers/{id}/skills         |
+  | /api/v1/workers/{id}/ratings        | Calificar Worker                    | POST         | api/v1/workers/{id}/ratings        | {"score": "integer", "comment": "string"}                                                                                                             | {"message": "Calificación registrada"}                                                                                                                                                            | http://localhost:8080/api/v1/workers/{id}/ratings        |
+  | /api/v1/categories                  | Crear categoría                     | POST         | api/v1/categories                  | {"name": "string", "description": "string"}                                                                                                           | {"categoryId": "integer", "message": "Categoría creada"}                                                                                                                                          | http://localhost:8080/api/v1/categories                  |
+  | /api/v1/categories                  | Listar categorías                   | GET          | api/v1/categories                  | none                                                                                                                                                  | [{"categoryId": "integer", "name": "string", "description": "string"}]                                                                                                                            | http://localhost:8080/api/v1/categories                  |
+  | /api/v1/categories/{id}             | Obtener categoría por ID            | GET          | api/v1/categories/{id}             | none                                                                                                                                                  | {"categoryId": "integer", "name": "string", "description": "string"}                                                                                                                              | http://localhost:8080/api/v1/categories/{id}             |
+  | /api/v1/payments                    | Crear pago                          | POST         | api/v1/payments                    | {"orderId": "string", "amount": "decimal", "method": "string"}                                                                                        | {"paymentId": "string", "status": "string"}                                                                                                                                                       | http://localhost:8080/api/v1/payments                    |
+  | /api/v1/payments/{id}               | Obtener pago por ID                 | GET          | api/v1/payments/{id}               | none                                                                                                                                                  | {"paymentId": "string", "amount": "decimal", "status": "string", "date": "datetime"}                                                                                                              | http://localhost:8080/api/v1/payments/{id}               |
+  | /api/v1/refunds                     | Solicitar reembolso                 | POST         | api/v1/refunds                     | {"paymentId": "string", "reason": "string"}                                                                                                           | {"refundId": "string", "status": "string"}                                                                                                                                                        | http://localhost:8080/api/v1/refunds                     |
+  | /api/v1/alerts                      | Crear alerta                        | POST         | api/v1/alerts                      | {"type": "string", "title": "string", "message": "string", "customerId": "integer", "workerId": "integer"}                                            | {"alertId": "integer", "message": "Alerta creada"}                                                                                                                                                | http://localhost:8080/api/v1/alerts                      |
+  | /api/v1/alerts/{id}                 | Eliminar alerta                     | DELETE       | api/v1/alerts/{id}                 | none                                                                                                                                                  | {"message": "Alerta eliminada"}                                                                                                                                                                   | http://localhost:8080/api/v1/alerts/{id}                 |
+  | /api/v1/alerts/{id}/accept          | Aceptar alerta                      | PUT          | api/v1/alerts/{id}/accept          | none                                                                                                                                                  | {"message": "Alerta aceptada"}                                                                                                                                                                    | http://localhost:8080/api/v1/alerts/{id}/accept          |
+  | /api/v1/alerts/{id}/decline         | Rechazar alerta                     | PUT          | api/v1/alerts/{id}/decline         | none                                                                                                                                                  | {"message": "Alerta rechazada"}                                                                                                                                                                   | http://localhost:8080/api/v1/alerts/{id}/decline         |
+  | /api/v1/alerts                      | Obtener alertas por Customer        | GET          | api/v1/alerts                      | none (query params: ?customerId=integer)                                                                                                              | [{"alertId": "integer", "type": "string", "title": "string", "message": "string"}]                                                                                                                | http://localhost:8080/api/v1/alerts                      |
+  | /api/v1/alerts                      | Obtener alertas por Worker          | GET          | api/v1/alerts                      | none (query params: ?workerId=integer)                                                                                                                | [{"alertId": "integer", "type": "string", "title": "string", "message": "string"}]                                                                                                                | http://localhost:8080/api/v1/alerts                      |
+  | /api/v1/work-requests               | Crear solicitud de trabajo          | POST         | api/v1/work-requests               | {"title": "string", "description": "string", "date": "datetime", "time": "string", "address": "string", "category": "string"}                         | {"requestId": "string", "message": "Solicitud creada"}                                                                                                                                            | http://localhost:8080/api/v1/work-requests               |
+  | /api/v1/work-requests/{id}          | Actualizar solicitud de trabajo     | PUT          | api/v1/work-requests/{id}          | {"title": "string", "description": "string", "date": "datetime", "time": "string", "address": "string"}                                               | {"requestId": "string", "message": "Solicitud actualizada"}                                                                                                                                       | http://localhost:8080/api/v1/work-requests/{id}          |
+  | /api/v1/work-requests/{id}/accept   | Aceptar solicitud de trabajo        | PUT          | api/v1/work-requests/{id}/accept   | none                                                                                                                                                  | {"message": "Solicitud aceptada"}                                                                                                                                                                 | http://localhost:8080/api/v1/work-requests/{id}/accept   |
+  | /api/v1/work-requests/{id}/complete | Completar solicitud de trabajo      | PUT          | api/v1/work-requests/{id}/complete | {"finalAmount": "decimal", "finalWorkDescription": "string"}                                                                                          | {"message": "Solicitud completada"}                                                                                                                                                               | http://localhost:8080/api/v1/work-requests/{id}/complete |
+  | /api/v1/work-requests               | Obtener solicitudes por Worker      | GET          | api/v1/work-requests               | none (query params: ?workerId=integer)                                                                                                                | [{"requestId": "string", "title": "string", "status": "string"}]                                                                                                                                  | http://localhost:8080/api/v1/work-requests               |
+  | /api/v1/work-requests               | Obtener solicitudes por Customer    | GET          | api/v1/work-requests               | none (query params: ?customerId=integer)                                                                                                              | [{"requestId": "string", "title": "string", "status": "string"}]                                                                                                                                  | http://localhost:8080/api/v1/work-requests               |
+  | /api/v1/work-requests/{id}          | Obtener solicitud de trabajo por ID | GET          | api/v1/work-requests/{id}          | none                                                                                                                                                  | {"title": "string", "description": "string", "date": "datetime", "status": "string", "workerId": "integer"}                                                                                       | http://localhost:8080/api/v1/work-requests/{id}          |
+
+  - **4.2.1.7. Software Deployment Evidence for Sprint Review**
+      <br>En esta sección se presenta la Evidencia de Despliegue del Software, verificando que el incremento desarrollado durante el sprint ha sido implementado y se encuentra accesible en el entorno de destino para su revisión final.<br><br>
+
+      ### LANDING PAGE:
+
+      A continuación, se muestran las evidencias del despliegue del landing page hecha en HTML, CSS y JS usando la biblioteca Bootstrap usando funcionalidades de GitHubPage.
+
+      #### Hero Section:
+        
+      Vista representativa que busca llamar la atencion al usuario
+
+      <div align="center">
+      <img src="feature/chapter04/Software_Deployment_Evidence_for_Sprint_Review/Landing_Page/LPS01.png" alt="Hero Section">
+      </div>
+
+      #### About The Product:
+
+      Ver seccion donde describimos nuestro producto
+
+      <div align="center">
+      <img src="feature/chapter04/Software_Deployment_Evidence_for_Sprint_Review/Landing_Page/LPS02.png" alt="About us">
+      </div>
+      
+      #### SERVICES:
+
+      Seccion donde se veran los servicios que ofrecen nuestros tecnicos cualificados
+
+      <div align="center">
+      <img src="feature/chapter04/Software_Deployment_Evidence_for_Sprint_Review/Landing_Page/LPS03.png" alt="Services">
+      </div>
+
+      #### GAMIFICATION:
+
+      Seccion donde se veran la gamificacion y los diferentes niveles de esta, a su vez la explicacion de como conseguir puntos
+
+      <div align="center">
+      <img src="feature/chapter04/Software_Deployment_Evidence_for_Sprint_Review/Landing_Page/LPS04.png" alt="Gamification">
+      </div>
+
+      #### TESTIMONIALS:
+
+      Seccion donde se veran testimonios de usuarios reales
+
+      <div align="center">
+      <img src="feature/chapter04/Software_Deployment_Evidence_for_Sprint_Review/Landing_Page/LPS05.png" alt="Testimonials">
+      </div>
+
+      #### CONTACT:
+
+      Seccion en la cual el usuario puede contactar con el equipo de AlguienDijoChamba
+
+      <div align="center">
+      <img src="feature/chapter04/Software_Deployment_Evidence_for_Sprint_Review/Landing_Page/LPS06.png" alt="Contacts">
+      </div>
+
+      #### FOOTER:
+
+      Seccion donde se veran enlaces rapidos y redes sociales
+
+      <div align="center">
+      <img src="feature/chapter04/Software_Deployment_Evidence_for_Sprint_Review/Landing_Page/LPS07.png" alt="Footer">
+      </div>
+
+      ### MOBILE APPLICATION:
+      A continuación, se muestran las evidencias de la ejecución de la aplicación móvil desarrollada en Android Studio.
+
+      <div align="center">
+      <img src="https://i.imgur.com/2kYOCzS.png">
+      </div>
+
+      <div align="center">
+      <img src="https://i.imgur.com/PZzxKOo.png">
+      </div>
+
+      <div align="center">
+      <img src="https://i.imgur.com/irSNAxw.png">
+      </div>
+
+      <div align="center">
+      <img src="https://i.imgur.com/byVncR9.png">
+      </div>
+
+      <div align="center">
+      <img src="https://i.imgur.com/cZ5hQLM.png">
+      </div>
+
+      <div align="center">
+      <img src="https://i.imgur.com/Vgltnuj.png">
+      </div>
+
+      <div align="center">
+      <img src="https://i.imgur.com/AKQgRgd.png">
+      </div>
+
+      <div align="center">
+      <img src="https://i.imgur.com/YqhFr0I.png">
+      </div>
+
+  - **4.2.1.8. Team Collaboration Insights during Sprint**
+          <br>En esta sección se exponen las Reflexiones sobre la Colaboración del Equipo durante el sprint, detallando las dinámicas de trabajo y las lecciones clave identificadas para la mejora continua del proceso.<br><br>
+
+      | *Alumno*                            | *Actividad*                                |
+      |-------------------------------------|--------------------------------------------|
+      | Bastidas Bastidas, Diego Martin     | Landing Page Deployment, Backend           |
+      | Belahonia Miranda, Fabrisio         | Figma Design, Prototyping, Frontend        |
+      | Dominguez Vargas, Rafael Alexander  | iam(Login,Signup), Figma Design, Frontend  |
+      | Escobar Palomino, Sebastian Matias  | Frontend                                   |
+      | Muñiz Huayanca, Percy Alonso        | Backend                                    |
+
+      ## Report:
+
+      <div align="center">
+          <img src="https://i.imgur.com/JnLEci8.png">
+          </div>
+
+      <div align="center">
+          <img src="https://i.imgur.com/cabd8vi.png">
+          </div>
+
+      <div align="center">
+          <img src="https://i.imgur.com/oYhcXFF.png">
+          </div>
+
+      ## Landing Page:
+
+      <div align="center">
+          <img src="https://i.imgur.com/3Wf3qsl.png">
+          </div>
+
+      <div align="center">
+          <img src="https://i.imgur.com/tXwNX4x.png">
+          </div>
+
+      <div align="center">
+          <img src="https://i.imgur.com/sVE6dqN.png">
+          </div>
+
+      ## Mobile Application:
+
+      <div align="center">
+          <img src="https://i.imgur.com/ePu6gMc.png">
+          </div>
+
+      <div align="center">
+          <img src="https://i.imgur.com/bHigClA.png">
+          </div>
+
+      <div align="center">
+          <img src="https://i.imgur.com/BgP5Wvp.png">
+          </div>
+
+
+
+
+          
+
 ## **Conclusiones**
 En este primer entregable, el equipo de Thedraws ha logrado cumplir con los objetivos planteados, elaborando un informe detallado que refleja los avances del proyecto. Gracias a un enfoque cuidadoso y bien organizado, se ha conseguido comunicar de manera efectiva los beneficios de la app “Alguien dijo Chamba” a los usuarios, estableciendo una base sólida para las etapas futuras del proyecto. Este primer paso garantiza que la estructura y visión de Thedraws se transmitan con claridad, facilitando la transición hacia fases más complejas del desarrollo.
 
