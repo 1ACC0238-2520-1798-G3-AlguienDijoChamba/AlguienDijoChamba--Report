@@ -724,25 +724,25 @@
 
 
     - **4.2.2. Sprint 2**<br>
-      La siguiente sección detalla los resultados del Sprint #1, correspondiente a la entrega inicial del proyecto. Se presentan los avances organizativos, la distribución de trabajo y los productos desarrollados: la landing page operativa, el progreso del Web Service y la versión preliminar de la Mobile Application.
+      La siguiente sección detalla los resultados del Sprint #2, correspondiente a la entrega inicial del proyecto. Se presentan los avances organizativos, la distribución de trabajo y los productos desarrollados: la landing page operativa, el progreso del Web Service y la versión preliminar de la Mobile Application.
     - **4.2.2.1. Sprint Planning 2**<br>
-    <br>A continuación, se detalla la Planificación del Sprint 1, donde se definieron los objetivos iniciales, se seleccionaron las tareas prioritarias del backlog y se asignaron las responsabilidades del equipo para el primer ciclo de desarrollo.<br><br>
+    <br>A continuación, se detalla la Planificación del Sprint 2, donde se definieron los objetivos iniciales, se seleccionaron las tareas prioritarias del backlog y se asignaron las responsabilidades del equipo para el primer ciclo de desarrollo.<br><br>
       
     <table>
             <tr>
               <th> Sprint # </th>
-              <th> Sprint 1 </th>
+              <th> Sprint 2 </th>
             </tr>
             <tr>
               <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
             </tr>
             <tr>
               <td style="font-weight: bold;"> Date </td>
-              <td> 29/09/2025 </td>
+              <td> 25/10/2025 </td>
             </tr>
             <tr>
               <td style="font-weight: bold;"> Time </td>
-              <td> 00:38 horas (GMT-5) </td>
+              <td> 00:50 horas (GMT-5) </td>
             </tr>
             <tr>
               <td style="font-weight: bold;"> Location </td>
@@ -778,7 +778,7 @@
               <td>Se desarrolló y desplegó exitosamente un servicio web y una aplicación móvil que muestran de forma clara y atractiva los principales beneficios y características del producto, optimizados para dispositivos móviles y diseñados para captar leads mediante un formulario de contacto. Además, se completó el desarrollo e implementación de la primera versión funcional del backend, garantizando la integración entre ambos sistemas.</td>
             </tr>
             <tr>
-              <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+              <td style="font-weight: bold;"> Sprint 2 Velocity </td>
               <td>25</td>
             </tr>
             <tr>
@@ -788,8 +788,7 @@
     </table>
 - **4.2.2.2. Sprint Backlog 2** <br>
 
-    En el primer sprint, el equipo enfocó su trabajo...
-    <br> En el primer sprint, el equipo enfocó su trabajo en crear una landing page que fuera tanto funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
+    En el segundo sprint, el equipo enfocó su trabajo en crear una landing page que fuera tanto funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
 
     | **ID** | **Title**                      | **Description**                                                                                                                                            | **Estimation (Hours)** | **Assigned To**                 | **Status (To-do / In Process / To Review / Done)** |
     | ------ | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------- | -------------------------------------------------- |
