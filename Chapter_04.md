@@ -763,27 +763,27 @@
               </td>
             </tr>
             <tr>
-              <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
-              <td> Dado que este es el primer sprint de desarrollo, no contamos con un review summary previo. </td>
+              <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+              <td>Desarrollo completo de Backend y Aplicativo en Android </td>
             </tr>
             <tr>
-              <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
-              <td> Al ser el primer sprint, aún no hemos identificado áreas específicas de mejora para el proceso. </td>
+              <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+              <td> Logramos alcanzar el objetivo de publicar la primera versión de nuestra aplicación móvil y plataforma web. </td>
             </tr>
             <tr>
               <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
             </tr>
             <tr>
-              <td style="font-weight: bold;"> Sprint 1 Goal </td>
-              <td>Nuestro objetivo es crear una landing page que muestre de manera clara y atractiva todas las funcionalidades y ventajas de AlguienDijoChamba, ofreciendo a los visitantes una primera impresión sólida de la plataforma y su propuesta de valor. La página permitirá que los usuarios exploren las distintas secciones y comprendan cómo nuestra solución conecta de manera efectiva a empresas y profesionales. Paralelamente, queremos resaltar la app móvil, que ofrece una experiencia práctica y accesible, permitiendo a los usuarios interactuar con la plataforma desde cualquier lugar. Este enfoque integral se validará observando cómo los visitantes navegan por la landing page y aprovechan la conexión fluida con la app móvil.</td>
+              <td style="font-weight: bold;"> Sprint 2 Goal </td>
+              <td>Se desarrolló y desplegó exitosamente un servicio web y una aplicación móvil que muestran de forma clara y atractiva los principales beneficios y características del producto, optimizados para dispositivos móviles y diseñados para captar leads mediante un formulario de contacto. Además, se completó el desarrollo e implementación de la primera versión funcional del backend, garantizando la integración entre ambos sistemas.</td>
             </tr>
             <tr>
               <td style="font-weight: bold;"> Sprint 1 Velocity </td>
-              <td>20</td>
+              <td>25</td>
             </tr>
             <tr>
               <td style="font-weight: bold;"> Sum of Story Points </td>
-              <td>  20</td>
+              <td>  25</td>
             </tr>
     </table>
 - **4.2.2.2. Sprint Backlog 2** <br>
