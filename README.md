@@ -72,11 +72,11 @@ Enlace de la organización para el reporte del proyecto: [https://github.com/1AC
 
 TB1:
 
-<img src="feature/chapter01/insights1.png">
+<img src="feature/chapter1/insights1.png">
 
-<img src="feature/chapter01/insights2.png">
+<img src="feature/chapter1/insights2.png">
 
-<img src="feature/chapter01/insights3.png">
+<img src="feature/chapter1/insights3.png">
 
 TP1:
 
@@ -85,6 +85,13 @@ TP1:
 <img src="https://i.imgur.com/cabd8vi.png">
 
 <img src="https://i.imgur.com/oYhcXFF.png">
+
+TB2:
+<img src="feature/chapter1/contri1.jpeg">
+
+<img src="feature/chapter1/contri2.jpeg">
+
+<img src="feature/chapter1/contri3.jpeg">
 
 
 # Contenido
