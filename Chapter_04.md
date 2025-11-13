@@ -939,6 +939,8 @@
       </div>
 
       ### MOBILE APPLICATION:
+
+      #### ANDROID VERSION:
       <div align="center">
       <img src="https://i.imgur.com/2kYOCzS.png">
        </div>
@@ -972,6 +974,32 @@
        </div>
 
       Link del video: <a href="https://acortar.link/se3cmV">Video </a>
+
+      #### Flutter Version:
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/1.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/2.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/3.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/4_notificaciones.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/5_search.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/7_proces_1.png" alt="Contacts">
+      </div>
 
   - **4.2.2.6. Services Documentation Evidence for Sprint Review**
   <br> En este Sprint se logró documentar con OpenAPI los endpoints correspondientes a las funcionalidades implementadas. La documentación incluye detalles técnicos de los servicios consumidos por la aplicación móvil, como los verbos HTTP, parámetros de entrada y respuestas esperadas, permitiendo una mejor comprensión e integración de la app con la API.
@@ -1070,6 +1098,7 @@
       </div>
 
       ### MOBILE APPLICATION:
+      #### Android Version:
       A continuación, se muestran las evidencias de la ejecución de la aplicación móvil desarrollada en Android Studio.
 
       <div align="center">
@@ -1102,6 +1131,68 @@
 
       <div align="center">
       <img src="https://i.imgur.com/YqhFr0I.png">
+      </div>
+    
+      #### Flutter Version:
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/1.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/2.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/3.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/4_notificaciones.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/5_search.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/6_tags.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/7_proces_1.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/7_proces_2.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/7_proces_3.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/7_proces_4.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/7_proces_5.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/7_proces_6.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/8_process_7.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/8_process_8.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/8_process_9.png" alt="Contacts">
       </div>
 
   - **4.2.2.8. Team Collaboration Insights during Sprint**
