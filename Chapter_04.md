@@ -1098,164 +1098,74 @@
 
   - **4.2.2.7. Software Deployment Evidence for Sprint Review**
       <br>En esta sección se presenta la Evidencia de Despliegue del Software, verificando que el incremento desarrollado durante el sprint ha sido implementado y se encuentra accesible en el entorno de destino para su revisión final.<br><br>
+          
+      Durante este Sprint se realizó el despliegue de la base de datos remota utilizando **Azure Database for MySQL – Flexible Server**, como parte de la infraestructura necesaria para soportar el Web Service y las operaciones de la aplicación móvil **AlguienDijoChamba**.
+      A continuación se detalla la evidencia del proceso realizado en Azure Portal:
 
-      ### LANDING PAGE:
+      ---
 
-      A continuación, se muestran las evidencias del despliegue del landing page hecha en HTML, CSS y JS usando la biblioteca Bootstrap usando funcionalidades de GitHubPage.
-
-      #### Hero Section:
-        
-      Vista representativa que busca llamar la atencion al usuario
-
-      <div align="center">
-      <img src="feature/chapter04/Software_Deployment_Evidence_for_Sprint_Review/Landing_Page/LPS01.png" alt="Hero Section">
-      </div>
-
-      #### About The Product:
-
-      Ver seccion donde describimos nuestro producto
-
-      <div align="center">
-      <img src="feature/chapter04/Software_Deployment_Evidence_for_Sprint_Review/Landing_Page/LPS02.png" alt="About us">
-      </div>
+      ### **1. Selección del tipo de servidor y suscripción**
       
-      #### SERVICES:
+      Se inició la configuración seleccionando la opción *Servidor Flexible* dentro de Azure Database for MySQL, asignando la suscripción **Azure for Students** y creando un grupo de recursos exclusivo para la base de datos del proyecto.
 
-      Seccion donde se veran los servicios que ofrecen nuestros tecnicos cualificados
+      <br><br> <img src="./feature/chapter04/deployback_1.jpeg">
+      
+      ---
+      
+      ### **2. Configuración del servidor MySQL**
+      
+      En esta etapa se definieron parámetros clave para el servidor:
+      
+      * Nombre del servidor: **chamba-db-production**
+      * Región: **Australia Central 2**
+      * Versión: **MySQL 8.0**
+      * Tipo de carga: **Desarrollo/Pruebas**
+      * 1 vCore, 2 GB RAM y 20 GB de almacenamiento
+      
+      Esta configuración permite un equilibrio óptimo entre rendimiento y costo para el entorno de pruebas del proyecto.
+      
+      <br><br> <img src="./feature/chapter04/deployback_2.jpeg">
+      
+      ---
+      
+      ### **3. Configuración del método de autenticación**
+      
+      Se estableció la autenticación mediante **MySQL Authentication**, creando el usuario administrador *chamba* junto con su respectiva contraseña para el acceso seguro al servidor.
+      
+      <br><br> <img src="./feature/chapter04/deployback_3.jpeg">
+      
+      ---
+      
+      ### **4. Revisión final e inicio de implementación**
+      
+      Una vez confirmados los parámetros del servidor, se procedió a validar toda la configuración e iniciar el proceso de implementación del servidor MySQL en la nube.
+      
+      <br><br> <img src="./feature/chapter04/deployback_4.jpeg">
+      
+      ---
+      
+      ### **5. Implementación y estado del recurso**
+      
+      Azure mostró el progreso de la implementación, confirmando la creación exitosa del servidor y su disponibilidad dentro del grupo de recursos del proyecto.
+      
+      <br><br> <img src="./feature/chapter04/deployback_5.jpeg">
+      
+      ---
+      
+      ### **6. Base de datos remota operativa**
+      
+      Finalmente, desde el panel de Azure Portal se pudo visualizar la información esencial del servidor, incluyendo:
+      
+      * Endpoint de conexión
+      * Estado: **Ready**
+      * Zona de disponibilidad
+      * Configuración del hardware asignado
+      * Fecha de creación
+      * Opciones de actualización y monitoreo
+      
+      Esto demuestra que la base de datos remota quedó desplegada correctamente y lista para ser consumida por el backend del proyecto.
 
-      <div align="center">
-      <img src="feature/chapter04/Software_Deployment_Evidence_for_Sprint_Review/Landing_Page/LPS03.png" alt="Services">
-      </div>
-
-      #### GAMIFICATION:
-
-      Seccion donde se veran la gamificacion y los diferentes niveles de esta, a su vez la explicacion de como conseguir puntos
-
-      <div align="center">
-      <img src="feature/chapter04/Software_Deployment_Evidence_for_Sprint_Review/Landing_Page/LPS04.png" alt="Gamification">
-      </div>
-
-      #### TESTIMONIALS:
-
-      Seccion donde se veran testimonios de usuarios reales
-
-      <div align="center">
-      <img src="feature/chapter04/Software_Deployment_Evidence_for_Sprint_Review/Landing_Page/LPS05.png" alt="Testimonials">
-      </div>
-
-      #### CONTACT:
-
-      Seccion en la cual el usuario puede contactar con el equipo de AlguienDijoChamba
-
-      <div align="center">
-      <img src="feature/chapter04/Software_Deployment_Evidence_for_Sprint_Review/Landing_Page/LPS06.png" alt="Contacts">
-      </div>
-
-      #### FOOTER:
-
-      Seccion donde se veran enlaces rapidos y redes sociales
-
-      <div align="center">
-      <img src="feature/chapter04/Software_Deployment_Evidence_for_Sprint_Review/Landing_Page/LPS07.png" alt="Footer">
-      </div>
-
-      ### MOBILE APPLICATION:
-      #### Android Version:
-      A continuación, se muestran las evidencias de la ejecución de la aplicación móvil desarrollada en Android Studio.
-
-      <div align="center">
-      <img src="https://i.imgur.com/2kYOCzS.png">
-      </div>
-
-      <div align="center">
-      <img src="https://i.imgur.com/PZzxKOo.png">
-      </div>
-
-      <div align="center">
-      <img src="https://i.imgur.com/irSNAxw.png">
-      </div>
-
-      <div align="center">
-      <img src="https://i.imgur.com/byVncR9.png">
-      </div>
-
-      <div align="center">
-      <img src="https://i.imgur.com/cZ5hQLM.png">
-      </div>
-
-      <div align="center">
-      <img src="https://i.imgur.com/Vgltnuj.png">
-      </div>
-
-      <div align="center">
-      <img src="https://i.imgur.com/AKQgRgd.png">
-      </div>
-
-      <div align="center">
-      <img src="https://i.imgur.com/YqhFr0I.png">
-      </div>
-    
-      #### Flutter Version:
-
-      <div align="center">
-      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/1.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/2.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/3.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/4_notificaciones.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/5_search.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/6_tags.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/7_proces_1.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/7_proces_2.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/7_proces_3.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/7_proces_4.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/7_proces_5.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/7_proces_6.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/8_process_7.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/8_process_8.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/8_process_9.png" alt="Contacts">
-      </div>
+      
 
   - **4.2.2.8. Team Collaboration Insights during Sprint**
           <br>En esta sección se exponen las Reflexiones sobre la Colaboración del Equipo durante el sprint, detallando las dinámicas de trabajo y las lecciones clave identificadas para la mejora continua del proceso.<br><br>
