@@ -9,7 +9,7 @@
           <br><br>
         <div align="center">
         <img src="https://uxpressia.com/blog/wp-content/uploads/2022/08/2.png" width="150">
-        </div><img width="661" height="518" alt="image" src="https://github.com/user-attachments/assets/569483d6-36be-4dba-8eb2-24699f254a19" />
+        <br>
 
 
         - **Miro**<br>
