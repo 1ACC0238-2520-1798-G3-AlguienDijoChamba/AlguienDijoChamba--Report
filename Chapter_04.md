@@ -1200,11 +1200,11 @@
 
       | *Alumno*                            | *Actividad*                                |
       |-------------------------------------|--------------------------------------------|
-      | Bastidas Bastidas, Diego Martin     | Landing Page Deployment, Backend           |
-      | Belahonia Miranda, Fabrisio         | Figma Design, Prototyping, Frontend        |
-      | Dominguez Vargas, Rafael Alexander  | iam(Login,Signup), Figma Design, Frontend  |
-      | Escobar Palomino, Sebastian Matias  | Frontend                                   |
-      | Muñiz Huayanca, Percy Alonso        | Backend                                    |
+      | Bastidas Bastidas, Diego Martin     | Landing Page Deployment, Backend, Frontend Android           |
+      | Belahonia Miranda, Fabrisio         | Frontend Flutter , Backend          |
+      | Dominguez Vargas, Rafael Alexander  |  Frontend Flutter , Backend |
+      | Escobar Palomino, Sebastian Matias  | Frontend Android     , Backend                |
+      | Muñiz Huayanca, Percy Alonso        | Frontend Flutter  , Backend                                   |
 
       ## Report:
 
