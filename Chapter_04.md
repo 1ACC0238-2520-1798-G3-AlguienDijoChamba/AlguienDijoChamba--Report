@@ -534,8 +534,37 @@
        <div align="center">
       <img src="https://i.imgur.com/YqhFr0I.png">
        </div>
+ 
+       <div align="center">
+       <img src="./feature/chapter04/android_calendar.jpeg">
+       </div>
+    
+       <div align="center">
+       <img src="./feature/chapter04/android_payments.jpeg">
+       </div>
+    
+       <div align="center">
+       <img src="./feature/chapter04/android_soli.jpeg">
+       </div>
+    
+       <div align="center">
+       <img src="./feature/chapter04/android_home_saldo.jpeg">
+       </div>
+    
+       <div align="center">
+       <img src="./feature/chapter04/android_home.jpeg">
+       </div>
+    
+       <div align="center">
+       <img src="./feature/chapter04/android_request.jpeg">
+       </div>
+    
+       <div align="center">
+       <img src="./feature/chapter04/android_calendar_1.jpeg">
+       </div>
 
-      Link del video: <a href="https://acortar.link/se3cmV">Video </a>
+
+       Link del video: <a href="https://acortar.link/se3cmV">Video </a>
 
         - **4.2.1.6. Services Documentation Evidence for Sprint Review**
           <br> En este Sprint se logró documentar con OpenAPI los endpoints correspondientes a las funcionalidades implementadas. La documentación incluye detalles técnicos de los servicios consumidos por la aplicación móvil, como los verbos HTTP, parámetros de entrada y respuestas esperadas, permitiendo una mejor comprensión e integración de la app con la API.
