@@ -873,7 +873,53 @@
 
 
     - **4.2.2.4. Testing Suite Evidence for Sprint Review**
+          <br>Durante este segundo Sprint, se presentan los archivos <i>.feature</i> correspondientes a las User Tasks desarrolladas. 
+          Estos archivos fueron actualizados y gestionados dentro del repositorio oficial del equipo, evidenciando el avance funcional
+          logrado durante este incremento.
 
+        <table>
+  <thead>
+    <tr>
+      <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;<br>Commit<br><br>Message&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;<br>Commit<br><br>Message Body&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;<br>Committed on<br>(Date)&nbsp;&nbsp;&nbsp;</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td rowspan="10">
+        <a href="https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features" target="_blank" rel="noopener noreferrer">
+          https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features
+        </a>
+      </td>
+      <td><br>main</td>
+      <td><br>a094e59</td>
+      <td><br>docs: update report and add new .feature files for EPIC 06</td>
+      <td><br>Updated documentation and incorporated new .feature files corresponding to EPIC 06</td>
+      <td><br>14/05/2025</td>
+    </tr>
+
+    <tr>
+      <td><br>main</td>
+      <td><br>9987165</td>
+      <td><br>docs: update feature files from EPIC 01</td>
+      <td><br>Updated and reorganized .feature files associated with EPIC 01</td>
+      <td><br>14/05/2025</td>
+    </tr>
+
+    <tr>
+      <td><br>main</td>
+      <td><br>60164f9</td>
+      <td><br>docs: update feature files from EPIC 03</td>
+      <td><br>Improved and updated .feature files for EPIC 03</td>
+      <td><br>14/05/2025</td>
+    </tr>
+  </tbody>
+        </table>
        
     - **4.2.2.5. Execution Evidence for Sprint Review**
         <br>En esta sección se presenta la Evidencia de Ejecución del sprint, la cual muestra el producto funcional o el incremento de valor desarrollado, listo para la inspección y validación durante la Sprint Review.<br><br>
