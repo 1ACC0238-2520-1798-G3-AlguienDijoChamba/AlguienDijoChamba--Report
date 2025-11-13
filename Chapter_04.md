@@ -1272,3 +1272,6 @@ La integración de herramientas modernas, buenas prácticas de desarrollo y una 
 **Video del aplicativo movil:** [https://acortar.link/se3cmV](https://acortar.link/se3cmV)
 
 **Link del Landing Page:** [https://alguiendijochamba-landingpage.netlify.app/](https://alguiendijochamba-landingpage.netlify.app/)
+
+**Link del Despliegue del Backend:** [https://alguiendijochamba-production.azurewebsites.net/](https://alguiendijochamba-production.azurewebsites.net/)
+
