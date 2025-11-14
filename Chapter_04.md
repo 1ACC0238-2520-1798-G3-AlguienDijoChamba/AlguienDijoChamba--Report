@@ -9,7 +9,8 @@
           <br><br>
         <div align="center">
         <img src="https://uxpressia.com/blog/wp-content/uploads/2022/08/2.png" width="150">
-        </div>
+        <br>
+
 
         - **Miro**<br>
           Herramienta de colaboración visual que facilitó la creación de diagramas, flujos de trabajo y especialmente el desarrollo de sesiones de EventStorming.
@@ -227,22 +228,25 @@
         - **4.2.1.2. Sprint Backlog 1**
           <br> En el primer sprint, el equipo enfocó su trabajo en crear una landing page que fuera tanto funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
 
-      | *id*    | *Title*                             | *Description*                                                                                                                                                                   | *Estimations(Hours)*   | *Assigned To*                        | *Status(To-do/InProcess/ToReview/Done)* |
-              |---------|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|--------------------------------------|-----------------------------------------|
-      | *LPS01* | Navigation                          | Implementación de la barra de navegación con enlaces a "¿Cómo funciona?", "Casos de éxito", "Planes" y "Contactos".                                                             | 4                      | *Bastidas Bastidas, Diego Martin*    | Done                                    |
-      | *LPS01* | Hero Section                        | Implementacion de "Hero Section", donde se buscara llamar la atencion del usuarios sobre nuestra app movil.                                                                     | 2                      | *Bastidas Bastidas, Diego Martin*    | Done                                    |
-      | *LPS02* | About the product                   | Desarrollo de la seccion "About the product", donde se describira brevemente nuestro productos y sus beneficios.                                                                | 2                      | *Bastidas Bastidas, Diego Martin*    | Done                                    |
-      | *LPS03* | Services and Technicals Workers     | Desarrollo de la sección "Services and Technicals Workers", donde se mostrara los servicios que ofrecen nuestros tecnicos calificados.                                          | 3                      | *Bastidas Bastidas, Diego Martin*    | Done                                    |
-      | *LPS04* | Gamification                        | Desarrollo de la sección "Gamification", donde se mostrara los Sistemas de nivel de los Usuarios y la forma en la que se pueda subir de nivel.                                  | 3                      | *Bastidas Bastidas, Diego Martin*    | Done                                    |
-      | *LPS05* | Testimonials                        | Desarrollo de la seccion "Testimonials", donde se mostrara los testimonios de usuarios que usaron nuestra app.                                                                  | 3                      | *Bastidas Bastidas, Diego Martin*    | Done                                    |
-      | *LPS06* | Contact                             | Desarrollo de la sección "Contact", donde se mostrara la forma en que los usuarios puedan contactar con el equipo detras de AlguienDijoChamba.                                  | 2                      | *Bastidas Bastidas, Diego Martin*    | Done                                    |
-      | *LPS07* | Footer                              | Desarrollo de la seccion "Footer", donde se msotrar la forma en que los usuarios puedan redirigirse a cualquier seccion de la pagina y acceder a las redes sociales del equipo. | 2                      | *Bastidas Bastidas, Diego Martin*    | Done                                    |
+          | **ID** | **Title**                      | **Description**                                                                                                                                            | **Estimation (Hours)** | **Assigned To**                 | **Status (To-do / In Process / To Review / Done)** |
+          | ------ | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------- | -------------------------------------------------- |
+          | LPS01  | Navigation                     | Implementación de la barra de navegación con enlaces a las secciones “¿Cómo funciona?”, “Casos de éxito”, “Planes” y “Contactos”.                          | 4                      | Bastidas Bastidas, Diego Martín | Done                                               |
+          | LPS02  | Hero Section                   | Implementación de la sección “Hero Section”, diseñada para captar la atención de los usuarios y presentar brevemente la aplicación móvil.                  | 2                      | Bastidas Bastidas, Diego Martín | Done                                               |
+          | LPS03  | About the Product              | Desarrollo de la sección “About the Product”, donde se describen brevemente el producto y sus principales beneficios.                                      | 2                      | Bastidas Bastidas, Diego Martín | Done                                               |
+          | LPS04  | Services and Technical Workers | Desarrollo de la sección “Services and Technical Workers”, donde se muestran los servicios ofrecidos por los técnicos calificados.                         | 3                      | Bastidas Bastidas, Diego Martín | Done                                               |
+          | LPS05  | Gamification                   | Desarrollo de la sección “Gamification”, en la que se explica el sistema de niveles de los usuarios y las formas de progresar dentro de la aplicación.     | 3                      | Bastidas Bastidas, Diego Martín | Done                                               |
+          | LPS06  | Testimonials                   | Desarrollo de la sección “Testimonials”, donde se presentan los comentarios y experiencias de usuarios que han utilizado la aplicación.                    | 3                      | Bastidas Bastidas, Diego Martín | Done                                               |
+          | LPS07  | Contact                        | Desarrollo de la sección “Contact”, donde se detalla la forma en que los usuarios pueden comunicarse con el equipo detrás de *AlguienDijoChamba*.          | 2                      | Bastidas Bastidas, Diego Martín | Done                                               |
+          | LPS08  | Footer                         | Desarrollo de la sección “Footer”, que incluye enlaces de navegación, redes sociales del equipo y accesos rápidos a las distintas secciones del sitio web. | 2                      | Bastidas Bastidas, Diego Martín | Done                                               |
 
-        - *4.2.1.3. Development Evidence for Sprint Review*<br><br>
-          <br>Esta sección se presenta la Evidencia de Desarrollo completada durante el sprint, demostrando el trabajo funcional realizado y los incrementos del producto listos para ser inspeccionados y validados en la Sprint Review.<br><br>
+
+
+
+        - **4.2.1.3. Development Evidence for Sprint Review**
+          <br>Esta sección se presenta la Evidencia de Desarrollo completada durante el sprint, demostrando el trabajo funcional realizado y los incrementos del producto listos para ser inspeccionados y validados en la Sprint Review.
 
           | *Repository*                                                             | *Branch*      | *Commit Id*                               | *Commit Message*                                                                                                                         | *Committed By*    | *Committed On* |
-                  |--------------------------------------------------------------------------|---------------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------|----------------|
+          |--------------------------------------------------------------------------|---------------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------|----------------|
           | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-1     | e24070bfb6eee873f1f838c2e65c913c7ab8028b  | Initial commit                                                                                                                           | ghostnotfound404  | Sep 08, 2025   |
           | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-1     | e4daaa743de9a29709041949cb8dc0188e81163e  | Feat: update readme                                                                                                                      | ghostnotfound404  | Sep 08, 2025   |
           | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Report         | chapter-1     | bda5d55e80d7ed66115d24f6c54cb0be793af8f8  | feat: update point of the report                                                                                                         | ghostnotfound404  | Sep 08, 2025   |
@@ -531,8 +535,37 @@
        <div align="center">
       <img src="https://i.imgur.com/YqhFr0I.png">
        </div>
+ 
+       <div align="center">
+       <img src="./feature/chapter04/android_calendar.jpeg">
+       </div>
+    
+       <div align="center">
+       <img src="./feature/chapter04/android_payments.jpeg">
+       </div>
+    
+       <div align="center">
+       <img src="./feature/chapter04/android_soli.jpeg">
+       </div>
+    
+       <div align="center">
+       <img src="./feature/chapter04/android_home_saldo.jpeg">
+       </div>
+    
+       <div align="center">
+       <img src="./feature/chapter04/android_home.jpeg">
+       </div>
+    
+       <div align="center">
+       <img src="./feature/chapter04/android_request.jpeg">
+       </div>
+    
+       <div align="center">
+       <img src="./feature/chapter04/android_calendar_1.jpeg">
+       </div>
 
-      Link del video: <a href="https://acortar.link/se3cmV">Video </a>
+
+       Link del video: <a href="https://acortar.link/se3cmV">Video </a>
 
         - **4.2.1.6. Services Documentation Evidence for Sprint Review**
           <br> En este Sprint se logró documentar con OpenAPI los endpoints correspondientes a las funcionalidades implementadas. La documentación incluye detalles técnicos de los servicios consumidos por la aplicación móvil, como los verbos HTTP, parámetros de entrada y respuestas esperadas, permitiendo una mejor comprensión e integración de la app con la API.
@@ -666,10 +699,10 @@
         </div>
 
     - **4.2.1.8. Team Collaboration Insights during Sprint**
-      <br>En esta sección se exponen las Reflexiones sobre la Colaboración del Equipo durante el sprint, detallando las dinámicas de trabajo y las lecciones clave identificadas para la mejora continua del proceso.<br><br>
+          <br>En esta sección se exponen las Reflexiones sobre la Colaboración del Equipo durante el sprint, detallando las dinámicas de trabajo y las lecciones clave identificadas para la mejora continua del proceso.<br><br>
 
       | *Alumno*                            | *Actividad*                                |
-            |-------------------------------------|--------------------------------------------|
+      |-------------------------------------|--------------------------------------------|
       | Bastidas Bastidas, Diego Martin     | Landing Page Deployment, Backend           |
       | Belahonia Miranda, Fabrisio         | Figma Design, Prototyping, Frontend        |
       | Dominguez Vargas, Rafael Alexander  | iam(Login,Signup), Figma Design, Frontend  |
@@ -718,6 +751,480 @@
           <img src="https://i.imgur.com/BgP5Wvp.png">
           </div>
 
+
+
+    - **4.2.2. Sprint 2**<br>
+      La siguiente sección detalla los resultados del Sprint #2, correspondiente a la entrega inicial del proyecto. Se presentan los avances organizativos, la distribución de trabajo y los productos desarrollados: la landing page operativa, el progreso del Web Service y la versión preliminar de la Mobile Application.
+    - **4.2.2.1. Sprint Planning 2**<br>
+    <br>A continuación, se detalla la Planificación del Sprint 2, donde se definieron los objetivos iniciales, se seleccionaron las tareas prioritarias del backlog y se asignaron las responsabilidades del equipo para el primer ciclo de desarrollo.<br><br>
+      
+    <table>
+            <tr>
+              <th> Sprint # </th>
+              <th> Sprint 2 </th>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Date </td>
+              <td> 25/10/2025 </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Time </td>
+              <td> 00:50 horas (GMT-5) </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Location </td>
+              <td> Virtual (Google Meet) </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Prepared By </td>
+              <td> Bastidas Bastidas, Diego Martin </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+              <td>
+                Bastidas Bastidas, Diego Martin<br>
+                Belahonia Miranda, Fabrisio<br>
+                Dominguez Vargas, Rafael Alexander<br>
+                Escobar Palomino, Sebastian Matias<br>
+                Muñiz Huayanca, Percy Alonso	
+              </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+              <td>Desarrollo completo de Backend y Aplicativo en Android </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+              <td> Logramos alcanzar el objetivo de publicar la primera versión de nuestra aplicación móvil y plataforma web. </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Sprint 2 Goal </td>
+              <td>Se desarrolló y desplegó exitosamente un servicio web y una aplicación móvil que muestran de forma clara y atractiva los principales beneficios y características del producto, optimizados para dispositivos móviles y diseñados para captar leads mediante un formulario de contacto. Además, se completó el desarrollo e implementación de la primera versión funcional del backend, garantizando la integración entre ambos sistemas.</td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td style="font-weight: bold;"> Sum of Story Points </td>
+              <td>  25</td>
+            </tr>
+    </table>
+- **4.2.2.2. Sprint Backlog 2** <br>
+
+    En el segundo sprint, el equipo enfocó su trabajo en crear una landing page que fuera tanto funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
+
+  
+    |**ID**  | Title               | **Description**                                                                                               | **Estimation (Hours)** | **Assigned To**             | **Status (To-do / In Process / To Review / Done)** |
+    |--------|----------------------|-----------------------------------------------------------------------------------------------------------|----------------------|----------------------------------------------|--------|
+    | US16   | Rewards Module       | Implementación del sistema de recompensas, niveles y logros del usuario.                                  | 5                    | Belahonia Miranda, Fabrisio                  | Done   |
+    | US16   | Plans & Benefits     | Desarrollo de la sección de beneficios y planes según nivel (Bronce, Plata, Oro).                          | 4                   | Belahonia Miranda, Fabrisio                  | Done   |
+    | US17   | Process Flow         | Implementación del flujo completo de solicitudes entre clientes y técnicos.                               | 6                    | Muñiz Huayanca, Percy Alonso                 | Done   |
+    | US01   | Auth Module          | Login, registro y recuperación de cuenta con validaciones.                                                | 5                    | Dominguez Vargas, Rafael Alexander           | Done   |
+    | US04   | Home Screen          | Implementación de la pantalla principal con accesos a funciones clave.                                    | 4                    | Dominguez Vargas, Rafael Alexander          | Done   |
+    | US07   | Search Module        | Búsqueda de técnicos por especialidad, ubicación y reputación.                                            | 5                    | Dominguez Vargas, Rafael Alexander          | Done   |
+    | US10   | Calendar             | Gestión de citas, disponibilidad y agenda del técnico.                                                    | 4                    | Bastidas Bastidas, Diego Martín             | Done   |
+    | US14   | Payments             | Implementación de pagos internos seguros, con manejo de errores.                                          | 6                    | Escobar Palomino, Sebastian Matías          | Done   |
+    | US04   | Profile              | Edición y visualización del perfil del usuario/técnico.                                                   | 3                    | Bastidas Bastidas, Diego Martín             | Done   |
+    | US01   | Register             | Registro de clientes y técnicos desde la aplicación Android.                                              | 3                    | Escobar Palomino, Sebastian Matías          | Done   |
+    | US03   | Login (Android)      | Inicio de sesión del usuario y profesional con validaciones.                                              | 3                    | Bastidas Bastidas, Diego Martín             | Done   |
+    | US04   | Home Android         | Implementación del dashboard principal en Android.                                                        | 4                    | Escobar Palomino, Sebastian Matías          | Done   |
+    | US11   | Solicitudes          | Creación, gestión y actualización de solicitudes.                                                         | 5                    | Bastidas Bastidas, Diego Martín             | Done   |
+    | US15   | Saldo                | Visualización del saldo disponible para técnicos.                                                         | 3                    | Escobar Palomino, Sebastian Matías          | Done   |
+    | US19   | Ganancias            | Historial de ingresos y pagos completados.                                                                | 3                    | Bastidas Bastidas, Diego Martín             | Done   |
+    | US18   | Notificaciones       | Sistema de notificaciones en tiempo real para cambios de estado.                                          | 4                    | Escobar Palomino, Sebastian Matías          | Done   |
+    | US06   | Chat                 | Implementación del chat en tiempo real entre cliente y técnico.                                           | 6                    | Belahonia Miranda, Fabrisio             | In Process   |
+    | LPS01  | Navigation           | Implementación de la barra de navegación con enlaces a secciones principales.                             | 4                    | Bastidas Bastidas, Diego Martín             | Done   |
+    | LPS02  | Hero Section         | Sección principal con mensaje clave y llamada a la acción.                                                 | 2                    | Bastidas Bastidas, Diego Martín             | Done   |
+    | LPS03  | About the Product    | Descripción del producto, beneficios y propuesta de valor.                                                 | 2                    | Bastidas Bastidas, Diego Martín             | Done   |
+    | LPS04  | Services Section     | Presentación de categorías de servicios del aplicativo.                                                   | 3                    | Bastidas Bastidas, Diego Martín             | Done   |
+    | LPS06  | User Levels          | Visualización de niveles de usuario (Bronce, Plata, Oro).                                                | 2                    | Bastidas Bastidas, Diego Martín             | Done   |
+    | LPS07  | Testimonials         | Integración de testimonios reales de clientes para generar confianza.                                     | 3                    | Bastidas Bastidas, Diego Martín             | Done   |
+    | LPS08  | Contact Section      | Información de contacto corporativo (correo, teléfono, dirección).                                        | 2                    | Bastidas Bastidas, Diego Martín             | Done   |
+    | LPS09  | Contact Form         | Formulario funcional con validaciones para contacto directo.                                              | 3                    | Bastidas Bastidas, Diego Martín             | Done   |
+    | LPS10  | Footer               | Pie de página con enlaces, redes sociales y derechos de autor.                                            | 1                    | Bastidas Bastidas, Diego Martín             | Done   |
+    | LPS12  | Smooth Navigation    | Implementación de scroll animado hacia cada sección de la Landing Page.                                   | 2                    | Bastidas Bastidas, Diego Martín             | Done   |
+
+
+
+
+    - **4.2.2.3. Development Evidence for Sprint Review**
+        <br>Esta sección se presenta la Evidencia de Desarrollo completada durante el sprint, demostrando el trabajo funcional realizado y los incrementos del producto listos para ser inspeccionados y validados en la Sprint Review.
+
+        | *Repository*                                                             | *Branch*      | *Commit Id*                               | *Commit Message*                                                                                                                         | *Committed By*    | *Committed On* |
+        |--------------------------------------------------------------------------|---------------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------|----------------|
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Report       | feat/chapter-4  | 557e0e6c4218dd8c3a419035aa62c3bb9bfd2cdf                    | Docs: Add Sprint Backlog 2                            | devfab17       | Nov 12, 2025           |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Report       | feat/chapter-4  | 7f46006d4f228da1a188e67388e1b78abb592ec5                    | docs: edit tomorrow                                   | devfab17       | Nov 11, 2025           |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Report       | feat/chapter-4  | d48865e2a0fa723ae5e94b9172a1a1ece0367810                    | docs: add Sprint Planning 2                           | devfab17       | Nov 11, 2025           |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Report       | feat/chapter-4  | a607d6529cf7e58ec03b280dc8ac512c424cb4f3                    | docs: add strucure sprint2                            | devfab17       | Nov 11, 2025           |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Report       | feat/chapter-4  | d271cac68d237968cdbc1aef2771ee15fe8df63e                    | Docs: add strucutre                                   | devfab17       | Nov 11, 2025           |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Report       | feat/chapter-4  | e68180e1ace2e68abba98c26bc2dc4621988643d                    | Docs: fix structure and grammar in Sprint Backlog 1    | devfab17       | Nov 11, 2025           |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2      | feature/search  | b201f292d112d1b37b2570a7404c582b93044915                         | feat: fix tags search                                 | Radv2005       | Nov 06, 2025           |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2      | feature/search  | 546b32c2222ee0fcb554c533dfa0fbdc56d341f3                         | feat: error fix                                        | Radv2005       | Nov 06, 2025           |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2      | feature/search  | 767237ee95e1628c3fb6ac0cea23f4a725b0a8d1                         | feat: add tags components                              | Radv2005       | Nov 06, 2025           |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2      | feature/search  | 5729528eaba35e74ae8a63385853fa34a1b8ec8a                         | feat: implement first design Search Section            | Radv2005       | Nov 05, 2025           |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2      | feature/search  | c1ea31df69e191afa53e0e202595cbd5f3137818                         | feat: add navbar main                                  | Radv2005       | Nov 02, 2025           |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2      | feature/search  | 0d0102bdb526570ce67a1be44a48f63e8797e9c9                         | feat: remove DNI and add new connections               | Radv2005       | Nov 01, 2025           |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2      | feature/search  | e4e4949127371f6b1eac72eddb84c5f9a4f0802b                         | feat: readme plus                                      | Radv2005       | Nov 01, 2025           |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2      | feature/search  | d2c0a6d8c11e52eebf98e03e8e97c851015351f7                         | feat: Initial commit                                   | Radv2005       | Nov 01, 2025           |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2 | feature/reward | 2a3626467651708d6309e9d2f1a75b4cb33bb8cb                | feat(reward): added RewardPage UI and navigation route integration | devfab17       | Nov 8, 2025    |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2 | feature/reward | ab6a1a356b7e26f990609ef17705f46842655d9c                | feat: route process 1                                              | Radv2005       | Nov 7, 2025    |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2 | feature/reward | a8c655bacaf505d418f9a470c5bc43587d7b1a6d                | feat: new page home                                                | Radv2005       | Nov 6, 2025    |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2 | feature/process | e9fd5a362e796d06d5a2f7d97d44c803dd4a8388           | Merge branch 'prueba' into feature/process                                   | ghostnotfound404 | Nov 09, 2025    |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2 | feature/process | 90f818cfc04c393a1fdbf4807582386551d384bb        | feat: add notifications and connection for backend                           | Radv2005         | Nov 08–09, 2025 |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2 | feature/process | 6574d81facf9457f1b543bac51c26871b7ad9df6      | finish review screens and functions, added endpoints for reputations updates | alomsoo          | Nov 07, 2025    |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2 | feature/process | c4ad46f0fca2af75f800409d7c30465ce9ecc346          | added two final screens and their functions                                  | alomsoo          | Nov 07, 2025    |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2 | feature/process | 20e3cf8fd7f8512417578e4909e693af5875fdb7          | added 4 process screens                                                      | alomsoo          | Nov 07, 2025    |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2 | feature/process | c6a6205d4f2c6b4c5e859e5e695bcc87f1791bd6      | address process carpets#                                                     | alomsoo          | Nov 06–07, 2025 |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2 | feature/process |ab6a1a356b7e26f990609ef17705f46842655d9c      | feat: route process 1                                                        | Radv2005         | Nov 07, 2025    |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2 | feature/planandbene |898e6f096e2f6add628412ada5aa21502ec31129      | feat: add Plans & Benefits feature first version                           | devfab17         | Nov 07, 2025    |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2 | feature/notification |90f818cfc04c393a1fdbf4807582386551d384bb      | feat: add notifications and connection for backend                          | devfab17         | Nov 07, 2025    |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front | develop | 7fcf8d8a902e08d6d89999c8a35777db094671a2 | fix: update gitignore and remove IDE files from tracking | ghostnotfound404 | Oct 31, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front | develop| 1f997ea408e580e9f495147ae5378c0aed348f0c    | fix: add new files (#2)                                  | ghostnotfound404 | Oct 21, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front | develop | 7a9c995d62f7f8590ae5e82e6f4cf818871055cd | fix: add new code technical                              | ghostnotfound404 | Oct 16, 2025   |
+        | AlguienDijoChamba--Front | Sebastián | a0a7d14a30664b9aa72019f015e9ffc40d2979d9    | feat: add earnings                                                        | sebasepe         | Nov 06, 2025   |
+        | AlguienDijoChamba--Front | Sebastián | c8443f0327f8a5f667a8c2c0829e681c0bf5ebd5     | feat: add requests                                                        | sebasepe         | Nov 06, 2025   |
+        | AlguienDijoChamba--Front | Diego  | 13796c30493bb8385f44f360b61a575041ed718f  | feat update                                                               | ghostnotfound404 | Nov 04, 2025   |
+        | AlguienDijoChamba--Front | Diego  | efca5648e22edc1f67e8e45e9d272080852c345b | feat(profile): Implement full file upload and registration flow with Koin | ghostnotfound404 | Nov 04, 2025   |
+        | AlguienDijoChamba--Front | Diego  | 6fd5fd0cc876a5406a4aeecd83c1a8fce8dc2d51 | fix: fix update code correction errors                                    | ghostnotfound404 | Nov 04, 2025   |
+        | AlguienDijoChamba--Front | Diego  | 312cd566694d121deb2f3b18bfa233dfa85161f0 | fix: refactor code and Koin                                               | ghostnotfound404 | Nov 04, 2025   |
+        | AlguienDijoChamba--Front | Diego  | b25de569e1b16631152a199d3c3b9d6cd7e659d0 | fix: update errors of the front                                           | ghostnotfound404 | Nov 03, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend | develop |9fe9e0a742c771685eabf2b60af948c470cc1ef7 | Merge pull request #2 from 1ACC0238-2520-1798-G3-AlguienDijoChamba/Diego | ghostnotfound404 | Nov 04, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend | develop | 48550218e6b766f3915b1d2cf0dec8dc33bffd60 | fix: update Professionals and IAM                                        | ghostnotfound404 | Nov 04, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend |develop| bc679cb7d592478e13f08f6a797cff2bf0c70b7d | feat(storage): add file upload support and complete CQRS commands        | ghostnotfound404 | Nov 04, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend | develop| 38ec6900e3959488d9db5fe7328314345e2e3709 | fix: fix update code correction errors                                   | ghostnotfound404 | Nov 04, 2025   |
+        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend | develop | f842f09029d7349159458341094c5d20926cf46e | feat: update backend                                                     | ghostnotfound404 | Nov 03, 2025   |
+
+
+    - **4.2.2.4. Testing Suite Evidence for Sprint Review**
+          <br>Durante este segundo Sprint, se presentan los archivos <i>.feature</i> correspondientes a las User Tasks desarrolladas. 
+          Estos archivos fueron actualizados y gestionados dentro del repositorio oficial del equipo, evidenciando el avance funcional
+          logrado durante este incremento.
+
+        <table>
+  <thead>
+    <tr>
+      <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;<br>Commit<br><br>Message&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;<br>Commit<br><br>Message Body&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;<br>Committed on<br>(Date)&nbsp;&nbsp;&nbsp;</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td rowspan="10">
+        <a href="https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features" target="_blank" rel="noopener noreferrer">
+          https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features
+        </a>
+      </td>
+      <td><br>main</td>
+      <td><br>a094e59</td>
+      <td><br>docs: update report and add new .feature files for EPIC 06</td>
+      <td><br>Updated documentation and incorporated new .feature files corresponding to EPIC 06</td>
+      <td><br>14/05/2025</td>
+    </tr>
+
+    <tr>
+      <td><br>main</td>
+      <td><br>9987165</td>
+      <td><br>docs: update feature files from EPIC 01</td>
+      <td><br>Updated and reorganized .feature files associated with EPIC 01</td>
+      <td><br>14/05/2025</td>
+    </tr>
+
+    <tr>
+      <td><br>main</td>
+      <td><br>60164f9</td>
+      <td><br>docs: update feature files from EPIC 03</td>
+      <td><br>Improved and updated .feature files for EPIC 03</td>
+      <td><br>14/05/2025</td>
+    </tr>
+  </tbody>
+        </table>
+       
+    - **4.2.2.5. Execution Evidence for Sprint Review**
+        <br>En esta sección se presenta la Evidencia de Ejecución del sprint, la cual muestra el producto funcional o el incremento de valor desarrollado, listo para la inspección y validación durante la Sprint Review.<br><br>
+
+      ### LANDING PAGE:
+
+      A continuación, se muestran las evidencias de la ejecución de la landing page hecha en HTML, CSS y JS usando la biblioteca Bootstrap.
+
+      #### LPS 01:
+
+      Ver Hero Section
+
+      <div align="center">
+      <img src="feature/chapter04/Execution_Evidence_for_Sprint_Review/Landing_Page/LPS01.png" alt="Hero Section">
+      </div>
+
+      #### LPS 02:
+
+      Ver sección sobre el producto
+
+      <div align="center">
+      <img src="feature/chapter04/Execution_Evidence_for_Sprint_Review/Landing_Page/LPS02.png" alt="About us">
+      </div>
+
+      #### LPS 03:
+
+      Ver sección de servicios y características
+
+      <div align="center">
+      <img src="feature/chapter04/Execution_Evidence_for_Sprint_Review/Landing_Page/LPS03.png" alt="Services">
+      </div>
+
+      #### LPS 04:
+
+      Consultar gamificacion y beneficios
+
+      <div align="center">
+      <img src="feature/chapter04/Execution_Evidence_for_Sprint_Review/Landing_Page/LPS04.png" alt="Gamification">
+      </div>
+
+      #### LPS 05:
+
+      Ver testimonios de usuarios
+
+      <div align="center">
+      <img src="feature/chapter04/Execution_Evidence_for_Sprint_Review/Landing_Page/LPS05.png" alt="Testimonials">
+      </div>
+
+      #### LPS 06:
+
+      Acceder a sección de contacto
+
+      <div align="center">
+      <img src="feature/chapter04/Execution_Evidence_for_Sprint_Review/Landing_Page/LPS06.png" alt="Contacts">
+      </div>
+
+      #### LPS 07:
+
+      Ver sección Footer con enlaces útiles
+
+      <div align="center">
+      <img src="feature/chapter04/Execution_Evidence_for_Sprint_Review/Landing_Page/LPS07.png" alt="Footer">
+      </div>
+
+      ### MOBILE APPLICATION:
+
+      #### ANDROID VERSION:
+      <div align="center">
+      <img src="https://i.imgur.com/2kYOCzS.png">
+       </div>
+
+      <div align="center">
+       <img src="https://i.imgur.com/PZzxKOo.png">
+      </div>
+
+      <div align="center">
+      <img src="https://i.imgur.com/irSNAxw.png">
+       </div>
+
+      <div align="center">
+      <img src="https://i.imgur.com/byVncR9.png">
+      </div>
+
+      <div align="center">
+       <img src="https://i.imgur.com/cZ5hQLM.png">
+      </div>
+
+      <div align="center">
+       <img src="https://i.imgur.com/Vgltnuj.png">
+       </div>
+
+      <div align="center">
+      <img src="https://i.imgur.com/AKQgRgd.png">
+      </div>
+
+       <div align="center">
+      <img src="https://i.imgur.com/YqhFr0I.png">
+       </div>
+
+      Link del video: <a href="https://acortar.link/se3cmV">Video </a>
+
+      #### Flutter Version:
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/1.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/2.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/3.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/4_notificaciones.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/5_search.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/7_proces_1.png" alt="Contacts">
+      </div>
+
+  - **4.2.2.6. Services Documentation Evidence for Sprint Review**
+          <br> En este Sprint se logró documentar con OpenAPI los endpoints correspondientes a las funcionalidades implementadas. La documentación incluye detalles técnicos de los servicios consumidos por la aplicación móvil, como los verbos HTTP, parámetros de entrada y respuestas esperadas, permitiendo una mejor comprensión e integración de la app con la API.
+
+   *Endpoint*                             | *Acción*                      | *Verbo HTTP* | *Sintaxis de llamada*                  | *Parámetros o Peticiones*                                                                                                                                                                                                   | *Ejemplo de Response*                    | *URL de Documentación*                                                                                                                 |
+  | -------------------------------------- | ----------------------------- | ------------ | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+  | /api/v1/customer/register              | Registrar Cliente             | POST         | /api/v1/customer/register              | {"email":"string","password":"string","nombres":"string","apellidos":"string","celular":"string"}                                                                                                                           | {"email":"string","nombres":"string"}    | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
+  | /api/v1/customer/login                 | Autenticar Cliente            | POST         | /api/v1/customer/login                 | {"email":"string","password":"string"}                                                                                                                                                                                      | {"token":"string"}                       | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |  
+  | /api/v1/iam/register                   | Registrar Profesional         | POST         | /api/v1/iam/register                   | {"email":"string","password":"string","dni":"string","nombres":"string","apellidos":"string","celular":"string"}                                                                                                            | {"email":"string","dni":"string"}        | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
+  | /api/v1/iam/login                      | Login Profesional             | POST         | /api/v1/iam/login                      | {"email":"string","password":"string"}                                                                                                                                                                                      | {"token":"string"}                       | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
+  | /api/v1/jobs/request                   | Crear solicitud de trabajo    | POST         | /api/v1/jobs/request                   | {"professionalId":"uuid","customerId":"uuid","specialty":"string","description":"string","address":"string","scheduledDate":"date","scheduledHour":"string","paymentMethod":"string","categories":["string"],"totalCost":0} | {"jobId":"uuid","status":"PENDING"}      | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
+  | /api/v1/jobs/available                 | Listar trabajos disponibles   | GET          | /api/v1/jobs/available                 | Ninguno                                                                                                                                                                                                                     | [{...}]                                  | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
+  | /api/v1/jobs/{jobId}                   | Obtener detalle de trabajo    | GET          | /api/v1/jobs/{jobId}                   | Path: jobId                                                                                                                                                                                                                 | {"id":"uuid","status":"string"}          | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
+  | /api/v1/jobs/{jobId}/status            | Actualizar estado de trabajo  | PATCH        | /api/v1/jobs/{jobId}/status            | {"status":"string"}                                                                                                                                                                                                         | {"status":"UPDATED"}                     | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
+  | /api/v1/notifications                  | Crear notificación            | POST         | /api/v1/notifications                  | {"customerId":"uuid","professionalId":"uuid","title":"string","message":"string","type":0,"initialStatus":0}                                                                                                                | {"id":"uuid","message":"string"}         | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
+  | /api/v1/notifications/{id}             | Obtener notificación por ID   | GET          | /api/v1/notifications/{id}             | Path: id                                                                                                                                                                                                                    | {"id":"uuid","title":"string"}           | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
+  | /api/v1/professionals/complete-profile | Completar perfil profesional  | POST         | /api/v1/professionals/complete-profile | {"yearsOfExperience":0,"hourlyRate":0,"professionalBio":"string","profilePhotoUrl":"string","certificationUrls":["string"]}                                                                                                 | {"profileCompleted":true}                | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
+  | /api/v1/reputation/job/review          | Registrar reseña y reputación | POST         | /api/v1/reputation/job/review          | {"jobId":"uuid","rating":0,"review":"string"}                                                                                                                                                                                 | {"professionalId":"uuid","starRating":0} | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
+
+
+  - **4.2.2.7. Software Deployment Evidence for Sprint Review**
+      <br>En esta sección se presenta la Evidencia de Despliegue del Software, verificando que el incremento desarrollado durante el sprint ha sido implementado y se encuentra accesible en el entorno de destino para su revisión final.<br><br>
+          
+      Durante este Sprint se realizó el despliegue de la base de datos remota utilizando **Azure Database for MySQL – Flexible Server**, como parte de la infraestructura necesaria para soportar el Web Service y las operaciones de la aplicación móvil **AlguienDijoChamba**.
+      A continuación se detalla la evidencia del proceso realizado en Azure Portal:
+
+      ---
+
+      ### **1. Selección del tipo de servidor y suscripción**
+      
+      Se inició la configuración seleccionando la opción *Servidor Flexible* dentro de Azure Database for MySQL, asignando la suscripción **Azure for Students** y creando un grupo de recursos exclusivo para la base de datos del proyecto.
+
+      <br><br> <img src="./feature/chapter04/deployback_1.jpeg">
+      
+      ---
+      
+      ### **2. Configuración del servidor MySQL**
+      
+      En esta etapa se definieron parámetros clave para el servidor:
+      
+      * Nombre del servidor: **chamba-db-production**
+      * Región: **Australia Central 2**
+      * Versión: **MySQL 8.0**
+      * Tipo de carga: **Desarrollo/Pruebas**
+      * 1 vCore, 2 GB RAM y 20 GB de almacenamiento
+      
+      Esta configuración permite un equilibrio óptimo entre rendimiento y costo para el entorno de pruebas del proyecto.
+      
+      <br><br> <img src="./feature/chapter04/deployback_2.jpeg">
+      
+      ---
+      
+      ### **3. Configuración del método de autenticación**
+      
+      Se estableció la autenticación mediante **MySQL Authentication**, creando el usuario administrador *chamba* junto con su respectiva contraseña para el acceso seguro al servidor.
+      
+      <br><br> <img src="./feature/chapter04/deployback_3.jpeg">
+      
+      ---
+      
+      ### **4. Revisión final e inicio de implementación**
+      
+      Una vez confirmados los parámetros del servidor, se procedió a validar toda la configuración e iniciar el proceso de implementación del servidor MySQL en la nube.
+      
+      <br><br> <img src="./feature/chapter04/deployback_4.jpeg">
+      
+      ---
+      
+      ### **5. Implementación y estado del recurso**
+      
+      Azure mostró el progreso de la implementación, confirmando la creación exitosa del servidor y su disponibilidad dentro del grupo de recursos del proyecto.
+      
+      <br><br> <img src="./feature/chapter04/deployback_5.jpeg">
+      
+      ---
+      
+      ### **6. Base de datos remota operativa**
+      
+      Finalmente, desde el panel de Azure Portal se pudo visualizar la información esencial del servidor, incluyendo:
+      
+      * Endpoint de conexión
+      * Estado: **Ready**
+      * Zona de disponibilidad
+      * Configuración del hardware asignado
+      * Fecha de creación
+      * Opciones de actualización y monitoreo
+      
+      Esto demuestra que la base de datos remota quedó desplegada correctamente y lista para ser consumida por el backend del proyecto.
+
+      
+
+  - **4.2.2.8. Team Collaboration Insights during Sprint**
+          <br>En esta sección se exponen las Reflexiones sobre la Colaboración del Equipo durante el sprint, detallando las dinámicas de trabajo y las lecciones clave identificadas para la mejora continua del proceso.<br><br>
+
+      | *Alumno*                            | *Actividad*                                |
+      |-------------------------------------|--------------------------------------------|
+      | Bastidas Bastidas, Diego Martin     | Landing Page Deployment, Backend, Frontend Android           |
+      | Belahonia Miranda, Fabrisio         | Frontend Flutter , Backend          |
+      | Dominguez Vargas, Rafael Alexander  |  Frontend Flutter , Backend |
+      | Escobar Palomino, Sebastian Matias  | Frontend Android     , Backend                |
+      | Muñiz Huayanca, Percy Alonso        | Frontend Flutter  , Backend                                   |
+
+      ## Report:
+
+      <div align="center">
+          <img src="https://i.imgur.com/JnLEci8.png">
+          </div>
+
+      <div align="center">
+          <img src="https://i.imgur.com/cabd8vi.png">
+          </div>
+
+      <div align="center">
+          <img src="https://i.imgur.com/oYhcXFF.png">
+          </div>
+
+      ## Landing Page:
+
+      <div align="center">
+          <img src="https://i.imgur.com/3Wf3qsl.png">
+          </div>
+
+      <div align="center">
+          <img src="https://i.imgur.com/tXwNX4x.png">
+          </div>
+
+      <div align="center">
+          <img src="https://i.imgur.com/sVE6dqN.png">
+          </div>
+
+      ## Mobile Application:
+
+      <div align="center">
+          <img src="https://i.imgur.com/ePu6gMc.png">
+          </div>
+
+      <div align="center">
+          <img src="https://i.imgur.com/bHigClA.png">
+          </div>
+
+      <div align="center">
+          <img src="https://i.imgur.com/BgP5Wvp.png">
+          </div>
+
+
+
+
+          
+
 ## **Conclusiones**
 En este primer entregable, el equipo de Thedraws ha logrado cumplir con los objetivos planteados, elaborando un informe detallado que refleja los avances del proyecto. Gracias a un enfoque cuidadoso y bien organizado, se ha conseguido comunicar de manera efectiva los beneficios de la app “Alguien dijo Chamba” a los usuarios, estableciendo una base sólida para las etapas futuras del proyecto. Este primer paso garantiza que la estructura y visión de Thedraws se transmitan con claridad, facilitando la transición hacia fases más complejas del desarrollo.
 
@@ -765,3 +1272,6 @@ La integración de herramientas modernas, buenas prácticas de desarrollo y una 
 **Video del aplicativo movil:** [https://acortar.link/se3cmV](https://acortar.link/se3cmV)
 
 **Link del Landing Page:** [https://alguiendijochamba-landingpage.netlify.app/](https://alguiendijochamba-landingpage.netlify.app/)
+
+**Link del Despliegue del Backend:** [https://alguiendijochamba-production.azurewebsites.net/](https://alguiendijochamba-production.azurewebsites.net/)
+
