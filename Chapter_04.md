@@ -67,7 +67,9 @@
    ---   
   **Repositorio de Landing Page:** [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba---Landing_Page](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba---Landing_Page)
 
-  **Repositorio de Aplicación Móvil:** [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba---Fronted](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba---Fronted)
+  **Repositorio de Aplicación Móvil Android Nativo:** [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba---Fronted](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba---Fronted)
+
+  **Repositorio de Aplicación Móvil Flutter:** [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2)
 
   **Repositorio de Backend:** [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba---Backend](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba---Backend)
 
@@ -907,49 +909,11 @@
           Estos archivos fueron actualizados y gestionados dentro del repositorio oficial del equipo, evidenciando el avance funcional
           logrado durante este incremento.
 
-        <table>
-  <thead>
-    <tr>
-      <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
-      <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
-      <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
-      <th>&nbsp;&nbsp;&nbsp;<br>Commit<br><br>Message&nbsp;&nbsp;&nbsp;</th>
-      <th>&nbsp;&nbsp;&nbsp;<br>Commit<br><br>Message Body&nbsp;&nbsp;&nbsp;</th>
-      <th>&nbsp;&nbsp;&nbsp;<br>Committed on<br>(Date)&nbsp;&nbsp;&nbsp;</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td rowspan="10">
-        <a href="https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features" target="_blank" rel="noopener noreferrer">
-          https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features
-        </a>
-      </td>
-      <td><br>main</td>
-      <td><br>a094e59</td>
-      <td><br>docs: update report and add new .feature files for EPIC 06</td>
-      <td><br>Updated documentation and incorporated new .feature files corresponding to EPIC 06</td>
-      <td><br>14/05/2025</td>
-    </tr>
-
-    <tr>
-      <td><br>main</td>
-      <td><br>9987165</td>
-      <td><br>docs: update feature files from EPIC 01</td>
-      <td><br>Updated and reorganized .feature files associated with EPIC 01</td>
-      <td><br>14/05/2025</td>
-    </tr>
-
-    <tr>
-      <td><br>main</td>
-      <td><br>60164f9</td>
-      <td><br>docs: update feature files from EPIC 03</td>
-      <td><br>Improved and updated .feature files for EPIC 03</td>
-      <td><br>14/05/2025</td>
-    </tr>
-  </tbody>
-        </table>
+  | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
+  |------------|--------|-----------|----------------|---------------------|---------------------|
+  | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main | a094e59 | docs: update report and add new .feature files for EPIC 06 | Updated documentation and incorporated new .feature files corresponding to EPIC 06 | 14/05/2025 |
+  | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main | 9987165 | docs: update feature files from EPIC 01 | Updated and reorganized .feature files associated with EPIC 01 | 14/05/2025 |
+  | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main | 60164f9 | docs: update feature files from EPIC 03 | Improved and updated .feature files for EPIC 03 | 14/05/2025 |
        
     - **4.2.2.5. Execution Evidence for Sprint Review**
         <br>En esta sección se presenta la Evidencia de Ejecución del sprint, la cual muestra el producto funcional o el incremento de valor desarrollado, listo para la inspección y validación durante la Sprint Review.<br><br>
@@ -1080,20 +1044,22 @@
   - **4.2.2.6. Services Documentation Evidence for Sprint Review**
           <br> En este Sprint se logró documentar con OpenAPI los endpoints correspondientes a las funcionalidades implementadas. La documentación incluye detalles técnicos de los servicios consumidos por la aplicación móvil, como los verbos HTTP, parámetros de entrada y respuestas esperadas, permitiendo una mejor comprensión e integración de la app con la API.
 
-   *Endpoint*                             | *Acción*                      | *Verbo HTTP* | *Sintaxis de llamada*                  | *Parámetros o Peticiones*                                                                                                                                                                                                   | *Ejemplo de Response*                    | *URL de Documentación*                                                                                                                 |
-  | -------------------------------------- | ----------------------------- | ------------ | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-  | /api/v1/customer/register              | Registrar Cliente             | POST         | /api/v1/customer/register              | {"email":"string","password":"string","nombres":"string","apellidos":"string","celular":"string"}                                                                                                                           | {"email":"string","nombres":"string"}    | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
-  | /api/v1/customer/login                 | Autenticar Cliente            | POST         | /api/v1/customer/login                 | {"email":"string","password":"string"}                                                                                                                                                                                      | {"token":"string"}                       | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |  
-  | /api/v1/iam/register                   | Registrar Profesional         | POST         | /api/v1/iam/register                   | {"email":"string","password":"string","dni":"string","nombres":"string","apellidos":"string","celular":"string"}                                                                                                            | {"email":"string","dni":"string"}        | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
-  | /api/v1/iam/login                      | Login Profesional             | POST         | /api/v1/iam/login                      | {"email":"string","password":"string"}                                                                                                                                                                                      | {"token":"string"}                       | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
-  | /api/v1/jobs/request                   | Crear solicitud de trabajo    | POST         | /api/v1/jobs/request                   | {"professionalId":"uuid","customerId":"uuid","specialty":"string","description":"string","address":"string","scheduledDate":"date","scheduledHour":"string","paymentMethod":"string","categories":["string"],"totalCost":0} | {"jobId":"uuid","status":"PENDING"}      | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
-  | /api/v1/jobs/available                 | Listar trabajos disponibles   | GET          | /api/v1/jobs/available                 | Ninguno                                                                                                                                                                                                                     | [{...}]                                  | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
-  | /api/v1/jobs/{jobId}                   | Obtener detalle de trabajo    | GET          | /api/v1/jobs/{jobId}                   | Path: jobId                                                                                                                                                                                                                 | {"id":"uuid","status":"string"}          | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
-  | /api/v1/jobs/{jobId}/status            | Actualizar estado de trabajo  | PATCH        | /api/v1/jobs/{jobId}/status            | {"status":"string"}                                                                                                                                                                                                         | {"status":"UPDATED"}                     | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
-  | /api/v1/notifications                  | Crear notificación            | POST         | /api/v1/notifications                  | {"customerId":"uuid","professionalId":"uuid","title":"string","message":"string","type":0,"initialStatus":0}                                                                                                                | {"id":"uuid","message":"string"}         | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
-  | /api/v1/notifications/{id}             | Obtener notificación por ID   | GET          | /api/v1/notifications/{id}             | Path: id                                                                                                                                                                                                                    | {"id":"uuid","title":"string"}           | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
-  | /api/v1/professionals/complete-profile | Completar perfil profesional  | POST         | /api/v1/professionals/complete-profile | {"yearsOfExperience":0,"hourlyRate":0,"professionalBio":"string","profilePhotoUrl":"string","certificationUrls":["string"]}                                                                                                 | {"profileCompleted":true}                | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
-  | /api/v1/reputation/job/review          | Registrar reseña y reputación | POST         | /api/v1/reputation/job/review          | {"jobId":"uuid","rating":0,"review":"string"}                                                                                                                                                                                 | {"professionalId":"uuid","starRating":0} | [https://alguiendijochamba-production.azurewebsites.net/index.html](https://alguiendijochamba-production.azurewebsites.net/index.html) |
+  **URL de Documentación OpenAPI:** `https://acortar.link/0fFyh0`
+
+   *Endpoint*                             | *Acción*                      | *Verbo HTTP* | *Sintaxis de llamada*                  | *Parámetros o Peticiones*                                                                                                                                                                                                   | *Ejemplo de Response*                    |
+  | -------------------------------------- | ----------------------------- | ------------ | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+  | /api/v1/customer/register              | Registrar Cliente             | POST         | /api/v1/customer/register              | {"email":"string","password":"string","nombres":"string","apellidos":"string","celular":"string"}                                                                                                                           | {"email":"string","nombres":"string"}    |
+  | /api/v1/customer/login                 | Autenticar Cliente            | POST         | /api/v1/customer/login                 | {"email":"string","password":"string"}                                                                                                                                                                                      | {"token":"string"}                       |
+  | /api/v1/iam/register                   | Registrar Profesional         | POST         | /api/v1/iam/register                   | {"email":"string","password":"string","dni":"string","nombres":"string","apellidos":"string","celular":"string"}                                                                                                            | {"email":"string","dni":"string"}        |
+  | /api/v1/iam/login                      | Login Profesional             | POST         | /api/v1/iam/login                      | {"email":"string","password":"string"}                                                                                                                                                                                      | {"token":"string"}                       |
+  | /api/v1/jobs/request                   | Crear solicitud de trabajo    | POST         | /api/v1/jobs/request                   | {"professionalId":"uuid","customerId":"uuid","specialty":"string","description":"string","address":"string","scheduledDate":"date","scheduledHour":"string","paymentMethod":"string","categories":["string"],"totalCost":0} | {"jobId":"uuid","status":"PENDING"}      |
+  | /api/v1/jobs/available                 | Listar trabajos disponibles   | GET          | /api/v1/jobs/available                 | Ninguno                                                                                                                                                                                                                     | [{...}]                                  |
+  | /api/v1/jobs/{jobId}                   | Obtener detalle de trabajo    | GET          | /api/v1/jobs/{jobId}                   | Path: jobId                                                                                                                                                                                                                 | {"id":"uuid","status":"string"}          |
+  | /api/v1/jobs/{jobId}/status            | Actualizar estado de trabajo  | PATCH        | /api/v1/jobs/{jobId}/status            | {"status":"string"}                                                                                                                                                                                                         | {"status":"UPDATED"}                     |
+  | /api/v1/notifications                  | Crear notificación            | POST         | /api/v1/notifications                  | {"customerId":"uuid","professionalId":"uuid","title":"string","message":"string","type":0,"initialStatus":0}                                                                                                                | {"id":"uuid","message":"string"}         |
+  | /api/v1/notifications/{id}             | Obtener notificación por ID   | GET          | /api/v1/notifications/{id}             | Path: id                                                                                                                                                                                                                    | {"id":"uuid","title":"string"}           |
+  | /api/v1/professionals/complete-profile | Completar perfil profesional  | POST         | /api/v1/professionals/complete-profile | {"yearsOfExperience":0,"hourlyRate":0,"professionalBio":"string","profilePhotoUrl":"string","certificationUrls":["string"]}                                                                                                 | {"profileCompleted":true}                |
+  | /api/v1/reputation/job/review          | Registrar reseña y reputación | POST         | /api/v1/reputation/job/review          | {"jobId":"uuid","rating":0,"review":"string"}                                                                                                                                                                                 | {"professionalId":"uuid","starRating":0} |
 
 
   - **4.2.2.7. Software Deployment Evidence for Sprint Review**
@@ -1273,5 +1239,5 @@ La integración de herramientas modernas, buenas prácticas de desarrollo y una 
 
 **Link del Landing Page:** [https://alguiendijochamba-landingpage.netlify.app/](https://alguiendijochamba-landingpage.netlify.app/)
 
-**Link del Despliegue del Backend:** [https://alguiendijochamba-production.azurewebsites.net/](https://alguiendijochamba-production.azurewebsites.net/)
+**Link del Despliegue del Backend:** [https://acortar.link/0fFyh0](https://acortar.link/0fFyh0)
 
