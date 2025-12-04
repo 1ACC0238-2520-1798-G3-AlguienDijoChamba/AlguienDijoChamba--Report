@@ -1691,7 +1691,7 @@
           | Escobar Palomino, Sebastian Matias | Frontend Android     , Backend            |
           | Muñiz Huayanca, Percy Alonso       | Frontend Flutter  , Backend               |
 
-          ## Report:
+          ## Landing:
 
           <div align="center">
               <img src="./feature/chapter04/InsightSprint3/1.png">
@@ -1705,7 +1705,7 @@
               <img src="./feature/chapter04/InsightSprint3/3.png">
               </div>
 
-          ## Landing Page:
+          ## Backend:
 
           <div align="center">
               <img src="./feature/chapter04/InsightSprint3/4.png">
@@ -2005,7 +2005,7 @@ La integración de herramientas modernas, buenas prácticas de desarrollo y una 
 
 **Link del Landing Page:** [https://alguiendijochamba-landingpage.netlify.app/](https://alguiendijochamba-landingpage.netlify.app/)
 
-**Link del Despliegue del Backend:** [https://acortar.link/0fFyh0](https://acortar.link/0fFyh0)
+**Link del Despliegue del Backend:** [https://acortar.link/0fFyh0](https://alguiendijochamba-production.azurewebsites.net/index.html)
 
 **Link del About the Product:** [https://about-the-product/](https://youtu.be/MB2a6L0Ysic)
 
