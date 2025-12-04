@@ -33,6 +33,9 @@
           ![Spacing](feature/chapter3/Iconography.png)
           <br><br>**Lenguaje Aplicado** <br> <br>
           En el desarrollo de la aplicación móvil “AlguienDijoChamba” y de su landing page se ha definido un lenguaje formal, claro y cercano, alineado con el propósito y los objetivos del producto. Tanto en el diseño como en la construcción de la app y la página de aterrizaje, se han aplicado los principios fundamentales del diseño visual, asegurando coherencia, consistencia y una comunicación efectiva.
+        <br>
+        ---
+        <br>
 
     - **3.1.2. Information Architecture**
       <br>A continuación, se presenta la Arquitectura de la Información de la aplicación, detallando la organización, estructura y etiquetado de los contenidos para garantizar una navegación lógica e intuitiva para el usuario.<br><br>
@@ -52,6 +55,10 @@
             - **Relevancia:** Se usará para destacar el contenido que ha recibido mayor interacción, vistas o valoración, permitiendo al usuario acceder primero a lo más relevante o buscado.
             - **Tags:** Se empleará cuando el contenido pueda asociarse con palabras clave o etiquetas, facilitando la búsqueda y el filtrado según intereses específicos del usuario.
             - **Cronológico:** Se aplicará cuando sea importante mostrar el contenido en función de fechas o eventos, permitiendo que el usuario siga la evolución o historia de manera temporal.
+           <br>
+            ---
+           <br>
+
         - **3.1.2.2. Labelling Systems**
           <br>La interfaz de nuestra aplicación está diseñada para ser intuitiva y fácil de usar, utilizando palabras clave que resulten familiares para nuestros usuarios. Por esta razón, las etiquetas de navegación explican de manera concisa la función de cada sección. A continuación, presentamos las etiquetas principales para los dos roles de la aplicación: Cliente y Técnico.
           <br>**Client**<br>
@@ -67,11 +74,19 @@
             - **Calendar:** Calendario de trabajos programados, mostrando fecha, hora y dirección de cada servicio asignado.
             - **Payments:** Registrar pagos recibidos por los trabajos realizados y consultar historial de ingresos.
             - **Profile:** Gestionar informacion personal.
+              <br>
+              ---
+              <br>
+
         - **3.1.2.3. SEO Tags and Meta Tags**
           <br> Tenemos lo que es Optimización SEO para Mayor Visibilidad en Plataformas Móviles,  donde se han implementado estrategias de posicionamiento en tiendas de aplicaciones (ASO – App Store Optimization), utilizando títulos, descripciones y palabras clave relevantes para que AlguienDijoChamba sea fácilmente encontrada por clientes que buscan contratar técnicos de diferentes especialidades, así como por técnicos que deseen ofrecer sus servicios.<br>
             - **Titulo:** “AlguienDijoChamba – Encuentra técnicos confiables cerca de ti”
             - **Descripción de la App:** “Conecta con técnicos especializados en plomería, carpintería, electricidad y más. Solicita servicios desde tu móvil, agenda citas y gestiona pagos de manera rápida y segura.”
-            - **Palabras Clave:**: “contratar técnicos, servicios a domicilio, plomero, carpintero, electricista, app de servicios, AlguienDijoChamba”
+              - **Palabras Clave:**: “contratar técnicos, servicios a domicilio, plomero, carpintero, electricista, app de servicios, AlguienDijoChamba”
+         <br>
+         ---
+         <br>
+
         - **3.1.2.4. Searching Systems**
           En nuestra app movil tendremos diversidad de tecnicos registrados, por lo cual nos ha resultado crucial brindar herramientas de busqueda para que ayuden a los Clientes en encontrar al tecnico mas adecuado para su caso.
           <br><br>
@@ -86,6 +101,10 @@
           <br><br>
           **Busqueda por problema en el hogar:**<br>
           Si el usuario no sabe exactamente qué tipo de técnico necesita, podrá escribir el problema directamente y el sistema sugerirá automáticamente al especialista adecuado.
+        <br>
+        ---
+        <br>
+
         - **3.1.2.5. Navigation Systems**
           <br> En AlguienDijoChamba buscamos ofrecer la mejor experiencia a nuestros usuarios, garantizando que la interfaz sea clara, simple y funcional. Por ello, hemos definido las siguientes decisiones de diseño de interfaz (UI):
           <br> **Landing Page (promoción de la app):**<br>
@@ -95,6 +114,10 @@
             - La aplicación contará con un menú de navegación inferior (bottom navbar) con accesos rápidos a las secciones principales: Home, Search, Process, Rewards, ProfileClients y Home, Requests, Calendar, Payments, ProfileTechnique.
             - En la navegación entre pantallas, se incluirá siempre una opción para volver atrás, asegurando que el usuario tenga control total de su recorrido dentro de la app.
               <br><br>**Accesibilidad y Usabilidad:** La aplicación está diseñada con Responsive Design, lo que asegura que se adapte correctamente a distintos tamaños de pantalla dentro del ecosistema móvil.
+        <br>
+        ---
+        <br>
+
     - **3.1.3. Landing Page UI Design**
       <br>Esta sección muestra el Diseño de Interfaz de Usuario (UI) de la Landing Page, la cual actúa como punto de entrada y herramienta de captación, comunicando de manera clara la propuesta de valor de AlguienDijoChamba a los nuevos usuarios.<br><br>
         - **3.1.3.1. Landing Page Wireframe**
@@ -111,6 +134,10 @@
           <br>El wireframe para desktop guió la disposición de los elementos, y el mock-up finalizo con las secciones propuestas.<br><br>
           ![imagesWireframe1](./feature/chapter3/Landing_Mock_Ups.png)
           <br><br>
+          <br>
+          ---
+          <br>
+
     - **3.1.4. Mobile Applications UX/UI Design**
       <br>Esta sección se enfoca en el Diseño UX/UI de las Aplicaciones Móviles, detallando la experiencia y la interfaz para los usuarios (clientes) y los técnicos, asegurando usabilidad y consistencia en ambas plataformas.<br><br>
         - **3.1.4.1. Mobile Applications Wireframes**
@@ -173,6 +200,10 @@
           <br>
           ![imagesWireframeMobileApplication20](./feature/chapter3/Mobile_Applications_Wireframes/Technician/Avalibility_Tecnician_2.png)
           <br> <br>
+          <br>
+          ---
+          <br>
+
         - **3.1.4.2. Mobile Applications Wireflow Diagrams**
           <br>Esta sección presenta los Diagramas de Flujo (Wireflow Diagrams) de las aplicaciones móviles, mapeando visualmente el recorrido del usuario a través de las diferentes pantallas y mostrando la lógica de interacción de funciones clave.<br><br>
           <br>
@@ -204,6 +235,10 @@
           <br>**Gamification Section**<br>
           ![imagesUserFlowDiagramsApplication1](./feature/chapter3/Mobile_Applications_Wireflow_Diagrams/Technician/5.png)
           <br> <br>
+      
+          <br>
+           ---
+          <br>
 
         - **3.1.4.3. Mobile Applications Mock-ups**
           <br>A continuación, se presentan los Mock-ups de las Aplicaciones Móviles, que muestran el diseño de interfaz de usuario (UI) final para las plataformas de Clientes y Técnicos, incluyendo la aplicación de todos los elementos visuales definidos.<br><br>
@@ -299,6 +334,10 @@
           <br>
           ![imagesMockUpsMobileApplication1](./feature/chapter3/Mobile_Applications_Mock_Ups/Technician/6_gamification/gamification_3.png)
           <br> <br>
+          <br>
+           ---
+          <br>
+
         - **3.1.4.4. Mobile Applications User Flow Diagrams**
           <br>Esta sección detalla los Diagramas de Flujo de Usuario que ilustran la secuencia completa de pasos e interacciones que el cliente y el técnico realizan para completar tareas clave dentro de las aplicaciones.<br><br>
           <br>
@@ -345,6 +384,11 @@
           <br>**Gamification Section**<br>
           ![imagesUserFlowDiagramsApplication1](./feature/chapter3/Mobile_Applications_User_Flow_Diagrams/2_technician/7.png)
           <br>
+
+          <br>
+          ---
+          <br>
+
           ### **User Stories**
           <br>**US01**<br>
           Como nuevo cliente, quiero registrarme en la plataforma para poder buscar y contratar profesionales.
@@ -481,6 +525,11 @@
           <br>
           ![imagesUserFlowDiagramsMobileApplication1](./feature/chapter3/Mobile_Applications_User_Flow_Diagrams/3_User_Stories/US27.png)
           <br>
+
+        <br>
+        ---
+        <br>
+
         - **3.1.4.5. Mobile Applications Prototyping**
           <br>A continuación, se presenta el video demostrativo donde se evidencia el prototipo interactivo de las aplicaciones móviles, mostrando el flujo de usuario y la experiencia de interacción final.<br><br>
         -   https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220219_upc_edu_pe/EciqPmDFUihCogDjFt9cKa0BhRGdzIc73tPf1ZuHBwkBnA?e=GSS7hW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
