@@ -62,6 +62,11 @@
         <div align="center">
         <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" width="180">
         </div>
+
+    <br> 
+    --- 
+    <br>
+
     - **4.1.2. Source Code Management**
       La gestión del proyecto de la aplicación móvil, landing page y aplicación Backend, siguen los principios del modelo "Git Branch Model" en la cual se define como una estrategia para administrar y organizar un trabajo en un repositorio de Github mediante la creación de ramas con distintas funcionalidades. Uno de los modelos que usaremos es el "Git Flow", la cual define como crear ramas para mantener el control del ciclo de vida del desarrollo del software.
    ---   
@@ -86,6 +91,10 @@
     4. Convenciones de Commits: Para los mensajes de commit, seguimos la especificación Conventional Commits con la siguiente estructura:
 
               "(tipo):(titulo)" y "(descripcion)"
+
+    <br> 
+    --- 
+    <br>
 
     - **4.1.3. Source Code Style Guide & Conventions**
 
@@ -135,6 +144,11 @@
 
         - **Arquitectura escalable:**
           Implementación de Clean Architecture con separación por capas (Repositorios, UI, Casos de Uso y Dominios) siguiendo principios DDD.
+
+    <br> 
+    --- 
+    <br>
+
     - **4.1.4. Software Deployment Configuration**
 
       **Landing Page:**<br>
@@ -162,6 +176,11 @@
            <br><br><img src="./feature/chapter04/deploy_step10.jpeg">
 
       **Enlace del Landing Page:** [https://alguiendijochamba-landingpage.netlify.app/](https://alguiendijochamba-landingpage.netlify.app/)
+
+    <br> 
+    --- 
+    <br>
+
 - **4.2. Landing Page & Mobile Application Implementation**
   <br>Esta sección detalla la Implementación técnica de la Landing Page y las Aplicaciones Móviles, describiendo las herramientas, tecnologías y el proceso ágil ejecutado a través de sprints para cada entrega del producto.<br><br>
     - **4.2.1. Sprint 1**<br>
@@ -227,6 +246,11 @@
               <td>  20</td>
             </tr>
           </table>
+          
+            <br> 
+            --- 
+            <br>
+
         - **4.2.1.2. Sprint Backlog 1**
           <br> En el primer sprint, el equipo enfocó su trabajo en crear una landing page que fuera tanto funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
 
@@ -241,8 +265,9 @@
           | LPS07  | Contact                        | Desarrollo de la sección “Contact”, donde se detalla la forma en que los usuarios pueden comunicarse con el equipo detrás de *AlguienDijoChamba*.          | 2                      | Bastidas Bastidas, Diego Martín | Done                                               |
           | LPS08  | Footer                         | Desarrollo de la sección “Footer”, que incluye enlaces de navegación, redes sociales del equipo y accesos rápidos a las distintas secciones del sitio web. | 2                      | Bastidas Bastidas, Diego Martín | Done                                               |
 
-
-
+            <br> 
+            --- 
+            <br>
 
         - **4.2.1.3. Development Evidence for Sprint Review**
           <br>Esta sección se presenta la Evidencia de Desarrollo completada durante el sprint, demostrando el trabajo funcional realizado y los incrementos del producto listos para ser inspeccionados y validados en la Sprint Review.
@@ -400,6 +425,10 @@
           | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba---Fronted      | mainStructure | 46bc5faeb496454b7346ff0306b1035e34b1c20d  | feat: initialize main project structure and dependencies                                                                                 | radv2005          | Oct 07, 2025   |
           | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba---Fronted      | mainStructure | c9a2e89ff9a2c39053714129890cbcea687401a8  | feat: initialize main project structure and dependencies                                                                                 | radv2005          | Oct 07, 2025   |
           | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba---Fronted      | mainStructure | 7a5a7026a6babf7346d619441a17208911a05339  | feat(auth): add login and register screens with navigation                                                                               | radv2005          | Oct 07, 2025   |
+        
+        <br> 
+        --- 
+        <br>
 
         - **4.2.1.4. Testing Suite Evidence for Sprint Review**
 
@@ -441,6 +470,10 @@
           </tr>
 
           </tbody></table>
+
+    <br> 
+    --- 
+    <br>
 
     - **4.2.1.5. Execution Evidence for Sprint Review**
       <br>En esta sección se presenta la Evidencia de Ejecución del sprint, la cual muestra el producto funcional o el incremento de valor desarrollado, listo para la inspección y validación durante la Sprint Review.<br><br>
@@ -569,6 +602,10 @@
 
        Link del video: <a href="https://acortar.link/se3cmV">Video </a>
 
+        <br> 
+        --- 
+        <br>
+
         - **4.2.1.6. Services Documentation Evidence for Sprint Review**
           <br> En este Sprint se logró documentar con OpenAPI los endpoints correspondientes a las funcionalidades implementadas. La documentación incluye detalles técnicos de los servicios consumidos por la aplicación móvil, como los verbos HTTP, parámetros de entrada y respuestas esperadas, permitiendo una mejor comprensión e integración de la app con la API.
 
@@ -601,6 +638,10 @@
   | /api/v1/work-requests               | Obtener solicitudes por Worker      | GET          | api/v1/work-requests               | none (query params: ?workerId=integer)                                                                                                                | [{"requestId": "string", "title": "string", "status": "string"}]                                                                                                                                  | http://localhost:8080/api/v1/work-requests               |
   | /api/v1/work-requests               | Obtener solicitudes por Customer    | GET          | api/v1/work-requests               | none (query params: ?customerId=integer)                                                                                                              | [{"requestId": "string", "title": "string", "status": "string"}]                                                                                                                                  | http://localhost:8080/api/v1/work-requests               |
   | /api/v1/work-requests/{id}          | Obtener solicitud de trabajo por ID | GET          | api/v1/work-requests/{id}          | none                                                                                                                                                  | {"title": "string", "description": "string", "date": "datetime", "status": "string", "workerId": "integer"}                                                                                       | http://localhost:8080/api/v1/work-requests/{id}          |
+    
+    <br> 
+    --- 
+    <br>
 
     - **4.2.1.7. Software Deployment Evidence for Sprint Review**
       <br>En esta sección se presenta la Evidencia de Despliegue del Software, verificando que el incremento desarrollado durante el sprint ha sido implementado y se encuentra accesible en el entorno de destino para su revisión final.<br><br>
@@ -700,6 +741,10 @@
         <img src="https://i.imgur.com/YqhFr0I.png">
         </div>
 
+    <br> 
+    --- 
+    <br>
+
     - **4.2.1.8. Team Collaboration Insights during Sprint**
           <br>En esta sección se exponen las Reflexiones sobre la Colaboración del Equipo durante el sprint, detallando las dinámicas de trabajo y las lecciones clave identificadas para la mejora continua del proceso.<br><br>
 
@@ -753,7 +798,9 @@
           <img src="https://i.imgur.com/BgP5Wvp.png">
           </div>
 
-
+    <br> 
+    --- 
+    <br>
 
     - **4.2.2. Sprint 2**<br>
       La siguiente sección detalla los resultados del Sprint #2, correspondiente a la entrega inicial del proyecto. Se presentan los avances organizativos, la distribución de trabajo y los productos desarrollados: la landing page operativa, el progreso del Web Service y la versión preliminar de la Mobile Application.
@@ -818,6 +865,11 @@
               <td>  25</td>
             </tr>
     </table>
+
+    <br> 
+    --- 
+    <br>
+
 - **4.2.2.2. Sprint Backlog 2** <br>
 
     En el segundo sprint, el equipo enfocó su trabajo en crear una landing page que fuera tanto funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
@@ -853,8 +905,9 @@
     | LPS10  | Footer               | Pie de página con enlaces, redes sociales y derechos de autor.                                            | 1                    | Bastidas Bastidas, Diego Martín             | Done   |
     | LPS12  | Smooth Navigation    | Implementación de scroll animado hacia cada sección de la Landing Page.                                   | 2                    | Bastidas Bastidas, Diego Martín             | Done   |
 
-
-
+    <br> 
+    --- 
+    <br>
 
     - **4.2.2.3. Development Evidence for Sprint Review**
         <br>Esta sección se presenta la Evidencia de Desarrollo completada durante el sprint, demostrando el trabajo funcional realizado y los incrementos del producto listos para ser inspeccionados y validados en la Sprint Review.
@@ -903,6 +956,9 @@
         | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend | develop| 38ec6900e3959488d9db5fe7328314345e2e3709 | fix: fix update code correction errors                                   | ghostnotfound404 | Nov 04, 2025   |
         | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend | develop | f842f09029d7349159458341094c5d20926cf46e | feat: update backend                                                     | ghostnotfound404 | Nov 03, 2025   |
 
+    <br> 
+    --- 
+    <br>
 
     - **4.2.2.4. Testing Suite Evidence for Sprint Review**
           <br>Durante este segundo Sprint, se presentan los archivos <i>.feature</i> correspondientes a las User Tasks desarrolladas. 
@@ -914,7 +970,11 @@
   | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main | a094e59 | docs: update report and add new .feature files for EPIC 06 | Updated documentation and incorporated new .feature files corresponding to EPIC 06 | 14/05/2025 |
   | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main | 9987165 | docs: update feature files from EPIC 01 | Updated and reorganized .feature files associated with EPIC 01 | 14/05/2025 |
   | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main | 60164f9 | docs: update feature files from EPIC 03 | Improved and updated .feature files for EPIC 03 | 14/05/2025 |
-       
+
+    <br> 
+    --- 
+    <br>
+
     - **4.2.2.5. Execution Evidence for Sprint Review**
         <br>En esta sección se presenta la Evidencia de Ejecución del sprint, la cual muestra el producto funcional o el incremento de valor desarrollado, listo para la inspección y validación durante la Sprint Review.<br><br>
 
@@ -1041,6 +1101,10 @@
       <img src="feature/chapter04/Execucion_Evidence_for_Sprint_Review_2/Flutte_version/7_proces_1.png" alt="Contacts">
       </div>
 
+<br> 
+--- 
+<br>
+
   - **4.2.2.6. Services Documentation Evidence for Sprint Review**
           <br> En este Sprint se logró documentar con OpenAPI los endpoints correspondientes a las funcionalidades implementadas. La documentación incluye detalles técnicos de los servicios consumidos por la aplicación móvil, como los verbos HTTP, parámetros de entrada y respuestas esperadas, permitiendo una mejor comprensión e integración de la app con la API.
 
@@ -1061,6 +1125,9 @@
   | /api/v1/professionals/complete-profile | Completar perfil profesional  | POST         | /api/v1/professionals/complete-profile | {"yearsOfExperience":0,"hourlyRate":0,"professionalBio":"string","profilePhotoUrl":"string","certificationUrls":["string"]}                                                                                                 | {"profileCompleted":true}                |
   | /api/v1/reputation/job/review          | Registrar reseña y reputación | POST         | /api/v1/reputation/job/review          | {"jobId":"uuid","rating":0,"review":"string"}                                                                                                                                                                                 | {"professionalId":"uuid","starRating":0} |
 
+<br> 
+--- 
+<br>
 
   - **4.2.2.7. Software Deployment Evidence for Sprint Review**
       <br>En esta sección se presenta la Evidencia de Despliegue del Software, verificando que el incremento desarrollado durante el sprint ha sido implementado y se encuentra accesible en el entorno de destino para su revisión final.<br><br>
@@ -1131,7 +1198,9 @@
       
       Esto demuestra que la base de datos remota quedó desplegada correctamente y lista para ser consumida por el backend del proyecto.
 
-      
+    <br> 
+    --- 
+    <br>
 
   - **4.2.2.8. Team Collaboration Insights during Sprint**
           <br>En esta sección se exponen las Reflexiones sobre la Colaboración del Equipo durante el sprint, detallando las dinámicas de trabajo y las lecciones clave identificadas para la mejora continua del proceso.<br><br>
@@ -1186,6 +1255,9 @@
           <img src="https://i.imgur.com/BgP5Wvp.png">
           </div>
 
+    <br>
+    --- 
+    <br>
 
   - **4.2.3. Sprint 3** <br>
 
@@ -1252,6 +1324,10 @@
             </tr>
     </table> 
 
+    <br>
+    --- 
+    <br>
+
     - **4.2.3.2. Sprint Backlog 3** <br>
       En el tercer sprint, el equipo enfocó su trabajo en terminar de crear la aplicacion en flutter, para que funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
 
@@ -1278,6 +1354,10 @@
         | US34   | Footer Informativo                          | Mejorar la seccion del Footer                                                                             | 2                      | Escobar Palomino, Sebastian Matias 	  | Done                                               |
         | US35   | Navegación General                          | Mejorar la navegacion implementada en el landing page para los visitantes                                 | 4                      | Bastidas Bastidas, Diego Martin 	     | Done                                               |
 
+    <br>
+    --- 
+    <br>
+
     - **4.2.3.3. Development Evidence for Sprint Review**
 
         <br>Esta sección se presenta la Evidencia de Desarrollo completada durante el sprint, demostrando el trabajo funcional realizado y los incrementos del producto listos para ser inspeccionados y validados en la Sprint Review.
@@ -1301,6 +1381,10 @@
         | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | 1main            | a3f81ef4b75fcee8d73e5c08e229d5007314309a  | Merge pull request #6 from 1ACC0238-2520-1798-G3-AlguienDijoChamba/feature/alonso                                                  | ghostnotfound404  | Nov 28, 2025   |
         | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | 1main            | 18312043ff65dcb8f4476098c145a545aff3ee65  | fix: update code backend                                                                                                           | ghostnotfound404  | Nov 28, 2025   |
 
+    <br>
+    --- 
+    <br>
+
     - **4.2.3.4. Testing Suite Evidence for Sprint Review**
       <br>Durante este tercer Sprint, se presentan los archivos <i>.feature</i> correspondientes a las User Tasks desarrolladas.
       Estos archivos fueron actualizados y gestionados dentro del repositorio oficial del equipo, evidenciando el avance funcional
@@ -1312,6 +1396,10 @@
     | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main    | a094e59    | docs: update report and add new .feature files for EPIC 06 | Updated documentation and incorporated new .feature files corresponding to EPIC 06 | 14/05/2025           |
     | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main    | 9987165    | docs: update feature files from EPIC 01                    | Updated and reorganized .feature files associated with EPIC 01                     | 14/05/2025           |
     | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main    | 60164f9    | docs: update feature files from EPIC 03                    | Improved and updated .feature files for EPIC 03                                    | 14/05/2025           |
+    
+    <br> 
+    --- 
+    <br>
 
     - **4.2.3.5. Execution Evidence for Sprint Review**
     
@@ -1434,7 +1522,7 @@
       <img src="feature/chapter04/Sprint3Android/9.png" alt="Contacts">
        </div>
 
-      Link del video: <a href="https://acortar.link/se3cmV">Video </a>
+      Link del video: <a href="https://youtu.be/M9Ot1deT3zM">Video </a>
 
       #### Flutter Version:
 
@@ -1480,7 +1568,11 @@
 
       <div align="center">
       <img src="feature/chapter04/Sprint3Flutter/11.png" alt="Contacts">
-      </div> <br> <br>
+      </div> 
+
+      Link del video: <a href="https://youtu.be/AeKhi7SAFAI">Video </a>
+      
+      <br> <br>
   
     - **4.2.3.6. Services Documentation Evidence for Sprint Review**
       <br> En este Sprint se logró documentar con OpenAPI los endpoints correspondientes a las funcionalidades implementadas. La documentación incluye detalles técnicos de los servicios consumidos por la aplicación móvil, como los verbos HTTP, parámetros de entrada y respuestas esperadas, permitiendo una mejor comprensión e integración de la app con la API.
@@ -1893,7 +1985,7 @@ La integración de herramientas modernas, buenas prácticas de desarrollo y una 
 
 **Link del Despliegue del Backend:** [https://acortar.link/0fFyh0](https://acortar.link/0fFyh0)
 
-**Link del About the Product:** [https://about-the-product/]()
+**Link del About the Product:** [https://about-the-product/](https://youtu.be/MB2a6L0Ysic)
 
 **Link del About the Team:** [https://about-the-team/](https://youtu.be/2QE6zWPj_JU)
 
