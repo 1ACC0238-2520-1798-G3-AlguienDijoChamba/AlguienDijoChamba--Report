@@ -147,3 +147,6 @@
   <b>Segmento 2: Cliente con necesidad de un servicio técnico</b><br>
   Este grupo incluye a personas de entre 25 y 50 años que residen en zonas urbanas o periurbanas. Generalmente tienen trabajos a tiempo completo, ya sea como empleados o independientes, lo que les dificulta invertir tiempo en la búsqueda de soluciones para imprevistos del hogar. Suelen apoyarse en la tecnología para agilizar su vida cotidiana y valoran la rapidez, confiabilidad y transparencia al contratar un servicio. Muchos de ellos son responsables de un hogar o familia, por lo que buscan alternativas prácticas frente a emergencias como fugas de agua, fallas eléctricas o instalaciones domésticas. Algunos muestran un creciente interés en tecnologías sostenibles, aunque aún no han adoptado soluciones más avanzadas debido a la falta de información o acompañamiento.
 
+<br>
+---
+<br>
