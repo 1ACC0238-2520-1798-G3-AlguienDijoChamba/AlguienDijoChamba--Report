@@ -1306,15 +1306,277 @@
       Estos archivos fueron actualizados y gestionados dentro del repositorio oficial del equipo, evidenciando el avance funcional
       logrado durante este incremento.<br>
       <br>
+
+    | Repository                                                                                                                                                                     | Branch  | Commit ID  | Commit Message                                             | Commit Message Body                                                                | Committed on (Date)  |
+    |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|------------|------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------|
+    | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main    | a094e59    | docs: update report and add new .feature files for EPIC 06 | Updated documentation and incorporated new .feature files corresponding to EPIC 06 | 14/05/2025           |
+    | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main    | 9987165    | docs: update feature files from EPIC 01                    | Updated and reorganized .feature files associated with EPIC 01                     | 14/05/2025           |
+    | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main    | 60164f9    | docs: update feature files from EPIC 03                    | Improved and updated .feature files for EPIC 03                                    | 14/05/2025           |
+
     - **4.2.3.5. Execution Evidence for Sprint Review**
+    
       <br>En esta sección se presenta la Evidencia de Ejecución del sprint, la cual muestra el producto funcional o el incremento de valor desarrollado, listo para la inspección y validación durante la Sprint Review.<br><br>
       <br>
+      <br>En esta sección se presenta la Evidencia de Ejecución del sprint, la cual muestra el producto funcional o el incremento de valor desarrollado, listo para la inspección y validación durante la Sprint Review.<br><br>
+
+      ### LANDING PAGE:
+
+      A continuación, se muestran las evidencias de la ejecución de la landing page hecha en HTML, CSS y JS usando la biblioteca Bootstrap.
+
+      #### LPS 01:
+
+      Ver Hero Section
+
+      <div align="center">
+      <img src="feature/chapter04/LandingPageSprint3/landing1.png" alt="Hero Section">
+      </div>
+
+      #### LPS 02:
+
+      Ver About the product
+
+      <div align="center">
+      <img src="feature/chapter04/LandingPageSprint3/landing2.png" alt="Hero Section">
+      </div>
+    
+      #### LPS 03:
+
+      Ver sección sobre el producto y stats
+
+      <div align="center">
+      <img src="feature/chapter04/LandingPageSprint3/landing3.png" alt="Hero Section">
+      </div>
+
+      #### LPS 04:
+
+      Ver sección de servicios y características
+
+      <div align="center">
+      <img src="feature/chapter04/LandingPageSprint3/landing4.png" alt="Hero Section">
+      </div>
+
+      #### LPS 05:
+
+      Consultar gamificacion y beneficios
+
+      <div align="center">
+      <img src="feature/chapter04/LandingPageSprint3/landing5.png" alt="Hero Section">
+      </div>
+
+      #### LPS 06:
+
+      Ver testimonios de usuarios
+
+      <div align="center">
+      <img src="feature/chapter04/LandingPageSprint3/landing6.png" alt="Hero Section">
+      </div>
+
+      #### LPS 06:
+
+      Ver About the team
+
+      <div align="center">
+      <img src="feature/chapter04/LandingPageSprint3/landing7.png" alt="Hero Section">
+      </div>
+
+      #### LPS 06:
+
+      Acceder a sección de contacto
+
+      <div align="center">
+      <img src="feature/chapter04/LandingPageSprint3/landing8.png" alt="Hero Section">
+      </div>
+
+      #### LPS 07:
+
+      Ver sección Footer con enlaces útiles
+
+      <div align="center">
+      <img src="feature/chapter04/LandingPageSprint3/landing9.png" alt="Hero Section">
+      </div>
+
+      ### MOBILE APPLICATION:
+
+      #### ANDROID VERSION:
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Android/1.png" alt="Contacts">
+       </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Android/2.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Android/3.png" alt="Contacts">
+       </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Android/4.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Android/5.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Android/6.png" alt="Contacts">
+       </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Android/7.png" alt="Contacts">
+      </div>
+
+       <div align="center">
+      <img src="feature/chapter04/Sprint3Android/8.png" alt="Contacts">
+       </div>
+
+       <div align="center">
+      <img src="feature/chapter04/Sprint3Android/9.png" alt="Contacts">
+       </div>
+
+      Link del video: <a href="https://acortar.link/se3cmV">Video </a>
+
+      #### Flutter Version:
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Flutter/1.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Flutter/2.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Flutter/3.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Flutter/4.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Flutter/5.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Flutter/6.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Flutter/7.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Flutter/8.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Flutter/9.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Flutter/10.png" alt="Contacts">
+      </div>
+
+      <div align="center">
+      <img src="feature/chapter04/Sprint3Flutter/11.png" alt="Contacts">
+      </div> <br> <br>
+  
     - **4.2.3.6. Services Documentation Evidence for Sprint Review**
       <br> En este Sprint se logró documentar con OpenAPI los endpoints correspondientes a las funcionalidades implementadas. La documentación incluye detalles técnicos de los servicios consumidos por la aplicación móvil, como los verbos HTTP, parámetros de entrada y respuestas esperadas, permitiendo una mejor comprensión e integración de la app con la API.
-      <br><br>
+      <br>
+
+    | Endpoint                                               | Acción                                | Verbo HTTP | Parámetros o Peticiones                                                                                                       | Ejemplo de Response                                                                                     |
+    |:-------------------------------------------------------|:--------------------------------------|:-----------|:------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|
+    | `/api/v1/customer/{userId}/profile/photo`              | Subir Foto de Perfil                  | POST       | Path: `userId` (uuid) <br> Body: `(multipart/form-data: PhotoFile)`                                                           | `{"photoUrl": "string"}`                                                                                |
+    | `/api/v1/customer/{userId}/profile/complete`           | Completar Perfil                      | POST       | Path: `userId` (uuid) <br> Body: `{"preferredPaymentMethod": 0, "acceptsBookingUpdates": true, ...}`                          | (204 No Content)                                                                                        |
+    | `/api/v1/customer/{userId}/profile`                    | Obtener Perfil                        | GET        | Path: `userId` (uuid)                                                                                                         | `{"id": "uuid", "userId": "uuid", "nombres": "string", "celular": "string", "photoUrl": "string", ...}` |
+    | `/api/v1/customer/{customerId}/profile`                | Actualizar Perfil                     | PUT        | Path: `customerId` (uuid) <br> Body: `{"nombres": "string", "apellidos": "string", "celular": "string", ...}`                 | `{"id": "uuid", "userId": "uuid", "nombres": "string", "celular": "string", ...}`                       |
+    | `/api/v1/iam/delete-account`                           | Eliminar Cuenta                       | DELETE     | Ninguno                                                                                                                       | (200 OK)                                                                                                |
+    | `/api/v1/jobs/active`                                  | Listar Trabajos Activos               | GET        | Ninguno                                                                                                                       | (200 OK - Lista de trabajos)                                                                            |
+    | `/api/v1/jobs/active`                                  | Crear Trabajo Activo (Aceptar)        | POST       | Body: `{"professionalId": "uuid", "customerId": "uuid", "specialty": "string", "description": "string", "totalCost": 0, ...}` | (200 OK)                                                                                                |
+    | `/api/v1/jobs/active/customer/{clientId}`              | Obtener Trabajos Activos de Cliente   | GET        | Path: `clientId` (uuid)                                                                                                       | (200 OK - Lista de trabajos)                                                                            |
+    | `/api/v1/notifications/{id}`                           | Eliminar Notificación                 | DELETE     | Path: `id` (uuid)                                                                                                             | (200 OK)                                                                                                |
+    | `/api/v1/notifications/customers/{customerId}`         | Obtener Notificaciones de Cliente     | GET        | Path: `customerId` (uuid)                                                                                                     | (200 OK - Lista de notificaciones)                                                                      |
+    | `/api/v1/notifications/professionals/{professionalId}` | Obtener Notificaciones de Profesional | GET        | Path: `professionalId` (uuid)                                                                                                 | (200 OK - Lista de notificaciones)                                                                      |
+    | `/api/v1/notifications/{id}/mark-as-read`              | Marcar como Leída                     | PATCH      | Path: `id` (uuid)                                                                                                             | (No especificado)                                                                                       |
+    | `/api/v1/professionals/reniec/{dni}`                   | Obtener Info Reniec                   | GET        | Path: `dni` (string)                                                                                                          | (200 OK)                                                                                                |
+    | `/api/v1/professionals/upload-photo`                   | Subir Foto de Perfil                  | POST       | Body: `(multipart/form-data: file)`                                                                                           | (200 OK)                                                                                                |
+    | `/api/v1/professionals/upload-certification`           | Subir Certificación                   | POST       | Body: `(multipart/form-data: file)`                                                                                           | (200 OK)                                                                                                |
+    | `/api/v1/professionals/my-profile`                     | Obtener Perfil Propio                 | GET        | Ninguno                                                                                                                       | (200 OK - Detalle del perfil)                                                                           |
+    | `/api/v1/professionals/my-profile`                     | Actualizar Perfil Propio              | PUT        | Body: `{"email": "string", "celular": "string", "ocupacion": "string", ...}`                                                  | (200 OK)                                                                                                |
+    | `/api/v1/professionals/{professionalId}`               | Obtener Perfil por ID                 | GET        | Path: `professionalId` (uuid)                                                                                                 | (200 OK - Detalle del perfil)                                                                           |
+
     - **4.2.3.7. Software Deployment Evidence for Sprint Review**
       <br>En esta sección se presenta la Evidencia de Despliegue del Software, verificando que el incremento desarrollado durante el sprint ha sido implementado y se encuentra accesible en el entorno de destino para su revisión final.<br><br>
       <br>
+
+      Durante este Sprint se realizó el despliegue de la base de datos remota utilizando **Azure Database for MySQL – Flexible Server**, como parte de la infraestructura necesaria para soportar el Web Service y las operaciones de la aplicación móvil **AlguienDijoChamba**.
+      A continuación se detalla la evidencia del proceso realizado en Azure Portal:
+
+      ---
+
+      ### **1. Selección del tipo de servidor y suscripción**
+      
+      Se inició la configuración seleccionando la opción *Servidor Flexible* dentro de Azure Database for MySQL, asignando la suscripción **Azure for Students** y creando un grupo de recursos exclusivo para la base de datos del proyecto.
+
+      <br><br> <img src="./feature/chapter04/deployback_1.jpeg">
+      
+      ---
+      
+      ### **2. Configuración del servidor MySQL**
+      
+      En esta etapa se definieron parámetros clave para el servidor:
+      
+      * Nombre del servidor: **chamba-db-production**
+      * Región: **Australia Central 2**
+      * Versión: **MySQL 8.0**
+      * Tipo de carga: **Desarrollo/Pruebas**
+      * 1 vCore, 2 GB RAM y 20 GB de almacenamiento
+      
+      Esta configuración permite un equilibrio óptimo entre rendimiento y costo para el entorno de pruebas del proyecto.
+      
+      <br><br> <img src="./feature/chapter04/deployback_2.jpeg">
+      
+      ---
+      
+      ### **3. Configuración del método de autenticación**
+      
+      Se estableció la autenticación mediante **MySQL Authentication**, creando el usuario administrador *chamba* junto con su respectiva contraseña para el acceso seguro al servidor.
+      
+      <br><br> <img src="./feature/chapter04/deployback_3.jpeg">
+      
+      ---
+      
+      ### **4. Revisión final e inicio de implementación**
+      
+      Una vez confirmados los parámetros del servidor, se procedió a validar toda la configuración e iniciar el proceso de implementación del servidor MySQL en la nube.
+      
+      <br><br> <img src="./feature/chapter04/deployback_4.jpeg">
+      
+      ---
+      
+      ### **5. Implementación y estado del recurso**
+      
+      Azure mostró el progreso de la implementación, confirmando la creación exitosa del servidor y su disponibilidad dentro del grupo de recursos del proyecto.
+      
+      <br><br> <img src="./feature/chapter04/deployback_5.jpeg">
+      
+      ---
+      
+      ### **6. Base de datos remota operativa**
+      
+      Finalmente, desde el panel de Azure Portal se pudo visualizar la información esencial del servidor, incluyendo:
+      
+      * Endpoint de conexión
+      * Estado: **Ready**
+      * Zona de disponibilidad
+      * Configuración del hardware asignado
+      * Fecha de creación
+      * Opciones de actualización y monitoreo
+      
+      Esto demuestra que la base de datos remota quedó desplegada correctamente y lista para ser consumida por el backend del proyecto.
+
     - **4.2.1.8. Team Collaboration Insights during Sprint**
       <br>En esta sección se exponen las Reflexiones sobre la Colaboración del Equipo durante el sprint, detallando las dinámicas de trabajo y las lecciones clave identificadas para la mejora continua del proceso.<br><br>
       <br>
