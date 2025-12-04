@@ -1202,541 +1202,554 @@
     --- 
     <br>
 
-  - **4.2.2.8. Team Collaboration Insights during Sprint**
+    - **4.2.2.8. Team Collaboration Insights during Sprint**
+            <br>En esta sección se exponen las Reflexiones sobre la Colaboración del Equipo durante el sprint, detallando las dinámicas de trabajo y las lecciones clave identificadas para la mejora continua del proceso.<br><br>
+
+        | *Alumno*                            | *Actividad*                                |
+        |-------------------------------------|--------------------------------------------|
+        | Bastidas Bastidas, Diego Martin     | Landing Page Deployment, Backend, Frontend Android           |
+        | Belahonia Miranda, Fabrisio         | Frontend Flutter , Backend          |
+        | Dominguez Vargas, Rafael Alexander  |  Frontend Flutter , Backend |
+        | Escobar Palomino, Sebastian Matias  | Frontend Android     , Backend                |
+        | Muñiz Huayanca, Percy Alonso        | Frontend Flutter  , Backend                                   |
+
+        ## Report:
+
+        <div align="center">
+            <img src="https://i.imgur.com/JnLEci8.png">
+            </div>
+
+        <div align="center">
+            <img src="https://i.imgur.com/cabd8vi.png">
+            </div>
+
+        <div align="center">
+            <img src="https://i.imgur.com/oYhcXFF.png">
+            </div>
+
+        ## Landing Page:
+
+        <div align="center">
+            <img src="https://i.imgur.com/3Wf3qsl.png">
+            </div>
+
+        <div align="center">
+            <img src="https://i.imgur.com/tXwNX4x.png">
+            </div>
+
+        <div align="center">
+            <img src="https://i.imgur.com/sVE6dqN.png">
+            </div>
+
+        ## Mobile Application:
+
+        <div align="center">
+            <img src="https://i.imgur.com/ePu6gMc.png">
+            </div>
+
+        <div align="center">
+            <img src="https://i.imgur.com/bHigClA.png">
+            </div>
+
+        <div align="center">
+            <img src="https://i.imgur.com/BgP5Wvp.png">
+            </div>
+
+      <br>
+      --- 
+      <br>
+
+      - **4.2.3. Sprint 3** <br>
+
+        La siguiente sección detalla los resultados del Sprint #3, correspondiente a la entrega inicial del proyecto. Se presentan los avances organizativos, la distribución de trabajo y los productos desarrollados: la landing page operativa, el progreso del Web Service y la versión preliminar de la Mobile Application. <br>
+        <br>
+        - **4.2.3.1. Sprint Planning 3**<br>
+        A continuación, se detalla la Planificación del Sprint 3, donde se definieron los objetivos iniciales, se seleccionaron las tareas prioritarias del backlog y se asignaron las responsabilidades del equipo para el primer ciclo de desarrollo.    <br>
+        <table>
+                <tr>
+                  <th> Sprint # </th>
+                  <th> Sprint 3 </th>
+                </tr>
+                <tr>
+                  <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+                </tr>
+                <tr>
+                  <td style="font-weight: bold;"> Date </td>
+                  <td> 22/11/2025 </td>
+                </tr>
+                <tr>
+                  <td style="font-weight: bold;"> Time </td>
+                  <td> 00:05 horas (GMT-5) </td>
+                </tr>
+                <tr>
+                  <td style="font-weight: bold;"> Location </td>
+                  <td> Virtual (Discord) </td>
+                </tr>
+                <tr>
+                  <td style="font-weight: bold;"> Prepared By </td>
+                  <td> Bastidas Bastidas, Diego Martin </td>
+                </tr>
+                <tr>
+                  <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+                  <td>
+                    Bastidas Bastidas, Diego Martin<br>
+                    Belahonia Miranda, Fabrisio<br>
+                    Dominguez Vargas, Rafael Alexander<br>
+                    Escobar Palomino, Sebastian Matias<br>
+                    Muñiz Huayanca, Percy Alonso	
+                  </td>
+                </tr>
+                <tr>
+                  <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+                  <td>Desarrollo completo del frontEnd y la conexion con el aplicativo de Android </td>
+                </tr>
+                <tr>
+                  <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+                  <td> Logramos alcanzar el objetivo de publicar nuestro backend terminado y la app de Android Studio al completo. </td>
+                </tr>
+                <tr>
+                  <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+                </tr>
+                <tr>
+                  <td style="font-weight: bold;"> Sprint 2 Goal </td>
+                  <td>Nuestro objetivo para este sprint es desarrollar de manera completa la aplicación en Flutter, asegurando que todas sus vistas, funcionalidades y flujos principales estén implementados y funcionando correctamente. En paralelo, buscamos consolidar la conexión entre esta nueva app y el aplicativo previamente construido en Android Studio, garantizando una integración estable que permita a los usuarios interactuar con ambos entornos sin inconsistencias. Este enfoque nos permitirá avanzar hacia un ecosistema móvil unificado, en el que la experiencia sea fluida, coherente y funcional en ambas plataformas. La validación del sprint se realizará verificando que la aplicación en Flutter opere de forma íntegra y que la comunicación con la app de Android Studio se mantenga estable y confiable durante las pruebas.</td>
+                </tr>
+                <tr>
+                  <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+                  <td>25</td>
+                </tr>
+                <tr>
+                  <td style="font-weight: bold;"> Sum of Story Points </td>
+                  <td>  25</td>
+                </tr>
+        </table> 
+
+        <br>
+        --- 
+        <br>
+
+        - **4.2.3.2. Sprint Backlog 3** <br>
+          En el tercer sprint, el equipo enfocó su trabajo en terminar de crear la aplicacion en flutter, para que funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
+
+            | **ID** | Title                                       | **Description**                                                                                           | **Estimation (Hours)** | **Assigned To**                       | **Status (To-do / In Process / To Review / Done)** |
+            |--------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------|------------------------|---------------------------------------|----------------------------------------------------|
+            | US01   | Registro de Nuevo Usuario                   | Implementación de la segunda seccion de registro                                                          | 3                      | Dominguez Vargas, Rafael Alexander    | Done                                               |
+            | US04   | Editar Perfil de Usuario                    | Implemntar la opcion de editar perfil en la seccion perfil                                                | 2                      | Muñiz Huayanca, Percy Alonso	         | Done                                               |
+            | US05   | Ver Perfil Detallado del Profesional        | Desarrollar la seccion de ver el perfil del tecnico                                                       | 3                      | Muñiz Huayanca, Percy Alonso 	        | Done                                               |
+            | US08   | Solicitar Servicio al Profesional           | Implementacion de la funcionalidad de contratar un profesional y solicitar sus servicios para el cliente  | 5                      | Muñiz Huayanca, Percy Alonso          | Done                                               |
+            | US09   | Gestion de tecnico                          | Desarrollo la seccion de gestion de servicios para el tecnico                                             | 2                      | Bastidas Bastidas, Diego Martin       | Done                                               |
+            | US12   | Gestionar Solicitudes Enviadas              | Implementar la seccion de gestion para los clientes sobre las solicitudes de servicio                     | 2                      | Muñiz Huayanca, Percy Alonso  	       | Done                                               |
+            | US13   | Confirmacion del Servicio                   | Desarrollar la logica para que el tecnico pueda confirmar que realiza un servicio y pueda recibir su paga | 3                      | Escobar Palomino, Sebastian Matias    | Done                                               |
+            | US22   | Cancelar Solicitud de Servicio              | Implementar la logica para que el tecnico pueda aceptar o rechazar solicitudes mandadas por los clientes  | 3                      | Escobar Palomino, Sebastian Matias  	 | Done                                               |
+            | US23   | Notificación de Nueva Solicitud de Servicio | Desarrollar la seccion de notificaciones para el tecnico                                                  | 1                      | Bastidas Bastidas, Diego Martin 	     | Done                                               |
+            | US24   | Abrir Reclamo o Ticket                      | Implementar la logica para que el cliente pueda reclamar si el servicio no fue satisfactorio              | 2                      | Muñiz Huayanca, Percy Alonso  	       | Done                                               |
+            | US25   | Calificar a un Profesional                  | Desarrollar la seccion para que un cliente pueda calificar a un profesional despues del servicio          | 2                      | Muñiz Huayanca, Percy Alonso  	       | Done                                               |
+            | US26   | Sección de Inicio                           | Mejorar la seccion de Inicio en el Landing Page                                                           | 1                      | Bastidas Bastidas, Diego Martin  	    | Done                                               |
+            | US27   | Sección de Servicios                        | Mejorar la seccion de Servicios en el Landing Page                                                        | 1                      | Bastidas Bastidas, Diego Martin  	    | Done                                               |
+            | US29   | Seccion de Niveles de Usuario               | Mejorar la seccion de Gamificacion en el Landing Page                                                     | 2                      | Escobar Palomino, Sebastian Matias 	  | Done                                               |
+            | US30   | Seccion de Testimonios                      | Mejorar la seccion de Testimonios en el Landing Page                                                      | 2                      | Escobar Palomino, Sebastian Matias 	  | Done                                               |
+            | US31   | Sección de Contacto                         | Mejorar la seccion de Contacto visualmente                                                                | 1                      | Bastidas Bastidas, Diego Martin 	     | Done                                               |
+            | US32   | Formulario de Contacto                      | Mejorar la seccion de Contacto para que el usuario pueda comunicarse con The Draws                        | 3                      | Bastidas Bastidas, Diego Martin 	     | Done                                               |
+            | US33   | Botón de Descarga de la App                 | Implementar el button de Descargar aplicacion                                                             | 2                      | Bastidas Bastidas, Diego Martin 	     | Done                                               |
+            | US34   | Footer Informativo                          | Mejorar la seccion del Footer                                                                             | 2                      | Escobar Palomino, Sebastian Matias 	  | Done                                               |
+            | US35   | Navegación General                          | Mejorar la navegacion implementada en el landing page para los visitantes                                 | 4                      | Bastidas Bastidas, Diego Martin 	     | Done                                               |
+
+        <br>
+        --- 
+        <br>
+
+        - **4.2.3.3. Development Evidence for Sprint Review**
+
+            <br>Esta sección se presenta la Evidencia de Desarrollo completada durante el sprint, demostrando el trabajo funcional realizado y los incrementos del producto listos para ser inspeccionados y validados en la Sprint Review.
+
+            | *Repository*                                                        | *Branch*         | *Commit Id*                               | *Commit Message*                                                                                                                   | *Committed By*    | *Committed On* |
+            |---------------------------------------------------------------------|------------------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|-------------------|----------------|
+            | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2  | feature/iam      | 04019ea05734364eb9d53988efe56d0bf7c0c327  | feat: add register 2                                                                                                               | Radv2005          | Nov 18, 2025   |
+            | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | developFlutter   | bbad28021caf01c054f27e41de7bd2da2de8f4e2  | feat: add new components with iam                                                                                                  | Radv2005          | Nov 18, 2025   |
+            | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2  | feature/chatreal | 63ae63c1ed833e209cf5028011ff9e754036d657  | feat(chat): added chat list & chat detail with mock conversation                                                                   | devfab17          | Nov 27, 2025   |
+            | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2  | feature/process  | 3a6915487714826c5678d56b32eb36b3ae5947d6  | feat(process): fixed bugs                                                                                                          | alomsoo           | Nov 27, 2025   |
+            | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2  | feature/process  | ef8e9ff624de81a9fc74c71266b166a4135e5f87  | feat: actualiza flujo Process y navegación de jobs                                                                                 | alomsoo           | Nov 27, 2025   |
+            | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | feature/alonso   | d35aca428f18350b42dd58d8984a96c6280eb596  | fixed bugs                                                                                                                         | alomsoo           | Nov 27, 2025   |
+            | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | feature/alonso   | a02872f8af2c6e9efbe3dc9b0206d367456d8c61  | feat: actualiza endpoints de jobs y estados                                                                                        | alomsoo           | Nov 27, 2025   |
+            | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2  | planes           | 159428cdbb6ecfae27764ddb9349b9b0b72d8962  | Added LevelInfoPage and clickable header in RewardPage                                                                             | devfab17          | Nov 28, 2025   |
+            | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2  | feature/process  | f20929dd37332795379902010671d2181d54d3c9  | feat: Profile edit page with save, reload and close functionality                                                                  | alomsoo           | Nov 28, 2025   |
+            | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2  | 1main            | f7a8e164639297b765f6fec748c3c5697eee779c  | Merge branch 'feature/process' of https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2 into 1main | ghostnotfound404  | Nov 28, 2025   |
+            | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2  | 1main            | 97d40355914d6c3a51a274efe2e29c08552755dd  | feat: update process feature with new job status events and clean up imports                                                       | ghostnotfound404  | Nov 28, 2025   |
+            | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | feature/alonso   | 2cb1654e4c4875f89b5f4799531d6187f6c03022  | Merge remote-tracking branch 'origin/developFlutter' into feature/alonso                                                           | alomsoo           | Nov 28, 2025   |
+            | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | feature/alonso   | 9e5f153d529c956a317749ad143abf7450200fa6  | feat: Profile update endpoint - GET/PUT profile with userId/customerId support                                                     | alomsoo           | Nov 28, 2025   |
+            | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | feature/alonso   | c5f3b64db59a976619cf583888a8f08e30ea4dd5  | Merge branch '1main' into feature/alonso                                                                                           | ghostnotfound404  | Nov 28, 2025   |
+            | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | 1main            | a3f81ef4b75fcee8d73e5c08e229d5007314309a  | Merge pull request #6 from 1ACC0238-2520-1798-G3-AlguienDijoChamba/feature/alonso                                                  | ghostnotfound404  | Nov 28, 2025   |
+            | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | 1main            | 18312043ff65dcb8f4476098c145a545aff3ee65  | fix: update code backend                                                                                                           | ghostnotfound404  | Nov 28, 2025   |
+
+        <br>
+        --- 
+        <br>
+
+        - **4.2.3.4. Testing Suite Evidence for Sprint Review**
+          <br>Durante este tercer Sprint, se presentan los archivos <i>.feature</i> correspondientes a las User Tasks desarrolladas.
+          Estos archivos fueron actualizados y gestionados dentro del repositorio oficial del equipo, evidenciando el avance funcional
+          logrado durante este incremento.<br>
+          <br>
+
+        | Repository                                                                                                                                                                     | Branch  | Commit ID  | Commit Message                                             | Commit Message Body                                                                | Committed on (Date)  |
+        |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|------------|------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------|
+        | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main    | a094e59    | docs: update report and add new .feature files for EPIC 06 | Updated documentation and incorporated new .feature files corresponding to EPIC 06 | 14/05/2025           |
+        | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main    | 9987165    | docs: update feature files from EPIC 01                    | Updated and reorganized .feature files associated with EPIC 01                     | 14/05/2025           |
+        | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main    | 60164f9    | docs: update feature files from EPIC 03                    | Improved and updated .feature files for EPIC 03                                    | 14/05/2025           |
+    
+        <br> 
+        --- 
+        <br>
+
+        - **4.2.3.5. Execution Evidence for Sprint Review**
+    
+          <br>En esta sección se presenta la Evidencia de Ejecución del sprint, la cual muestra el producto funcional o el incremento de valor desarrollado, listo para la inspección y validación durante la Sprint Review.<br><br>
+          <br>
+          <br>En esta sección se presenta la Evidencia de Ejecución del sprint, la cual muestra el producto funcional o el incremento de valor desarrollado, listo para la inspección y validación durante la Sprint Review.<br><br>
+
+          ### LANDING PAGE:
+
+          A continuación, se muestran las evidencias de la ejecución de la landing page hecha en HTML, CSS y JS usando la biblioteca Bootstrap.
+
+          #### LPS 01:
+
+          Ver Hero Section
+
+          <div align="center">
+          <img src="feature/chapter04/LandingPageSprint3/landing1.png" alt="Hero Section">
+          </div>
+
+          #### LPS 02:
+
+          Ver About the product
+
+          <div align="center">
+          <img src="feature/chapter04/LandingPageSprint3/landing2.png" alt="Hero Section">
+          </div>
+    
+          #### LPS 03:
+
+          Ver sección sobre el producto y stats
+
+          <div align="center">
+          <img src="feature/chapter04/LandingPageSprint3/landing3.png" alt="Hero Section">
+          </div>
+
+          #### LPS 04:
+
+          Ver sección de servicios y características
+
+          <div align="center">
+          <img src="feature/chapter04/LandingPageSprint3/landing4.png" alt="Hero Section">
+          </div>
+
+          #### LPS 05:
+
+          Consultar gamificacion y beneficios
+
+          <div align="center">
+          <img src="feature/chapter04/LandingPageSprint3/landing5.png" alt="Hero Section">
+          </div>
+
+          #### LPS 06:
+
+          Ver testimonios de usuarios
+
+          <div align="center">
+          <img src="feature/chapter04/LandingPageSprint3/landing6.png" alt="Hero Section">
+          </div>
+
+          #### LPS 06:
+
+          Ver About the team
+
+          <div align="center">
+          <img src="feature/chapter04/LandingPageSprint3/landing7.png" alt="Hero Section">
+          </div>
+
+          #### LPS 06:
+
+          Acceder a sección de contacto
+
+          <div align="center">
+          <img src="feature/chapter04/LandingPageSprint3/landing8.png" alt="Hero Section">
+          </div>
+
+          #### LPS 07:
+
+          Ver sección Footer con enlaces útiles
+
+          <div align="center">
+          <img src="feature/chapter04/LandingPageSprint3/landing9.png" alt="Hero Section">
+          </div>
+
+          ### MOBILE APPLICATION:
+
+          #### ANDROID VERSION:
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Android/1.png" alt="Contacts">
+           </div>
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Android/2.png" alt="Contacts">
+          </div>
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Android/3.png" alt="Contacts">
+           </div>
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Android/4.png" alt="Contacts">
+          </div>
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Android/5.png" alt="Contacts">
+          </div>
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Android/6.png" alt="Contacts">
+           </div>
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Android/7.png" alt="Contacts">
+          </div>
+
+           <div align="center">
+          <img src="feature/chapter04/Sprint3Android/8.png" alt="Contacts">
+           </div>
+
+           <div align="center">
+          <img src="feature/chapter04/Sprint3Android/9.png" alt="Contacts">
+           </div>
+
+          Link del video: <a href="https://youtu.be/M9Ot1deT3zM">Video </a>
+
+          #### Flutter Version:
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Flutter/1.png" alt="Contacts">
+          </div>
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Flutter/2.png" alt="Contacts">
+          </div>
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Flutter/3.png" alt="Contacts">
+          </div>
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Flutter/4.png" alt="Contacts">
+          </div>
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Flutter/5.png" alt="Contacts">
+          </div>
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Flutter/6.png" alt="Contacts">
+          </div>
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Flutter/7.png" alt="Contacts">
+          </div>
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Flutter/8.png" alt="Contacts">
+          </div>
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Flutter/9.png" alt="Contacts">
+          </div>
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Flutter/10.png" alt="Contacts">
+          </div>
+
+          <div align="center">
+          <img src="feature/chapter04/Sprint3Flutter/11.png" alt="Contacts">
+          </div> 
+
+          Link del video: <a href="https://youtu.be/AeKhi7SAFAI">Video </a>
+
+          <br>
+          ---
+          <br>
+
+        - **4.2.3.6. Services Documentation Evidence for Sprint Review**
+          <br> En este Sprint se logró documentar con OpenAPI los endpoints correspondientes a las funcionalidades implementadas. La documentación incluye detalles técnicos de los servicios consumidos por la aplicación móvil, como los verbos HTTP, parámetros de entrada y respuestas esperadas, permitiendo una mejor comprensión e integración de la app con la API.
+          <br>
+
+        | Endpoint                                               | Acción                                | Verbo HTTP | Parámetros o Peticiones                                                                                                       | Ejemplo de Response                                                                                     |
+        |:-------------------------------------------------------|:--------------------------------------|:-----------|:------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|
+        | `/api/v1/customer/{userId}/profile/photo`              | Subir Foto de Perfil                  | POST       | Path: `userId` (uuid) <br> Body: `(multipart/form-data: PhotoFile)`                                                           | `{"photoUrl": "string"}`                                                                                |
+        | `/api/v1/customer/{userId}/profile/complete`           | Completar Perfil                      | POST       | Path: `userId` (uuid) <br> Body: `{"preferredPaymentMethod": 0, "acceptsBookingUpdates": true, ...}`                          | (204 No Content)                                                                                        |
+        | `/api/v1/customer/{userId}/profile`                    | Obtener Perfil                        | GET        | Path: `userId` (uuid)                                                                                                         | `{"id": "uuid", "userId": "uuid", "nombres": "string", "celular": "string", "photoUrl": "string", ...}` |
+        | `/api/v1/customer/{customerId}/profile`                | Actualizar Perfil                     | PUT        | Path: `customerId` (uuid) <br> Body: `{"nombres": "string", "apellidos": "string", "celular": "string", ...}`                 | `{"id": "uuid", "userId": "uuid", "nombres": "string", "celular": "string", ...}`                       |
+        | `/api/v1/iam/delete-account`                           | Eliminar Cuenta                       | DELETE     | Ninguno                                                                                                                       | (200 OK)                                                                                                |
+        | `/api/v1/jobs/active`                                  | Listar Trabajos Activos               | GET        | Ninguno                                                                                                                       | (200 OK - Lista de trabajos)                                                                            |
+        | `/api/v1/jobs/active`                                  | Crear Trabajo Activo (Aceptar)        | POST       | Body: `{"professionalId": "uuid", "customerId": "uuid", "specialty": "string", "description": "string", "totalCost": 0, ...}` | (200 OK)                                                                                                |
+        | `/api/v1/jobs/active/customer/{clientId}`              | Obtener Trabajos Activos de Cliente   | GET        | Path: `clientId` (uuid)                                                                                                       | (200 OK - Lista de trabajos)                                                                            |
+        | `/api/v1/notifications/{id}`                           | Eliminar Notificación                 | DELETE     | Path: `id` (uuid)                                                                                                             | (200 OK)                                                                                                |
+        | `/api/v1/notifications/customers/{customerId}`         | Obtener Notificaciones de Cliente     | GET        | Path: `customerId` (uuid)                                                                                                     | (200 OK - Lista de notificaciones)                                                                      |
+        | `/api/v1/notifications/professionals/{professionalId}` | Obtener Notificaciones de Profesional | GET        | Path: `professionalId` (uuid)                                                                                                 | (200 OK - Lista de notificaciones)                                                                      |
+        | `/api/v1/notifications/{id}/mark-as-read`              | Marcar como Leída                     | PATCH      | Path: `id` (uuid)                                                                                                             | (No especificado)                                                                                       |
+        | `/api/v1/professionals/reniec/{dni}`                   | Obtener Info Reniec                   | GET        | Path: `dni` (string)                                                                                                          | (200 OK)                                                                                                |
+        | `/api/v1/professionals/upload-photo`                   | Subir Foto de Perfil                  | POST       | Body: `(multipart/form-data: file)`                                                                                           | (200 OK)                                                                                                |
+        | `/api/v1/professionals/upload-certification`           | Subir Certificación                   | POST       | Body: `(multipart/form-data: file)`                                                                                           | (200 OK)                                                                                                |
+        | `/api/v1/professionals/my-profile`                     | Obtener Perfil Propio                 | GET        | Ninguno                                                                                                                       | (200 OK - Detalle del perfil)                                                                           |
+        | `/api/v1/professionals/my-profile`                     | Actualizar Perfil Propio              | PUT        | Body: `{"email": "string", "celular": "string", "ocupacion": "string", ...}`                                                  | (200 OK)                                                                                                |
+        | `/api/v1/professionals/{professionalId}`               | Obtener Perfil por ID                 | GET        | Path: `professionalId` (uuid)                                                                                                 | (200 OK - Detalle del perfil)                                                                           |
+
+        <br>
+        ---
+        <br>
+
+        - **4.2.3.7. Software Deployment Evidence for Sprint Review**
+          <br>En esta sección se presenta la Evidencia de Despliegue del Software, verificando que el incremento desarrollado durante el sprint ha sido implementado y se encuentra accesible en el entorno de destino para su revisión final.<br><br>
+          <br>
+
+          Durante este Sprint se realizó el despliegue de la base de datos remota utilizando **Azure Database for MySQL – Flexible Server**, como parte de la infraestructura necesaria para soportar el Web Service y las operaciones de la aplicación móvil **AlguienDijoChamba**.
+          A continuación se detalla la evidencia del proceso realizado en Azure Portal:
+
+          ---
+
+          ### **1. Selección del tipo de servidor y suscripción**
+      
+          Se inició la configuración seleccionando la opción *Servidor Flexible* dentro de Azure Database for MySQL, asignando la suscripción **Azure for Students** y creando un grupo de recursos exclusivo para la base de datos del proyecto.
+
+          <br><br> <img src="./feature/chapter04/deployback_1.jpeg">
+      
+          ---
+      
+          ### **2. Configuración del servidor MySQL**
+      
+          En esta etapa se definieron parámetros clave para el servidor:
+      
+          * Nombre del servidor: **chamba-db-production**
+          * Región: **Australia Central 2**
+          * Versión: **MySQL 8.0**
+          * Tipo de carga: **Desarrollo/Pruebas**
+          * 1 vCore, 2 GB RAM y 20 GB de almacenamiento
+      
+          Esta configuración permite un equilibrio óptimo entre rendimiento y costo para el entorno de pruebas del proyecto.
+      
+          <br><br> <img src="./feature/chapter04/deployback_2.jpeg">
+      
+          ---
+      
+          ### **3. Configuración del método de autenticación**
+      
+          Se estableció la autenticación mediante **MySQL Authentication**, creando el usuario administrador *chamba* junto con su respectiva contraseña para el acceso seguro al servidor.
+      
+          <br><br> <img src="./feature/chapter04/deployback_3.jpeg">
+      
+          ---
+      
+          ### **4. Revisión final e inicio de implementación**
+      
+          Una vez confirmados los parámetros del servidor, se procedió a validar toda la configuración e iniciar el proceso de implementación del servidor MySQL en la nube.
+      
+          <br><br> <img src="./feature/chapter04/deployback_4.jpeg">
+      
+          ---
+      
+          ### **5. Implementación y estado del recurso**
+      
+          Azure mostró el progreso de la implementación, confirmando la creación exitosa del servidor y su disponibilidad dentro del grupo de recursos del proyecto.
+      
+          <br><br> <img src="./feature/chapter04/deployback_5.jpeg">
+      
+          ---
+      
+          ### **6. Base de datos remota operativa**
+      
+          Finalmente, desde el panel de Azure Portal se pudo visualizar la información esencial del servidor, incluyendo:
+      
+          * Endpoint de conexión
+          * Estado: **Ready**
+          * Zona de disponibilidad
+          * Configuración del hardware asignado
+          * Fecha de creación
+          * Opciones de actualización y monitoreo
+      
+          Esto demuestra que la base de datos remota quedó desplegada correctamente y lista para ser consumida por el backend del proyecto.
+
+        <br>
+        ---
+        <br>
+
+        - **4.2.1.8. Team Collaboration Insights during Sprint**
           <br>En esta sección se exponen las Reflexiones sobre la Colaboración del Equipo durante el sprint, detallando las dinámicas de trabajo y las lecciones clave identificadas para la mejora continua del proceso.<br><br>
+          <br>
 
-      | *Alumno*                            | *Actividad*                                |
-      |-------------------------------------|--------------------------------------------|
-      | Bastidas Bastidas, Diego Martin     | Landing Page Deployment, Backend, Frontend Android           |
-      | Belahonia Miranda, Fabrisio         | Frontend Flutter , Backend          |
-      | Dominguez Vargas, Rafael Alexander  |  Frontend Flutter , Backend |
-      | Escobar Palomino, Sebastian Matias  | Frontend Android     , Backend                |
-      | Muñiz Huayanca, Percy Alonso        | Frontend Flutter  , Backend                                   |
+          | *Alumno*                           | *Actividad*                               |
+          |------------------------------------|-------------------------------------------|
+          | Bastidas Bastidas, Diego Martin    | , Backend, Frontend Android               |
+          | Belahonia Miranda, Fabrisio        | Frontend Flutter , Backend                |
+          | Dominguez Vargas, Rafael Alexander | Frontend Flutter , Backend, Landing Page  |
+          | Escobar Palomino, Sebastian Matias | Frontend Android     , Backend            |
+          | Muñiz Huayanca, Percy Alonso       | Frontend Flutter  , Backend               |
 
-      ## Report:
+          ## Report:
 
-      <div align="center">
-          <img src="https://i.imgur.com/JnLEci8.png">
-          </div>
+          <div align="center">
+              <img src="./feature/chapter04/InsightSprint3/1.png">
+              </div>
 
-      <div align="center">
-          <img src="https://i.imgur.com/cabd8vi.png">
-          </div>
+          <div align="center">
+              <img src="./feature/chapter04/InsightSprint3/2.png">
+              </div>
 
-      <div align="center">
-          <img src="https://i.imgur.com/oYhcXFF.png">
-          </div>
+          <div align="center">
+              <img src="./feature/chapter04/InsightSprint3/3.png">
+              </div>
 
-      ## Landing Page:
+          ## Landing Page:
 
-      <div align="center">
-          <img src="https://i.imgur.com/3Wf3qsl.png">
-          </div>
+          <div align="center">
+              <img src="./feature/chapter04/InsightSprint3/4.png">
+              </div>
 
-      <div align="center">
-          <img src="https://i.imgur.com/tXwNX4x.png">
-          </div>
+          <div align="center">
+              <img src="./feature/chapter04/InsightSprint3/5.png">
+              </div>
 
-      <div align="center">
-          <img src="https://i.imgur.com/sVE6dqN.png">
-          </div>
+          <div align="center">
+              <img src="./feature/chapter04/InsightSprint3/6.png">
+              </div>
 
-      ## Mobile Application:
+          ## Mobile Application Android:
 
-      <div align="center">
-          <img src="https://i.imgur.com/ePu6gMc.png">
-          </div>
+          <div align="center">
+              <img src="./feature/chapter04/InsightSprint3/7.png">
+              </div>
 
-      <div align="center">
-          <img src="https://i.imgur.com/bHigClA.png">
-          </div>
+          <div align="center">
+              <img src="./feature/chapter04/InsightSprint3/8.png">
+              </div>
 
-      <div align="center">
-          <img src="https://i.imgur.com/BgP5Wvp.png">
-          </div>
+          <div align="center">
+              <img src="./feature/chapter04/InsightSprint3/9.png">
+              </div>
 
-    <br>
-    --- 
-    <br>
+           ## Mobile Application Flutter:
 
-  - **4.2.3. Sprint 3** <br>
+          <div align="center">
+              <img src="./feature/chapter04/InsightSprint3/10.png">
+              </div>
 
-    La siguiente sección detalla los resultados del Sprint #3, correspondiente a la entrega inicial del proyecto. Se presentan los avances organizativos, la distribución de trabajo y los productos desarrollados: la landing page operativa, el progreso del Web Service y la versión preliminar de la Mobile Application. <br>
-    <br>
-    - **4.2.3.1. Sprint Planning 3**<br>
-    A continuación, se detalla la Planificación del Sprint 3, donde se definieron los objetivos iniciales, se seleccionaron las tareas prioritarias del backlog y se asignaron las responsabilidades del equipo para el primer ciclo de desarrollo.    <br>
-    <table>
-            <tr>
-              <th> Sprint # </th>
-              <th> Sprint 3 </th>
-            </tr>
-            <tr>
-              <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
-            </tr>
-            <tr>
-              <td style="font-weight: bold;"> Date </td>
-              <td> 22/11/2025 </td>
-            </tr>
-            <tr>
-              <td style="font-weight: bold;"> Time </td>
-              <td> 00:05 horas (GMT-5) </td>
-            </tr>
-            <tr>
-              <td style="font-weight: bold;"> Location </td>
-              <td> Virtual (Discord) </td>
-            </tr>
-            <tr>
-              <td style="font-weight: bold;"> Prepared By </td>
-              <td> Bastidas Bastidas, Diego Martin </td>
-            </tr>
-            <tr>
-              <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
-              <td>
-                Bastidas Bastidas, Diego Martin<br>
-                Belahonia Miranda, Fabrisio<br>
-                Dominguez Vargas, Rafael Alexander<br>
-                Escobar Palomino, Sebastian Matias<br>
-                Muñiz Huayanca, Percy Alonso	
-              </td>
-            </tr>
-            <tr>
-              <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
-              <td>Desarrollo completo del frontEnd y la conexion con el aplicativo de Android </td>
-            </tr>
-            <tr>
-              <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
-              <td> Logramos alcanzar el objetivo de publicar nuestro backend terminado y la app de Android Studio al completo. </td>
-            </tr>
-            <tr>
-              <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
-            </tr>
-            <tr>
-              <td style="font-weight: bold;"> Sprint 2 Goal </td>
-              <td>Nuestro objetivo para este sprint es desarrollar de manera completa la aplicación en Flutter, asegurando que todas sus vistas, funcionalidades y flujos principales estén implementados y funcionando correctamente. En paralelo, buscamos consolidar la conexión entre esta nueva app y el aplicativo previamente construido en Android Studio, garantizando una integración estable que permita a los usuarios interactuar con ambos entornos sin inconsistencias. Este enfoque nos permitirá avanzar hacia un ecosistema móvil unificado, en el que la experiencia sea fluida, coherente y funcional en ambas plataformas. La validación del sprint se realizará verificando que la aplicación en Flutter opere de forma íntegra y que la comunicación con la app de Android Studio se mantenga estable y confiable durante las pruebas.</td>
-            </tr>
-            <tr>
-              <td style="font-weight: bold;"> Sprint 2 Velocity </td>
-              <td>25</td>
-            </tr>
-            <tr>
-              <td style="font-weight: bold;"> Sum of Story Points </td>
-              <td>  25</td>
-            </tr>
-    </table> 
+          <div align="center">
+              <img src="./feature/chapter04/InsightSprint3/11.png">
+              </div>
 
-    <br>
-    --- 
-    <br>
+          <div align="center">
+              <img src="./feature/chapter04/InsightSprint3/12.png">
+              </div>
 
-    - **4.2.3.2. Sprint Backlog 3** <br>
-      En el tercer sprint, el equipo enfocó su trabajo en terminar de crear la aplicacion en flutter, para que funcional como atractiva, asignando las tareas en el tablero de Sprint según las habilidades de cada miembro.
-
-        | **ID** | Title                                       | **Description**                                                                                           | **Estimation (Hours)** | **Assigned To**                       | **Status (To-do / In Process / To Review / Done)** |
-        |--------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------|------------------------|---------------------------------------|----------------------------------------------------|
-        | US01   | Registro de Nuevo Usuario                   | Implementación de la segunda seccion de registro                                                          | 3                      | Dominguez Vargas, Rafael Alexander    | Done                                               |
-        | US04   | Editar Perfil de Usuario                    | Implemntar la opcion de editar perfil en la seccion perfil                                                | 2                      | Muñiz Huayanca, Percy Alonso	         | Done                                               |
-        | US05   | Ver Perfil Detallado del Profesional        | Desarrollar la seccion de ver el perfil del tecnico                                                       | 3                      | Muñiz Huayanca, Percy Alonso 	        | Done                                               |
-        | US08   | Solicitar Servicio al Profesional           | Implementacion de la funcionalidad de contratar un profesional y solicitar sus servicios para el cliente  | 5                      | Muñiz Huayanca, Percy Alonso          | Done                                               |
-        | US09   | Gestion de tecnico                          | Desarrollo la seccion de gestion de servicios para el tecnico                                             | 2                      | Bastidas Bastidas, Diego Martin       | Done                                               |
-        | US12   | Gestionar Solicitudes Enviadas              | Implementar la seccion de gestion para los clientes sobre las solicitudes de servicio                     | 2                      | Muñiz Huayanca, Percy Alonso  	       | Done                                               |
-        | US13   | Confirmacion del Servicio                   | Desarrollar la logica para que el tecnico pueda confirmar que realiza un servicio y pueda recibir su paga | 3                      | Escobar Palomino, Sebastian Matias    | Done                                               |
-        | US22   | Cancelar Solicitud de Servicio              | Implementar la logica para que el tecnico pueda aceptar o rechazar solicitudes mandadas por los clientes  | 3                      | Escobar Palomino, Sebastian Matias  	 | Done                                               |
-        | US23   | Notificación de Nueva Solicitud de Servicio | Desarrollar la seccion de notificaciones para el tecnico                                                  | 1                      | Bastidas Bastidas, Diego Martin 	     | Done                                               |
-        | US24   | Abrir Reclamo o Ticket                      | Implementar la logica para que el cliente pueda reclamar si el servicio no fue satisfactorio              | 2                      | Muñiz Huayanca, Percy Alonso  	       | Done                                               |
-        | US25   | Calificar a un Profesional                  | Desarrollar la seccion para que un cliente pueda calificar a un profesional despues del servicio          | 2                      | Muñiz Huayanca, Percy Alonso  	       | Done                                               |
-        | US26   | Sección de Inicio                           | Mejorar la seccion de Inicio en el Landing Page                                                           | 1                      | Bastidas Bastidas, Diego Martin  	    | Done                                               |
-        | US27   | Sección de Servicios                        | Mejorar la seccion de Servicios en el Landing Page                                                        | 1                      | Bastidas Bastidas, Diego Martin  	    | Done                                               |
-        | US29   | Seccion de Niveles de Usuario               | Mejorar la seccion de Gamificacion en el Landing Page                                                     | 2                      | Escobar Palomino, Sebastian Matias 	  | Done                                               |
-        | US30   | Seccion de Testimonios                      | Mejorar la seccion de Testimonios en el Landing Page                                                      | 2                      | Escobar Palomino, Sebastian Matias 	  | Done                                               |
-        | US31   | Sección de Contacto                         | Mejorar la seccion de Contacto visualmente                                                                | 1                      | Bastidas Bastidas, Diego Martin 	     | Done                                               |
-        | US32   | Formulario de Contacto                      | Mejorar la seccion de Contacto para que el usuario pueda comunicarse con The Draws                        | 3                      | Bastidas Bastidas, Diego Martin 	     | Done                                               |
-        | US33   | Botón de Descarga de la App                 | Implementar el button de Descargar aplicacion                                                             | 2                      | Bastidas Bastidas, Diego Martin 	     | Done                                               |
-        | US34   | Footer Informativo                          | Mejorar la seccion del Footer                                                                             | 2                      | Escobar Palomino, Sebastian Matias 	  | Done                                               |
-        | US35   | Navegación General                          | Mejorar la navegacion implementada en el landing page para los visitantes                                 | 4                      | Bastidas Bastidas, Diego Martin 	     | Done                                               |
-
-    <br>
-    --- 
-    <br>
-
-    - **4.2.3.3. Development Evidence for Sprint Review**
-
-        <br>Esta sección se presenta la Evidencia de Desarrollo completada durante el sprint, demostrando el trabajo funcional realizado y los incrementos del producto listos para ser inspeccionados y validados en la Sprint Review.
-
-        | *Repository*                                                        | *Branch*         | *Commit Id*                               | *Commit Message*                                                                                                                   | *Committed By*    | *Committed On* |
-        |---------------------------------------------------------------------|------------------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|-------------------|----------------|
-        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2  | feature/iam      | 04019ea05734364eb9d53988efe56d0bf7c0c327  | feat: add register 2                                                                                                               | Radv2005          | Nov 18, 2025   |
-        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | developFlutter   | bbad28021caf01c054f27e41de7bd2da2de8f4e2  | feat: add new components with iam                                                                                                  | Radv2005          | Nov 18, 2025   |
-        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2  | feature/chatreal | 63ae63c1ed833e209cf5028011ff9e754036d657  | feat(chat): added chat list & chat detail with mock conversation                                                                   | devfab17          | Nov 27, 2025   |
-        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2  | feature/process  | 3a6915487714826c5678d56b32eb36b3ae5947d6  | feat(process): fixed bugs                                                                                                          | alomsoo           | Nov 27, 2025   |
-        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2  | feature/process  | ef8e9ff624de81a9fc74c71266b166a4135e5f87  | feat: actualiza flujo Process y navegación de jobs                                                                                 | alomsoo           | Nov 27, 2025   |
-        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | feature/alonso   | d35aca428f18350b42dd58d8984a96c6280eb596  | fixed bugs                                                                                                                         | alomsoo           | Nov 27, 2025   |
-        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | feature/alonso   | a02872f8af2c6e9efbe3dc9b0206d367456d8c61  | feat: actualiza endpoints de jobs y estados                                                                                        | alomsoo           | Nov 27, 2025   |
-        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2  | planes           | 159428cdbb6ecfae27764ddb9349b9b0b72d8962  | Added LevelInfoPage and clickable header in RewardPage                                                                             | devfab17          | Nov 28, 2025   |
-        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2  | feature/process  | f20929dd37332795379902010671d2181d54d3c9  | feat: Profile edit page with save, reload and close functionality                                                                  | alomsoo           | Nov 28, 2025   |
-        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2  | 1main            | f7a8e164639297b765f6fec748c3c5697eee779c  | Merge branch 'feature/process' of https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2 into 1main | ghostnotfound404  | Nov 28, 2025   |
-        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Front-2  | 1main            | 97d40355914d6c3a51a274efe2e29c08552755dd  | feat: update process feature with new job status events and clean up imports                                                       | ghostnotfound404  | Nov 28, 2025   |
-        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | feature/alonso   | 2cb1654e4c4875f89b5f4799531d6187f6c03022  | Merge remote-tracking branch 'origin/developFlutter' into feature/alonso                                                           | alomsoo           | Nov 28, 2025   |
-        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | feature/alonso   | 9e5f153d529c956a317749ad143abf7450200fa6  | feat: Profile update endpoint - GET/PUT profile with userId/customerId support                                                     | alomsoo           | Nov 28, 2025   |
-        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | feature/alonso   | c5f3b64db59a976619cf583888a8f08e30ea4dd5  | Merge branch '1main' into feature/alonso                                                                                           | ghostnotfound404  | Nov 28, 2025   |
-        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | 1main            | a3f81ef4b75fcee8d73e5c08e229d5007314309a  | Merge pull request #6 from 1ACC0238-2520-1798-G3-AlguienDijoChamba/feature/alonso                                                  | ghostnotfound404  | Nov 28, 2025   |
-        | 1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba--Backend  | 1main            | 18312043ff65dcb8f4476098c145a545aff3ee65  | fix: update code backend                                                                                                           | ghostnotfound404  | Nov 28, 2025   |
-
-    <br>
-    --- 
-    <br>
-
-    - **4.2.3.4. Testing Suite Evidence for Sprint Review**
-      <br>Durante este tercer Sprint, se presentan los archivos <i>.feature</i> correspondientes a las User Tasks desarrolladas.
-      Estos archivos fueron actualizados y gestionados dentro del repositorio oficial del equipo, evidenciando el avance funcional
-      logrado durante este incremento.<br>
-      <br>
-
-    | Repository                                                                                                                                                                     | Branch  | Commit ID  | Commit Message                                             | Commit Message Body                                                                | Committed on (Date)  |
-    |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|------------|------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------|
-    | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main    | a094e59    | docs: update report and add new .feature files for EPIC 06 | Updated documentation and incorporated new .feature files corresponding to EPIC 06 | 14/05/2025           |
-    | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main    | 9987165    | docs: update feature files from EPIC 01                    | Updated and reorganized .feature files associated with EPIC 01                     | 14/05/2025           |
-    | [https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features](https://github.com/1ACC0238-2520-1798-G3-AlguienDijoChamba/AlguienDijoChamba-Features) | main    | 60164f9    | docs: update feature files from EPIC 03                    | Improved and updated .feature files for EPIC 03                                    | 14/05/2025           |
-    
-    <br> 
-    --- 
-    <br>
-
-    - **4.2.3.5. Execution Evidence for Sprint Review**
-    
-      <br>En esta sección se presenta la Evidencia de Ejecución del sprint, la cual muestra el producto funcional o el incremento de valor desarrollado, listo para la inspección y validación durante la Sprint Review.<br><br>
-      <br>
-      <br>En esta sección se presenta la Evidencia de Ejecución del sprint, la cual muestra el producto funcional o el incremento de valor desarrollado, listo para la inspección y validación durante la Sprint Review.<br><br>
-
-      ### LANDING PAGE:
-
-      A continuación, se muestran las evidencias de la ejecución de la landing page hecha en HTML, CSS y JS usando la biblioteca Bootstrap.
-
-      #### LPS 01:
-
-      Ver Hero Section
-
-      <div align="center">
-      <img src="feature/chapter04/LandingPageSprint3/landing1.png" alt="Hero Section">
-      </div>
-
-      #### LPS 02:
-
-      Ver About the product
-
-      <div align="center">
-      <img src="feature/chapter04/LandingPageSprint3/landing2.png" alt="Hero Section">
-      </div>
-    
-      #### LPS 03:
-
-      Ver sección sobre el producto y stats
-
-      <div align="center">
-      <img src="feature/chapter04/LandingPageSprint3/landing3.png" alt="Hero Section">
-      </div>
-
-      #### LPS 04:
-
-      Ver sección de servicios y características
-
-      <div align="center">
-      <img src="feature/chapter04/LandingPageSprint3/landing4.png" alt="Hero Section">
-      </div>
-
-      #### LPS 05:
-
-      Consultar gamificacion y beneficios
-
-      <div align="center">
-      <img src="feature/chapter04/LandingPageSprint3/landing5.png" alt="Hero Section">
-      </div>
-
-      #### LPS 06:
-
-      Ver testimonios de usuarios
-
-      <div align="center">
-      <img src="feature/chapter04/LandingPageSprint3/landing6.png" alt="Hero Section">
-      </div>
-
-      #### LPS 06:
-
-      Ver About the team
-
-      <div align="center">
-      <img src="feature/chapter04/LandingPageSprint3/landing7.png" alt="Hero Section">
-      </div>
-
-      #### LPS 06:
-
-      Acceder a sección de contacto
-
-      <div align="center">
-      <img src="feature/chapter04/LandingPageSprint3/landing8.png" alt="Hero Section">
-      </div>
-
-      #### LPS 07:
-
-      Ver sección Footer con enlaces útiles
-
-      <div align="center">
-      <img src="feature/chapter04/LandingPageSprint3/landing9.png" alt="Hero Section">
-      </div>
-
-      ### MOBILE APPLICATION:
-
-      #### ANDROID VERSION:
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Android/1.png" alt="Contacts">
-       </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Android/2.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Android/3.png" alt="Contacts">
-       </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Android/4.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Android/5.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Android/6.png" alt="Contacts">
-       </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Android/7.png" alt="Contacts">
-      </div>
-
-       <div align="center">
-      <img src="feature/chapter04/Sprint3Android/8.png" alt="Contacts">
-       </div>
-
-       <div align="center">
-      <img src="feature/chapter04/Sprint3Android/9.png" alt="Contacts">
-       </div>
-
-      Link del video: <a href="https://youtu.be/M9Ot1deT3zM">Video </a>
-
-      #### Flutter Version:
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Flutter/1.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Flutter/2.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Flutter/3.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Flutter/4.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Flutter/5.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Flutter/6.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Flutter/7.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Flutter/8.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Flutter/9.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Flutter/10.png" alt="Contacts">
-      </div>
-
-      <div align="center">
-      <img src="feature/chapter04/Sprint3Flutter/11.png" alt="Contacts">
-      </div> 
-
-      Link del video: <a href="https://youtu.be/AeKhi7SAFAI">Video </a>
-      
-      <br> <br>
-  
-    - **4.2.3.6. Services Documentation Evidence for Sprint Review**
-      <br> En este Sprint se logró documentar con OpenAPI los endpoints correspondientes a las funcionalidades implementadas. La documentación incluye detalles técnicos de los servicios consumidos por la aplicación móvil, como los verbos HTTP, parámetros de entrada y respuestas esperadas, permitiendo una mejor comprensión e integración de la app con la API.
-      <br>
-
-    | Endpoint                                               | Acción                                | Verbo HTTP | Parámetros o Peticiones                                                                                                       | Ejemplo de Response                                                                                     |
-    |:-------------------------------------------------------|:--------------------------------------|:-----------|:------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|
-    | `/api/v1/customer/{userId}/profile/photo`              | Subir Foto de Perfil                  | POST       | Path: `userId` (uuid) <br> Body: `(multipart/form-data: PhotoFile)`                                                           | `{"photoUrl": "string"}`                                                                                |
-    | `/api/v1/customer/{userId}/profile/complete`           | Completar Perfil                      | POST       | Path: `userId` (uuid) <br> Body: `{"preferredPaymentMethod": 0, "acceptsBookingUpdates": true, ...}`                          | (204 No Content)                                                                                        |
-    | `/api/v1/customer/{userId}/profile`                    | Obtener Perfil                        | GET        | Path: `userId` (uuid)                                                                                                         | `{"id": "uuid", "userId": "uuid", "nombres": "string", "celular": "string", "photoUrl": "string", ...}` |
-    | `/api/v1/customer/{customerId}/profile`                | Actualizar Perfil                     | PUT        | Path: `customerId` (uuid) <br> Body: `{"nombres": "string", "apellidos": "string", "celular": "string", ...}`                 | `{"id": "uuid", "userId": "uuid", "nombres": "string", "celular": "string", ...}`                       |
-    | `/api/v1/iam/delete-account`                           | Eliminar Cuenta                       | DELETE     | Ninguno                                                                                                                       | (200 OK)                                                                                                |
-    | `/api/v1/jobs/active`                                  | Listar Trabajos Activos               | GET        | Ninguno                                                                                                                       | (200 OK - Lista de trabajos)                                                                            |
-    | `/api/v1/jobs/active`                                  | Crear Trabajo Activo (Aceptar)        | POST       | Body: `{"professionalId": "uuid", "customerId": "uuid", "specialty": "string", "description": "string", "totalCost": 0, ...}` | (200 OK)                                                                                                |
-    | `/api/v1/jobs/active/customer/{clientId}`              | Obtener Trabajos Activos de Cliente   | GET        | Path: `clientId` (uuid)                                                                                                       | (200 OK - Lista de trabajos)                                                                            |
-    | `/api/v1/notifications/{id}`                           | Eliminar Notificación                 | DELETE     | Path: `id` (uuid)                                                                                                             | (200 OK)                                                                                                |
-    | `/api/v1/notifications/customers/{customerId}`         | Obtener Notificaciones de Cliente     | GET        | Path: `customerId` (uuid)                                                                                                     | (200 OK - Lista de notificaciones)                                                                      |
-    | `/api/v1/notifications/professionals/{professionalId}` | Obtener Notificaciones de Profesional | GET        | Path: `professionalId` (uuid)                                                                                                 | (200 OK - Lista de notificaciones)                                                                      |
-    | `/api/v1/notifications/{id}/mark-as-read`              | Marcar como Leída                     | PATCH      | Path: `id` (uuid)                                                                                                             | (No especificado)                                                                                       |
-    | `/api/v1/professionals/reniec/{dni}`                   | Obtener Info Reniec                   | GET        | Path: `dni` (string)                                                                                                          | (200 OK)                                                                                                |
-    | `/api/v1/professionals/upload-photo`                   | Subir Foto de Perfil                  | POST       | Body: `(multipart/form-data: file)`                                                                                           | (200 OK)                                                                                                |
-    | `/api/v1/professionals/upload-certification`           | Subir Certificación                   | POST       | Body: `(multipart/form-data: file)`                                                                                           | (200 OK)                                                                                                |
-    | `/api/v1/professionals/my-profile`                     | Obtener Perfil Propio                 | GET        | Ninguno                                                                                                                       | (200 OK - Detalle del perfil)                                                                           |
-    | `/api/v1/professionals/my-profile`                     | Actualizar Perfil Propio              | PUT        | Body: `{"email": "string", "celular": "string", "ocupacion": "string", ...}`                                                  | (200 OK)                                                                                                |
-    | `/api/v1/professionals/{professionalId}`               | Obtener Perfil por ID                 | GET        | Path: `professionalId` (uuid)                                                                                                 | (200 OK - Detalle del perfil)                                                                           |
-
-    - **4.2.3.7. Software Deployment Evidence for Sprint Review**
-      <br>En esta sección se presenta la Evidencia de Despliegue del Software, verificando que el incremento desarrollado durante el sprint ha sido implementado y se encuentra accesible en el entorno de destino para su revisión final.<br><br>
-      <br>
-
-      Durante este Sprint se realizó el despliegue de la base de datos remota utilizando **Azure Database for MySQL – Flexible Server**, como parte de la infraestructura necesaria para soportar el Web Service y las operaciones de la aplicación móvil **AlguienDijoChamba**.
-      A continuación se detalla la evidencia del proceso realizado en Azure Portal:
-
-      ---
-
-      ### **1. Selección del tipo de servidor y suscripción**
-      
-      Se inició la configuración seleccionando la opción *Servidor Flexible* dentro de Azure Database for MySQL, asignando la suscripción **Azure for Students** y creando un grupo de recursos exclusivo para la base de datos del proyecto.
-
-      <br><br> <img src="./feature/chapter04/deployback_1.jpeg">
-      
-      ---
-      
-      ### **2. Configuración del servidor MySQL**
-      
-      En esta etapa se definieron parámetros clave para el servidor:
-      
-      * Nombre del servidor: **chamba-db-production**
-      * Región: **Australia Central 2**
-      * Versión: **MySQL 8.0**
-      * Tipo de carga: **Desarrollo/Pruebas**
-      * 1 vCore, 2 GB RAM y 20 GB de almacenamiento
-      
-      Esta configuración permite un equilibrio óptimo entre rendimiento y costo para el entorno de pruebas del proyecto.
-      
-      <br><br> <img src="./feature/chapter04/deployback_2.jpeg">
-      
-      ---
-      
-      ### **3. Configuración del método de autenticación**
-      
-      Se estableció la autenticación mediante **MySQL Authentication**, creando el usuario administrador *chamba* junto con su respectiva contraseña para el acceso seguro al servidor.
-      
-      <br><br> <img src="./feature/chapter04/deployback_3.jpeg">
-      
-      ---
-      
-      ### **4. Revisión final e inicio de implementación**
-      
-      Una vez confirmados los parámetros del servidor, se procedió a validar toda la configuración e iniciar el proceso de implementación del servidor MySQL en la nube.
-      
-      <br><br> <img src="./feature/chapter04/deployback_4.jpeg">
-      
-      ---
-      
-      ### **5. Implementación y estado del recurso**
-      
-      Azure mostró el progreso de la implementación, confirmando la creación exitosa del servidor y su disponibilidad dentro del grupo de recursos del proyecto.
-      
-      <br><br> <img src="./feature/chapter04/deployback_5.jpeg">
-      
-      ---
-      
-      ### **6. Base de datos remota operativa**
-      
-      Finalmente, desde el panel de Azure Portal se pudo visualizar la información esencial del servidor, incluyendo:
-      
-      * Endpoint de conexión
-      * Estado: **Ready**
-      * Zona de disponibilidad
-      * Configuración del hardware asignado
-      * Fecha de creación
-      * Opciones de actualización y monitoreo
-      
-      Esto demuestra que la base de datos remota quedó desplegada correctamente y lista para ser consumida por el backend del proyecto.
-
-    - **4.2.1.8. Team Collaboration Insights during Sprint**
-      <br>En esta sección se exponen las Reflexiones sobre la Colaboración del Equipo durante el sprint, detallando las dinámicas de trabajo y las lecciones clave identificadas para la mejora continua del proceso.<br><br>
-      <br>
-
-      | *Alumno*                           | *Actividad*                               |
-      |------------------------------------|-------------------------------------------|
-      | Bastidas Bastidas, Diego Martin    | , Backend, Frontend Android               |
-      | Belahonia Miranda, Fabrisio        | Frontend Flutter , Backend                |
-      | Dominguez Vargas, Rafael Alexander | Frontend Flutter , Backend, Landing Page  |
-      | Escobar Palomino, Sebastian Matias | Frontend Android     , Backend            |
-      | Muñiz Huayanca, Percy Alonso       | Frontend Flutter  , Backend               |
-
-      ## Report:
-
-      <div align="center">
-          <img src="./feature/chapter04/InsightSprint3/1.png">
-          </div>
-
-      <div align="center">
-          <img src="./feature/chapter04/InsightSprint3/2.png">
-          </div>
-
-      <div align="center">
-          <img src="./feature/chapter04/InsightSprint3/3.png">
-          </div>
-
-      ## Landing Page:
-
-      <div align="center">
-          <img src="./feature/chapter04/InsightSprint3/4.png">
-          </div>
-
-      <div align="center">
-          <img src="./feature/chapter04/InsightSprint3/5.png">
-          </div>
-
-      <div align="center">
-          <img src="./feature/chapter04/InsightSprint3/6.png">
-          </div>
-
-      ## Mobile Application Android:
-
-      <div align="center">
-          <img src="./feature/chapter04/InsightSprint3/7.png">
-          </div>
-
-      <div align="center">
-          <img src="./feature/chapter04/InsightSprint3/8.png">
-          </div>
-
-      <div align="center">
-          <img src="./feature/chapter04/InsightSprint3/9.png">
-          </div>
-
-       ## Mobile Application Flutter:
-
-      <div align="center">
-          <img src="./feature/chapter04/InsightSprint3/10.png">
-          </div>
-
-      <div align="center">
-          <img src="./feature/chapter04/InsightSprint3/11.png">
-          </div>
-
-      <div align="center">
-          <img src="./feature/chapter04/InsightSprint3/12.png">
-          </div>
-
+        <br>
+        ---
+        <br>
 
 - **4.3. Validation Interviews**
 
@@ -1777,6 +1790,10 @@
 
     10. **¿Hay algo que mejorarías para que sea más fácil de usar?**  
         Podría simplificarse aún más algunos pasos y hacer más visibles ciertas opciones.
+
+    <br>
+    ---
+    <br>
 
     - **4.3.2. Registro de Entrevistas**
       <br> En esta sección se recopilan las entrevistas realizadas a los dos segmentos objetivo: Profesionales Técnicos y Clientes. Se registran las respuestas, observaciones y comentarios clave de cada participante, sirviendo como base para el análisis de necesidades y la posterior definición de requisitos del sistema.<br><br>
@@ -1861,6 +1878,10 @@
 
       ..
 
+        <br>
+        ---
+        <br>
+    
     - **4.3.3. Evaluaciones según heurísticas**
 
       #### Evaluación Heurística: AlguienDijoChamba
@@ -1933,6 +1954,7 @@
         
         <img src="feature/chapter04/heuristica_4.png">
         ---
+
 
 
 ## **Conclusiones**
