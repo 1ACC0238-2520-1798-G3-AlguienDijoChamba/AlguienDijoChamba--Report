@@ -3,13 +3,17 @@
 
 ---
 
-<p align="center">
-    <strong>Universidad Peruana de Ciencias Aplicadas (UPC)</strong><br>    
+<p align="center">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>Carrera de Ingeniería de Software - Ciclo VI</strong><br><br>
-    <strong>Aplicaciones para Dispositivos Móviles - 1798</strong><br>
-    <br><strong>Profesor: Jorge Luis Mayta Guillermo</strong><br>
+    <strong>Universidad Peruana de Ciencias Aplicadas (UPC)</strong><br>  
+    <strong>Ingeniería de Software</strong><br>
+    <strong>Periodo: 2025-02</strong><br>
+    <p align="center">
+    <br><strong>1ACC0238 | Aplicaciones para Dispositivos Móviles</strong>
+    <br><strong>NRC: 1798</strong><br>
+    <br><strong>Docente: Jorge Luis Mayta Guillermo</strong><br>
     <br><strong><b>INFORME DEL TRABAJO FINAL</strong></b><br>
+    </p>
 </p>
 
 <p align="center">
@@ -50,10 +54,10 @@
     </table>
     </div>
 </body>
-
 <p align="center">
-<br><strong>2025-02</strong></p>
-<br>
+<br><strong>Diciembre 2025</strong></p>
+<br><br><br><br><br>
+
 
 ---
 
@@ -64,6 +68,7 @@
 | TB1 | 17/09/2025 | Diego Bastidas, Fabrisio Belahonia, Rafael Dominguez, Sebastian Escobar, Alonso Muñiz | Redacción de los Capítulos I: Presentación, II: Requirements Development and Software Solution Design |
 | TP1 | 7/10/2025 | Diego Bastidas, Fabrisio Belahonia, Rafael Dominguez, Sebastian Escobar, Alonso Muñiz | Corrección de los Capítulos I: Presentación, II: Requirements Development and Software Solution Design. Redacción del Capítulo III: Solution UI/UX Design y Capítulo IV: Product Implementation & Validation|
 | TB2 | 13/11/2025 | Diego Bastidas, Fabrisio Belahonia, Rafael Dominguez, Sebastian Escobar, Alonso Muñiz | Redacción de Capítulos IV; backend finalizado, integración con Android, consumo de APIs, testing de endpoints y validación del flujo end-to-end; avance del 50% en el desarrollo del módulo Flutter.|
+| TF | 04/12/2025 | Diego Bastidas, Fabrisio Belahonia, Rafael Dominguez, Sebastian Escobar, Alonso Muñiz | Redacción de Capítulos IV; backend finalizado, integración con Android, consumo de APIs, testing de endpoints y validación del flujo end-to-end; desarrollo de Flutter finalizado.|
 
 
 # Project Report Collaboration Insights
@@ -91,19 +96,20 @@ TP1:
 
 <img src="https://i.imgur.com/oYhcXFF.png">
 
-TB1:
-
-<img src="feature/outcome/insights4.png">
-
-<img src="feature/outcome/insights5.png">
-
-<img src="feature/outcome/insights6.png">
 TB2:
 <img src="feature/chapter1/contri1.jpeg">
 
 <img src="feature/chapter1/contri2.jpeg">
 
 <img src="feature/chapter1/contri3.jpeg">
+
+TF:
+
+<img src="feature/outcome/1.png">
+
+<img src="feature/outcome/2.png">
+
+<img src="feature/outcome/3.png">
 
 
 # Contenido
