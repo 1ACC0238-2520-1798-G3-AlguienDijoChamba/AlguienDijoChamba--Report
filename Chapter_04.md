@@ -1581,6 +1581,71 @@
       <br>En esta sección se exponen las Reflexiones sobre la Colaboración del Equipo durante el sprint, detallando las dinámicas de trabajo y las lecciones clave identificadas para la mejora continua del proceso.<br><br>
       <br>
 
+      | *Alumno*                           | *Actividad*                               |
+      |------------------------------------|-------------------------------------------|
+      | Bastidas Bastidas, Diego Martin    | , Backend, Frontend Android               |
+      | Belahonia Miranda, Fabrisio        | Frontend Flutter , Backend                |
+      | Dominguez Vargas, Rafael Alexander | Frontend Flutter , Backend, Landing Page  |
+      | Escobar Palomino, Sebastian Matias | Frontend Android     , Backend            |
+      | Muñiz Huayanca, Percy Alonso       | Frontend Flutter  , Backend               |
+
+      ## Report:
+
+      <div align="center">
+          <img src="./feature/chapter04/InsightSprint3/1.png">
+          </div>
+
+      <div align="center">
+          <img src="./feature/chapter04/InsightSprint3/2.png">
+          </div>
+
+      <div align="center">
+          <img src="./feature/chapter04/InsightSprint3/3.png">
+          </div>
+
+      ## Landing Page:
+
+      <div align="center">
+          <img src="./feature/chapter04/InsightSprint3/4.png">
+          </div>
+
+      <div align="center">
+          <img src="./feature/chapter04/InsightSprint3/5.png">
+          </div>
+
+      <div align="center">
+          <img src="./feature/chapter04/InsightSprint3/6.png">
+          </div>
+
+      ## Mobile Application Android:
+
+      <div align="center">
+          <img src="./feature/chapter04/InsightSprint3/7.png">
+          </div>
+
+      <div align="center">
+          <img src="./feature/chapter04/InsightSprint3/8.png">
+          </div>
+
+      <div align="center">
+          <img src="./feature/chapter04/InsightSprint3/9.png">
+          </div>
+
+       ## Mobile Application Flutter:
+
+      <div align="center">
+          <img src="./feature/chapter04/InsightSprint3/10.png">
+          </div>
+
+      <div align="center">
+          <img src="./feature/chapter04/InsightSprint3/11.png">
+          </div>
+
+      <div align="center">
+          <img src="./feature/chapter04/InsightSprint3/12.png">
+          </div>
+
+
 - **4.3. Validation Interviews**
 
      <br> En esta sección se muestran las preguntas y respuestas de las entrevistas<br><br>
@@ -1623,38 +1688,86 @@
 
     - **4.3.2. Registro de Entrevistas**
       <br> En esta sección se recopilan las entrevistas realizadas a los dos segmentos objetivo: Profesionales Técnicos y Clientes. Se registran las respuestas, observaciones y comentarios clave de cada participante, sirviendo como base para el análisis de necesidades y la posterior definición de requisitos del sistema.<br><br>
+      
+      ---
 
       **Entrevistas Segmento Objetivo 1: Profesionales Tecnicos**
 
       **Entrevista 1:**
       Datos del entrevistador:
-        - Nombre: Sebastian Matias Escobar Palomino
+        - Nombre: 
 
       Datos del entrevistado:
-        - Nombre:Diego Fuentes
-        - Edad: 21 años
-        - Distrito de residencia: Santa Anita
-        - Enlace: https://acortar.link/lcWDjG
-
-      <img src="feature/chapter04/Entrevista1">
-
-      **Entrevistas Segmento Objetivo 2: Profesionales Tecnicos**
-
-      **Entrevista 2:**
-      Datos del entrevistador:
-        - Nombre: Sebastian Matias Escobar Palomino
-
-      Datos del entrevistado:
-        - Nombre:Diego Fuentes
-        - Edad: 21 años
-        - Distrito de residencia: Santa Anita
-        - Enlace: https://acortar.link/lcWDjG
+        - Nombre: 
+        - Edad: 
+        - Distrito de residencia: 
+        - Enlace: [Entrevista1]()
 
       <img src="feature/chapter04/Entrevista1">
 
       **Resumen de la entrevista:**
 
-      Diego Fuentes considera que una aplicación como AlguienDijoChamba le ayudaría a expandirse un poco más y darse a conocer mejor como técnico, lo que le permitiría tener más trabajo disponible. Además, cree que las funcionalidades que se planean implementar son muy prácticas y diferenciarían esta aplicación de otras similares.
+      ..
+
+      ---
+    
+      **Entrevistas Segmento Objetivo 2: Profesionales Tecnicos**
+
+      **Entrevista 2:**
+      Datos del entrevistador:
+        - Nombre: 
+
+      Datos del entrevistado:
+        - Nombre: 
+        - Edad: 
+        - Distrito de residencia: 
+        - Enlace: [Entrevista2]()
+
+      <img src="feature/chapter04/Entrevista2">
+
+      **Resumen de la entrevista:**
+
+      ..
+
+      ---
+    
+      **Entrevistas Segmento Objetivo 3: Usuario Cliente**
+
+      **Entrevista 3:**
+      Datos del entrevistador:
+        - Nombre:
+
+      Datos del entrevistado:
+        - Nombre:
+        - Edad: 
+        - Distrito de residencia:
+        - Enlace: [Entrevista3]()
+
+      <img src="feature/chapter04/Entrevista3">
+
+      **Resumen de la entrevista:**
+
+      ..
+    
+      ---
+
+      **Entrevistas Segmento Objetivo 4: Usuario Cliente **
+
+      **Entrevista 4:**
+      Datos del entrevistador:
+        - Nombre:
+
+      Datos del entrevistado:
+        - Nombre:
+        - Edad:
+        - Distrito de residencia:
+        - Enlace: [Entrevista4]()
+
+      <img src="feature/chapter04/Entrevista4">
+
+      **Resumen de la entrevista:**
+
+      ..
 
     - **4.3.3. Evaluaciones según heurísticas**
 
@@ -1670,65 +1783,64 @@
         * **3 (Mayor):** Prioridad alta.
         * **4 (Crítico):** Bloqueo, corrección inmediata.
 
+        ### 📝 Tabla Resumen de Problemas de Usabilidad Encontrados
+        
+        | # | Problema Identificado                                                                                                                                | Severidad | Heurística Violada |
+        |---|------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
+        | 1 | No existe un botón de “cancelar” en el flujo de registro de técnicos, forzando a cerrar la app para salir.                                           | 3 | **Control y libertad del usuario** |
+        | 2 | El chat tarda en mostrar los últimos mensajes cuando se abre por primera vez.                                                                        | 3 | **Visibilidad del estado del sistema** |
+        | 3 | El registro de métodos de pago no explica los campos necesarios ni ejemplos, generando confusión en algunos usuarios.                                | 2 | **Ayuda y documentación** |
+        | 4 | La vista de gamificación  no explica claramente los beneficios adicionales de cada nivel.                                   | 2 | **Reconocimiento antes que recuerdo** |
 
-### 📝 Tabla Resumen de Problemas de Usabilidad Encontrados
+        ## 📝 Descripción Detallada de Problemas de Usabilidad
+        
+        ### PROBLEMA #1
+        
+        | Atributo               | Detalle                                                                                                                                                                                                                                  |
+        |:-----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+        | **Severidad**          | 3 (Mayor, Prioridad Alta)                                                                                                                                                                                                                |
+        | **Heurística Violada** | **Control y libertad del usuario**                                                                                                                                                                                                       |
+        | **Problema**           | No existe un botón de “cancelar” o “volver atrás” en el flujo de registro de técnicos, forzando a cerrar la app o a completar el registro para salir. Esto limita la libertad del usuario para abandonar una tarea que inició por error. |
+        | **Recomendación**      | Implementar un botón de "Cancelar" o un claro ícono de "Cerrar/Atrás" en la parte superior del flujo de registro. Al pulsarlo, el sistema debe preguntar al usuario si desea descartar el progreso.                                      |
+        
+        <img src="feature/chapter04/heuristica_1.png">
+        ---
 
-| # | Problema Identificado                                                                                                                                | Severidad | Heurística Violada |
-|---|------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
-| 1 | No existe un botón de “cancelar” en el flujo de registro de técnicos, forzando a cerrar la app para salir.                                           | 3 | **Control y libertad del usuario** |
-| 2 | El chat tarda en mostrar los últimos mensajes cuando se abre por primera vez.                                                                        | 3 | **Visibilidad del estado del sistema** |
-| 3 | El registro de métodos de pago no explica los campos necesarios ni ejemplos, generando confusión en algunos usuarios.                                | 2 | **Ayuda y documentación** |
-| 4 | La vista de gamificación  no explica claramente los beneficios adicionales de cada nivel.                                   | 2 | **Reconocimiento antes que recuerdo** |
-
-## 📝 Descripción Detallada de Problemas de Usabilidad
-
-### PROBLEMA #1
-
-| Atributo               | Detalle                                                                                                                                                                                                                                  |
-|:-----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Severidad**          | 3 (Mayor, Prioridad Alta)                                                                                                                                                                                                                |
-| **Heurística Violada** | **Control y libertad del usuario**                                                                                                                                                                                                       |
-| **Problema**           | No existe un botón de “cancelar” o “volver atrás” en el flujo de registro de técnicos, forzando a cerrar la app o a completar el registro para salir. Esto limita la libertad del usuario para abandonar una tarea que inició por error. |
-| **Recomendación**      | Implementar un botón de "Cancelar" o un claro ícono de "Cerrar/Atrás" en la parte superior del flujo de registro. Al pulsarlo, el sistema debe preguntar al usuario si desea descartar el progreso.                                      |
-<img src="feature/chapter04/heuristica_1.png">
-
----
-
-### PROBLEMA #2
-
-| Atributo               | Detalle                                                                                                                                                                                                      |
-|:-----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Severidad**          | 3 (Mayor, Prioridad Alta)                                                                                                                                                                                    |
-| **Heurística Violada** | **Visibilidad del estado del sistema**                                                                                                                                                                       |
-| **Problema**           | El chat tarda en mostrar los últimos mensajes cuando se abre por primera vez. Esto provoca una sensación de lentitud o de fallo en la carga, dejando al usuario sin saber si la aplicación está funcionando. |
-| **Recomendación**      | Implementar un indicador de carga visible y contextual (spinner o skeleton screen) mientras se recuperan los últimos mensajes del servidor para mantener informado al usuario en todo momento.               |
-
-<img src="feature/chapter04/heuristica_2.png">
----
-
-### PROBLEMA #3
-
-| Atributo               | Detalle                                                                                                                                                                                       |
-|:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Severidad**          | 2 (Menor, Prioridad Baja)                                                                                                                                                                     |
-| **Heurística Violada** | **Ayuda y documentación**                                                                                                                                                                     |
-| **Problema**           | El formulario de registro de métodos de pago no proporciona explicaciones ni ejemplos sobre los campos requeridos (ej. formato de tarjeta), generando confusión e incluso errores de entrada. |
-| **Recomendación**      | Añadir texto de ayuda (tooltips), ejemplos dentro de los campos de entrada (placeholders) y mensajes de error claros e informativos que guíen al usuario sobre el formato esperado.           |
-
-<img src="feature/chapter04/heuristica_3.png">
----
-
-### PROBLEMA #4
-
-| Atributo               | Detalle                                                                                                                                                                   |
-|:-----------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Severidad**          | 2 (Menor, Prioridad Baja)                                                                                                                                                 |
-| **Heurística Violada** | **Reconocimiento antes que recuerdo**                                                                                                                                     |
-| **Problema**           | La vista de gamificación (niveles Bronce-Plata-Oro) no explica claramente los beneficios adicionales que el técnico o cliente obtiene al alcanzar un nivel superior.      |
-| **Recomendación**      | Listar de forma clara y concisa los beneficios de cada nivel justo en la misma vista de gamificación para motivar la progresión y asegurar que la información es visible. |
-
-<img src="feature/chapter04/heuristica_4.png">
-
+        ### PROBLEMA #2
+        
+        | Atributo               | Detalle                                                                                                                                                                                                      |
+        |:-----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+        | **Severidad**          | 3 (Mayor, Prioridad Alta)                                                                                                                                                                                    |
+        | **Heurística Violada** | **Visibilidad del estado del sistema**                                                                                                                                                                       |
+        | **Problema**           | El chat tarda en mostrar los últimos mensajes cuando se abre por primera vez. Esto provoca una sensación de lentitud o de fallo en la carga, dejando al usuario sin saber si la aplicación está funcionando. |
+        | **Recomendación**      | Implementar un indicador de carga visible y contextual (spinner o skeleton screen) mientras se recuperan los últimos mensajes del servidor para mantener informado al usuario en todo momento.               |
+        
+        <img src="feature/chapter04/heuristica_2.png">
+        ---
+        
+        ### PROBLEMA #3
+        
+        | Atributo               | Detalle                                                                                                                                                                                       |
+        |:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+        | **Severidad**          | 2 (Menor, Prioridad Baja)                                                                                                                                                                     |
+        | **Heurística Violada** | **Ayuda y documentación**                                                                                                                                                                     |
+        | **Problema**           | El formulario de registro de métodos de pago no proporciona explicaciones ni ejemplos sobre los campos requeridos (ej. formato de tarjeta), generando confusión e incluso errores de entrada. |
+        | **Recomendación**      | Añadir texto de ayuda (tooltips), ejemplos dentro de los campos de entrada (placeholders) y mensajes de error claros e informativos que guíen al usuario sobre el formato esperado.           |
+        
+        <img src="feature/chapter04/heuristica_3.png">
+        ---
+        
+        ### PROBLEMA #4
+        
+        | Atributo               | Detalle                                                                                                                                                                   |
+        |:-----------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+        | **Severidad**          | 2 (Menor, Prioridad Baja)                                                                                                                                                 |
+        | **Heurística Violada** | **Reconocimiento antes que recuerdo**                                                                                                                                     |
+        | **Problema**           | La vista de gamificación (niveles Bronce-Plata-Oro) no explica claramente los beneficios adicionales que el técnico o cliente obtiene al alcanzar un nivel superior.      |
+        | **Recomendación**      | Listar de forma clara y concisa los beneficios de cada nivel justo en la misma vista de gamificación para motivar la progresión y asegurar que la información es visible. |
+        
+        <img src="feature/chapter04/heuristica_4.png">
+        ---
 
 
 ## **Conclusiones**
