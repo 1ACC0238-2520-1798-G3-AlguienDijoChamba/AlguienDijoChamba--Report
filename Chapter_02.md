@@ -7,6 +7,9 @@
   | **Ayfix**                                                  | Conecta a técnicos con usuarios para limpieza y reparaciones comunes, usando como canales principales apps móviles y páginas web.    | Canal de distribución principal: Aplicaciones de descarga y páginas web           | <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQupxHnI-Nv3HXRk4g3yrOiJyiCWJt9SuBYKHbZyI1FhkSG8v8Yn9j1tG2ElMZ5z8vy-fMJ1CvezZGPVLwA8nb5o5_Qsx8WVNhej_TC1YXp_1RvBROBO2zFKa5lybz9T9snOGzRg?key=7rHwqlj_RdIsExdWTIYPrLCO" /> |
   | **Servicio Técnico de empresas como Sodimac o Maestro**    | Ofrecen mantenimiento del hogar, pero con procesos más tradicionales y menor flexibilidad en comparación con plataformas digitales.  | Canal de distribución principal: Página web, tienda física y atención telefónica. | <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfAk3n-xv8nhRYxZsWZm3wb_QYbbHg8fe9zXodXQVETc1OQTdQihFHRXWWt6ElvAi2wpAwbY98pOZXFSLkLcxlZsaD1y_X4RX6OR35ix_58EQbldSAmt7jF7D2DKb-dEi56HAeDbA?key=7rHwqlj_RdIsExdWTIYPrLCO"/>  |
   | **Sistemas de domótica (como Google Nest o Xiaomi Home)**  | Ofrecen soluciones inteligentes para el hogar, pero con costos elevados y sin conexión directa con técnicos locales.                 | Canal de distribución principal: Página web y tienda física.                      | <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdonNQaiL2E0e4X5_Uz6KIHTyCuVqdWzz0q550v4adqZF983mpBHpLrvdQB9ZO0WqiqdGk3w1N5lDZ36KeZ8ijedQdV4qTQCD5DnIyMLQNnM-urCB-A8xlJzLkQ5dvk7v7rngffsQ?key=7rHwqlj_RdIsExdWTIYPrLCO"/>  |
+    <br>
+    ---
+    <br>
 
     - **2.1.1. Análisis competitivo**
       <br>En esta sección se identifica y compara a los principales competidores en el mercado de servicios técnicos, evaluando sus fortalezas, debilidades, alcance geográfico, estrategias de marketing y propuesta de valor.<br><br>
@@ -104,6 +107,9 @@
             <td align="center">Preferencia de usuarios por alternativas más simples y económicas.</td>
             </tr>
         </table>
+    <br>
+    ---
+    <br>
 
     - **2.1.2. Estrategias y tácticas frente a competidores**
   <br>Esta sección describe las acciones planificadas para diferenciar la plataforma frente a competidores, enfocándose en la propuesta de valor, presencia digital, generación de confianza, beneficios iniciales para usuarios y ventajas para los técnicos. Se busca fortalecer la posición en el mercado mediante facilidad de uso, rapidez en la atención y fidelización de ambos segmentos objetivo.<br><br>
@@ -116,6 +122,10 @@
       **Beneficios iniciales:** Ofrecer promociones y descuentos de lanzamiento, junto con un sistema de gamificación (niveles Bronce, Plata, Oro) que brinde beneficios como descuentos, soporte prioritario y técnicos preferenciales.
 
       **Valor para técnicos:** Implementar pagos instantáneos al finalizar el servicio, eliminando esperas y motivando a los profesionales a preferir la plataforma.
+      <br>
+    ---
+    <br>
+
 - **2.2. Entrevistas**
   <br> Esta sección se agrupa todo el proceso relacionado con la realización de entrevistas a los segmentos objetivo, incluyendo el registro de las mismas y el análisis de la información obtenida. Permite identificar necesidades, expectativas y puntos de dolor de los usuarios, sirviendo como insumo principal para el diseño del producto.<br><br>
     - **2.2.1. Diseño de entrevistas**
@@ -148,6 +158,9 @@
         9. ¿Qué opinas de que los técnicos reciban el pago inmediatamente al finalizar el servicio? ¿Crees que eso aumentaría tu confianza como usuario?
            Pensando en una app como AlguienDijoChamba, ¿qué funciones te serían más útiles? (ejemplo: chat con técnicos, historial de servicios, alertas, cotización inmediata, pagos digitales, etc.)
         10. Pensando en una app como AlguienDijoChamba, ¿qué funciones te serían más útiles? (ejemplo: chat con técnicos, historial de servicios, alertas, cotización inmediata, pagos digitales, etc.)
+<br>
+---
+<br>
 
 - **2.2.2. Registro de entrevistas**
   <br> En esta sección se recopilan las entrevistas realizadas a los dos segmentos objetivo: Profesionales Técnicos y Clientes. Se registran las respuestas, observaciones y comentarios clave de cada participante, sirviendo como base para el análisis de necesidades y la posterior definición de requisitos del sistema.<br><br>
@@ -250,6 +263,9 @@
   **Resumen de la entrevista:**
 
   Ángel ve a AlguienDijoChamba como una oportunidad para resolver problemas de informalidad, costos inesperados y falta de garantías en los servicios técnicos. Considera que la verificación de técnicos, la transparencia en precios y los pagos digitales inmediatos son elementos esenciales. Además, valora la incorporación de un sistema de niveles con beneficios y la posibilidad de integrar monitoreo inteligente en el hogar, lo cual refuerza el atractivo de la plataforma.
+<br>
+---
+<br>
 
 - **2.2.3. Análisis de entrevistas**
   <br> En este apartado se documenta el análisis de las entrevistas realizadas a los dos segmentos objetivo: Profesionales Técnicos y Clientes. El propósito es identificar patrones, necesidades, frustraciones y expectativas de cada grupo para fundamentar el diseño del sistema y priorizar funcionalidades. <br><br>
@@ -263,6 +279,9 @@
 
   ### Conclusión
   En general, las entrevistas confirmaron que AlguienDijoChamba responde a necesidades reales. Los clientes buscan seguridad, transparencia y facilidad. Los técnicos necesitan herramientas para crecer profesionalmente y llegar a más personas. Ambos segmentos mostraron interés en la propuesta y en las funcionalidades planteadas, lo cual refuerza el valor de la plataforma que estamos construyendo.
+<br>
+---
+<br>
 
 - **2.3. Needfinding**
   <br> En esta sección se identifican y analizan las necesidades de los distintos tipos de usuarios del sistema. Este análisis permite priorizar funcionalidades y diseñar soluciones que respondan de manera efectiva a los problemas y expectativas de cada segmento de usuarios. <br><br>
@@ -297,7 +316,10 @@
         - Para los **técnicos**, las actividades más críticas son **recibir notificaciones** y **aceptar/rechazar solicitudes**, ya que determinan la generación de ingresos y la continuidad de su trabajo.
         - Para los **clientes**, las tareas más frecuentes y de mayor importancia están relacionadas con la **búsqueda, revisión de perfiles, agenda y calificación de técnicos**, lo que       refleja la necesidad de confianza y eficiencia en el proceso de contratación.
         - En ambos segmentos, la **gamificación** aparece como una oportunidad para mantener el compromiso, incentivar la participación y generar un ecosistema más dinámico.
-        - Finalmente, tareas iniciales como el **registro** o completar el perfil, aunque se realizan una sola vez, tienen un peso alto en la experiencia inicial del usuario, por lo que deben diseñarse de forma simple e intuitiva.
+          - Finalmente, tareas iniciales como el **registro** o completar el perfil, aunque se realizan una sola vez, tienen un peso alto en la experiencia inicial del usuario, por lo que deben diseñarse de forma simple e intuitiva.
+    <br>
+    ---
+    <br>
 
     - **2.3.3. User Journey Mapping**
       <br> En esta seccion describiremos visualmente las interacciones de los usuarios con el sistema, mostrando los pasos, emociones y puntos de contacto clave.<br><br>
@@ -308,6 +330,9 @@
       **Segmento Objetivo 2: Clientes**
 
       ![User Journey Mapping Segmento 2](./feature/chapter02/User_Journey_Mapping_Cliente.png)
+    <br>
+    ---
+    <br>
 
     - **2.3.4. Empathy Mapping**
 
@@ -324,6 +349,11 @@
       --- 
 
       ![Empaty Mapping Segmento 2](./feature/chapter02/Empaty_Mapping_Segmento_2.png)
+
+<br>
+---
+<br>
+
 - **2.4. Ubiquitous Language**<br>
   <br> En esta sección se define el lenguaje ubicuo del dominio, es decir, los términos, conceptos y definiciones compartidos entre desarrolladores, expertos del negocio y demás stakeholders. Esto garantiza comunicación clara, evita ambigüedades y facilita la alineación entre el modelo de dominio y la implementación del sistema. <br>
 
@@ -343,6 +373,9 @@
   | **Gamification (Gamificación)**         | Sistema de incentivos basado en puntos, niveles (Bronce, Plata, Oro) y recompensas, diseñado para motivar la participación activa y la fidelización de clientes y técnicos. |
   | **Level (Nivel)**                       | Categoría alcanzada dentro del sistema de gamificación (ej. Bronce, Plata, Oro) que refleja la participación, reputación y logros de un usuario en la plataforma.           |
   | **Reward (Recompensa)**                 | Beneficio tangible o intangible otorgado a clientes o técnicos como resultado de su participación y logros en la plataforma.                                                |
+<br>
+---
+<br>
 
 - **2.4. Requirements specification**
   <br> Esta sección detalla la especificación de requisitos del sistema, incluyendo funcionales, no funcionales, restricciones y criterios de aceptación. Proporciona una guía clara para el desarrollo y asegura que todas las necesidades de los usuarios y del negocio estén correctamente documentadas y comprendidas. <br><br>
@@ -2604,6 +2637,9 @@
           </td>
         </tr>
       </table>
+    <br>
+    ---
+    <br>
 
     - **2.4.2. Impact Mapping**
       <br> En esta sección se presenta el Impact Mapping del proyecto, mostrando cómo los objetivos del negocio se relacionan con los segmentos de usuarios y las funcionalidades del sistema. Se incluyen los mapas de impacto para los profesionales técnicos y para los clientes, facilitando la identificación de prioridades y la alineación de desarrollo con los objetivos estratégicos. <br><br>
@@ -2615,6 +2651,10 @@
       **Segmento Objetivo 2: Clientes**
 
       ![User Journey Mapping Segmento 2](./feature/chapter02/ImpactMap_Clientes.png)
+  
+    <br>
+    ---
+    <br>
 
     - **2.4.3. Product Backlog**
       <br> En esta sección se detalla el Product Backlog del proyecto, incluyendo la lista priorizada de funcionalidades, mejoras y correcciones a implementar. Cada ítem contiene descripciones claras, criterios de aceptación y estimaciones de esfuerzo, facilitando la planificación y seguimiento del desarrollo ágil. <br>
@@ -2696,11 +2736,9 @@
         <tr><td>48</td><td>SP-07</td><td>Investigar Notificaciones de Nueva Solicitud</td><td>5</td></tr>
       </table>
 
-
-
-
-
-
+<br>
+---
+<br>
 
 - **2.5. Strategic-Level Domain-Driven Design**
   <br> En esta sección se aborda el diseño estratégico del dominio, identificando los bounded contexts, agregados y relaciones entre subdominios. Se busca organizar el sistema a un nivel macro para garantizar coherencia, modularidad y alineación con los objetivos de negocio. <br><br>
@@ -2758,6 +2796,10 @@
     </div>
     <br>
 
+    <br>
+    ---
+    <br>
+
     - **2.5.1.1. Candidate Context Discovery**
 
       La técnica Start-With-Value, de DDD y diseño centrado en el usuario, propone modelar el dominio empezando por el valor que debe entregar. La usamos para definir los eventos clave de nuestros bounded contexts y el valor que espera el usuario.
@@ -2770,11 +2812,19 @@
       | **Technician Catalog (Catálogo de Profesionales)**    | Ver detalles de los profesionales y realizar solicitudes de servicios                                                     | Perfil profesional visualizado, solicitud de servicio enviada, perfil actualizado              |
       | **Tec-Section (Sección Técnica)**                     | Gestionar las solicitudes de servicio, la disponibilidad de los profesionales y confirmar la finalización de los trabajos | Solicitud de servicio confirmada, disponibilidad actualizada, servicio completado              |
 
+    <br>
+    ---
+    <br>
+
     - **2.5.1.2. Domain Message Flows Modeling**
       El Domain Storytelling es una técnica visual y colaborativa que permite descubrir y compartir el conocimiento sobre un dominio de negocio. Su objetivo principal es generar una comprensión común del funcionamiento de un proceso empresarial específico entre las distintas partes involucradas, como los expertos del negocio y los equipos técnicos.
 
       Por esta razón, realizamos los domain storytelling enfocados en las conexiones entre los bounded contexts, con el fin de analizar y comprender de manera más profunda la lógica del negocio.
       <img src="./feature/chapter02/modeling.jpeg"/>
+
+    <br>
+    ---
+    <br>
 
     - **2.5.1.3. Bounded Context Canvases**
 
@@ -2811,6 +2861,10 @@
         </div>
         <br>
 
+    <br>
+    ---
+    <br>
+
     - **2.5.2. Context Mapping**
 
       En esta sección se presenta el Context Map desarrollado para el negocio Alguien Dijo Chamba, el cual muestra las interacciones y relaciones estructurales entre los distintos Bounded Contexts identificados. El objetivo de este ejercicio es comprender cómo se comunican y dependen entre sí las diferentes partes del dominio, aplicando los patrones de Domain-Driven Design (DDD) pertinentes, tales como Upstream/Downstream y Conformist.
@@ -2820,6 +2874,10 @@
           <img src="./feature/chapter02/aaa.png"/>
           </div>
           <br>
+      
+    <br>
+    ---
+    <br>
 
     - **2.5.3. Software Architecture**
       <br> En esta sección se presentan los diagramas de arquitectura de software a diferentes niveles de abstracción. Los diagramas de contexto muestran los actores y sistemas externos que interactúan con la aplicación; los diagramas de contenedor detallan los componentes principales, servicios y bases de datos; y los diagramas de despliegue representan la distribución física de los contenedores y la infraestructura que soporta la aplicación. <br><br>
@@ -2841,6 +2899,10 @@
           <img src="./feature/chapter02/DeployDiagram.png"/>
           </div>
           <br>
+<br>
+---
+<br>
+
 - **2.6. Tactical-Level Domain-Driven Design**
   <br> En esta sección se describe el diseño táctico de los bounded contexts del sistema, aplicando los principios de Domain-Driven Design (DDD) para estructurar las capas de dominio, aplicación, infraestructura e interfaces, asegurando que cada contexto encapsule su lógica, persistencia y comunicación de manera coherente y alineada con los objetivos del negocio. <br><br>
     - **2.6.1. Bounded Context: Technician-Catalog**
@@ -2913,7 +2975,10 @@
           <img src="./feature/chapter02/Tactical_Level_Domain_Driven_Design/1_Catalog/1_Bounded_Context_Software_Architecture_Component_Level_Diagrams.png"/>
           </div>
           <br>
-          
+          <br>
+          ---
+          <br>
+
         - **2.6.1.6. Bounded Context Software Architecture Code Level Diagrams**    
             - **2.6.1.6.1. Bounded Context Domain Layer Class Diagrams**<br>
           
@@ -2976,6 +3041,9 @@
           | score          | int           | Puntaje asignado (1–5).                          |
           | comment        | varchar(300)  | Comentario escrito por el cliente.               |
           | created\_at    | datetime      | Fecha y hora en que se registró la calificación. |
+    <br>
+    ---
+    <br>
 
     - **2.6.2. Bounded Context: Payments**
     <br> En el bounded context Payments veremos la gestión integral de los pagos dentro del sistema, incluyendo su registro, validación, procesamiento y posibles reembolsos. Este módulo asegura la correcta ejecución de las transacciones financieras entre Customers y Technicians, manteniendo la integridad y trazabilidad de cada operación. <br>
@@ -3082,6 +3150,9 @@
             | payment_id (FK)         | uuid        | ID del pago relacionado               |
             | method                  | varchar(50) | Método de la transacción              |
             | timestamp               | timestamp   | Marca de tiempo de la transacción     |
+    <br>
+    ---
+    <br>
 
     - **2.6.3. Bounded Context: Alerts**
     <br> En el bounded context Alerts veremos la gestión completa de las alertas del sistema, incluyendo su creación, consulta y actualización. Este módulo permite notificar a Customers y Technicians sobre eventos importantes, garantizando una comunicación clara y oportuna dentro de la plataforma. <br>
@@ -3180,6 +3251,10 @@
             | Technician_id  | int           | ID del Technician relacionado     |
             | created_at     | datetime      | Fecha de creación de la alerta    |
             | updated_at     | datetime      | Fecha de última actualización     |
+      
+    <br>
+    ---
+    <br>
 
     - **2.6.4. Bounded Context: Tec-Section**
     <br> En el bounded context Tec-Section se desarrolla la gestión de solicitudes de trabajo y perfiles técnicos. Este módulo permite crear, asignar y completar servicios entre Customers y Technicians, garantizando un flujo ordenado, trazable y eficiente en la ejecución de tareas dentro de la plataforma. <br>
@@ -3293,6 +3368,10 @@
             | Technician_id            | int           | ID del Technician relacionado (FK)               |
             | created_at               | datetime      | Fecha de creación de la solicitud                |
             | updated_at               | datetime      | Fecha de última actualización de la solicitud    |
+
+    <br>
+    ---
+    <br>
 
     - **2.6.5. Bounded Context: IAM**
     <br> En el bounded context IAM se aborda la gestión de identidad y acceso de los usuarios dentro del sistema. Este módulo garantiza la autenticación, autorización y registro seguro, mediante el manejo de credenciales, roles, tokens JWT y auditoría de eventos críticos, asegurando la integridad y trazabilidad del acceso a los servicios. <br>
