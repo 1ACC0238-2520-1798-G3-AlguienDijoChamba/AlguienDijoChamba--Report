@@ -21,6 +21,10 @@
 | ![Sebastian](./feature/chapter1/Sebastianpfp.png) | **Nombre y Apellido:** Sebastian Escobar Palomino  <br> **Carrera:** Ingeniería de Software <br> **Acerca de:** Me comprometo a contribuir al máximo en el grupo y cumplir con las entregas dentro del plazo establecido. Busco mantener una comunicación efectiva con mis compañeros y aplicar mis habilidades para el desarrollo de las tareas asignadas en este proyecto.                                                                                |
 |     ![Alonso](./feature/chapter1/Alonso.png)      | **Nombre y Apellido:** Percy Alonso Muñiz Huayanca <br> **Carrera:** Ingeniería de Software <br> **Acerca de:** Soy una persona responsable, creativa y empática, cualidades que me permiten establecer buenas conexiones con quienes me rodean. Valoro el trabajo en equipo porque me da la oportunidad de compartir ideas y aprender de otras perspectivas. Tengo conocimientos en C++, HTML, CSS, entre otros, y me apasiona el Frontend y el Diseño UX. |
 
+<br>
+---
+<br>
+
 - **1.2. Solution Profile**
   <br>En esta sección se describe de manera general la solución propuesta, detallando nuestros objetivos principales, funcionalidades clave y el valor que aportamos tanto a los usuarios finales como a los técnicos.<br><br>
     - **1.2.1 Antecedentes y problemática**
@@ -39,6 +43,9 @@
           A través de una aplicación y página web intuitiva, los usuarios podrán localizar y contactar profesionales verificados según su ubicación, calificación y especialidad. Los técnicos recibirán pagos inmediatos al finalizar cada servicio, fortaleciendo la confianza, formalización y compromiso dentro de la comunidad digital. Además, el sistema de calificaciones y comentarios permitirá a los usuarios tomar decisiones más seguras, mientras que el esquema de gamificación fomentará la competitividad positiva entre los profesionales.
         - How much (¿Cuánto?)<br>
           El modelo de negocio de AlguienDijoChamba seguirá un enfoque freemium, ofreciendo acceso gratuito tanto a usuarios como a técnicos, con ingresos generados a través de comisiones por servicios concretados. Se incluirá también un plan premium con beneficios exclusivos, dirigido a usuarios frecuentes y técnicos destacados. Este enfoque ha demostrado ser sostenible en startups digitales, permitiendo captar usuarios iniciales y convertir hasta un 10% en suscriptores pagos en etapas de maduración (Pujol, 2022).
+    <br>
+    ---
+    <br>
 
     - **1.2.2 Lean UX Process**
       <br>En esta sección presentaremos el Lean UX Process, describiendo cómo se aplican iteraciones rápidas de diseño y validación con usuarios para mejorar la experiencia del producto mediante ciclos cortos de prueba y ajuste.<br><br>
@@ -99,6 +106,7 @@
           Los técnicos independientes verán valor en registrarse para ampliar su base de clientes.  
           Un modelo freemium con opción premium será sostenible a largo plazo.
           <br> <br>
+
       - **1.2.2.3. Lean UX Hypothesis Statements**
       <br> A continuación, detallamos las Declaraciones de Hipótesis Lean UX que guiarán el desarrollo de nuestro producto, identificando los resultados esperados y las métricas clave para validar nuestras suposiciones más críticas.<br><br> 
       **Hipótesis 1:**  
@@ -125,7 +133,10 @@
       ![Lean UX Canvas](./feature/chapter1/Lean%20UX%20Canvas.png)
 
         Link: https://acortar.link/q1C2B8
-      
+
+<br>
+---
+<br>
 
 - **1.3. Segmentos objetivo**
   <br>A continuación, se describen los dos segmentos objetivo principales que abordará la plataforma, detallando sus características, necesidades específicas y motivaciones de uso.<br><br>
