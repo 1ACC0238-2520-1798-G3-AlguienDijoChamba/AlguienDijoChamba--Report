@@ -1467,10 +1467,6 @@
 
 <img src="feature/chapter04/heuristica_4.png">
 
-### Próximos Pasos
-
-¿Te gustaría que desarrolle un plan de acción para los **problemas de severidad 3** (alta prioridad) o que detalle las recomendaciones específicas para alguna tarea evaluada?
-
 
 
 ## **Conclusiones**
@@ -1527,4 +1523,4 @@ La integración de herramientas modernas, buenas prácticas de desarrollo y una 
 
 **Link del About the Team:** [https://about-the-team/](https://youtu.be/2QE6zWPj_JU)
 
-**Link de la explicacion del Landing Page:** [https://landing-page-explication/]()
+**Link de la explicacion del Landing Page:** [https://landing-page-explication/](https://youtu.be/R9_WCaYcq0Q)
